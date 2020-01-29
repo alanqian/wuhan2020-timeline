@@ -1,7 +1,12 @@
-wuhan2020-timeline凡例
+wuhan2020-timeline
 ====================
-内容简介：本仓库尝试记录自2018年11月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后可靠的信息，因为假若敏感内容，墙内容易炸号，故有此文。
+内容简介：本仓库尝试记录自2018年11月起武汉新冠肺炎疫情进展的时间线，尽可能搜集经敝人筛查后可靠的信息，因为假若敏感内容，墙内容易炸号，故有此文。<br>
 
+[疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)
+===========================================================
+
+凡例
+====
 ## 采录内容包括：
 ### 一、官方信息
 #### （一）官方媒体的微博、微信官方公众号
@@ -13,6 +18,7 @@ wuhan2020-timeline凡例
 [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
 [武汉市人民政府门户网站](http://www.wuhan.gov.cn/)<br>
 [武汉卫生健康委员会官网](http://wjw.wuhan.gov.cn/)<br>
+[武汉疾病控制预防中心](http://www.whcdc.org/)
 [武汉市文化旅游局官网](http://wlj.wuhan.gov.cn/html/index.html)<br>
 [武汉市公安局](http://gaj.wuhan.gov.cn/jwgk/index.jhtml)
 #### （三）医院报告
