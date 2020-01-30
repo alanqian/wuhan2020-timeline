@@ -126,6 +126,7 @@
 [世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。](https://weibo.com/2656274875/IryC5cLh5?type=comment#_rnd1580291594764)<br>
 [下午，武汉市长周先旺接受央视采访，承认前期未获得授权，信息披露不及时，表示愿意革职以谢天下。](http://m.china.caixin.com/m/2020-01-27/101508817.html?cxw=IOS&Sfrom=WechatMoments&from=timeline)<br>
 [晚间，湖北省召开新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会。湖北省委副书记、武汉市委书记马国强指出，所有捐赠的物资一定要通过红十字会。](https://weibo.com/1638782947/IrBUT4c6g?type=comment)<br>
+[稳健医疗发布公告《这些天，稳健医疗做了什么》](http://www.winnermedical.cn/cn/newsdetail/106/666.html)<br>
 
 ## 2020年1月28日 初四
  [习近平会见世界卫生组织总干事谭德塞，表示自己一直亲自指挥、亲自部署，相信只要我们坚定信心、同舟共济、科学防治、精准施策，我们一定会战胜这一次疫情。](https://mp.weixin.qq.com/s/-z1Yz0VmKdhPE0QkpFea6g)<br>
@@ -139,5 +140,7 @@
 [河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)
 [寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会](https://weibo.com/6004281123/IrKeCw66P)<br>
 [家人被隔离湖北17岁脑瘫儿在家6天死亡](https://weibo.com/1974576991/IrQykt0uo)<br>
-
+[平安武汉发再次发布关于8人造谣的情况通报](https://weibo.com/2418542712/IrISGCgs6)<br>
 ## 2020年1月30日 初六
+
+[央视新闻发布《网友在线“云监工” 新“爱豆”组团出道！》二十四小时直播火神山、雷神山医院施工现场](https://mp.weixin.qq.com/s/AL16I7a2c6BKl7jannCBbw)<br>
