@@ -167,11 +167,13 @@
 
 ## 2020年1月29日 初五
 湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第七场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016548.shtml)。<br>
-晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY?ref=collection)。<br>
+晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY?ref=collection)，并[向医护人员鞠躬](https://weibo.com/2656274875/IrLLnxlV6?ref=collection&type=comment)。<br>
 [河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)<br>
 [寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会。](https://weibo.com/6004281123/IrKeCw66P)<br>
+[央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ?refer_flag=1001030103_&type=comment)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>
 [平安武汉](https://weibo.com/2418542712/IrISGCgs6)发再次发布关于8人造谣的情况通报。<br>
 
 ## 2020年1月30日 初六
 9时，[《环球时报》官方微博](https://weibo.com/1974576991/IrQykt0uo)报道，家人被隔离湖北17岁脑瘫儿在家6天死亡。<br>
 [央视新闻发布《网友在线“云监工” 新“爱豆”组团出道！》二十四小时直播火神山、雷神山医院施工现场](https://mp.weixin.qq.com/s/AL16I7a2c6BKl7jannCBbw)<br>
+[央视新闻](https://m.weibo.cn/status/4466507842937906?wm=3333_2001&sourcetype=weixin&featurecode=newtitle&from=timeline&isappinstalled=0)报道，中央派出督查组，黄冈疾控负责人一问三不知。<br>
