@@ -35,6 +35,8 @@ wuhan2020-timeline
 * [财新网微博](https://weibo.com/caixincn)<br>
 * [三联生活周刊微博](https://weibo.com/lifeweek)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
+* [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+
 ### 三、企业信息
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
 ### 四、社会舆情
