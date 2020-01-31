@@ -19,6 +19,7 @@ wuhan2020-timeline
 #### （一）官方媒体的微博、微信官方公众号
 * [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)<br>
 * [央视新闻微博](https://weibo.com/cctvxinwen)<br>
+* [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)<br>
 #### （二）政府网站
 * [中国政府网_中央人民政府门户网站](http://www.gov.cn/)<br>
