@@ -1,6 +1,7 @@
 疫情与舆情：武汉新冠肺炎时间线TIMELINE
 ==============
-
+## 2019年12月1日
+* 出现第一位武汉市民有不明原因肺炎症状。见[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)
 ## 2019年12月8日
 * 武汉市民就诊，和随后27例人被诊断为不明肺炎病症。
 
@@ -196,6 +197,7 @@
 ## 2020年1月29日 初五
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第九份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/1c259a68d81d40abb939a0781c1fe237.shtml)，截至1月28日24时，国家卫生健康委收到31个省（区、市）累计报告确诊病例5974例，超过2003年SARS国内确诊病例5327。<br>
 * 湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第七场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016548.shtml)。<br>
+* 16时，[韩红微博](https://weibo.com/1922542315/IrJQn3rLs?from=page_1004061922542315_profile&wvr=6&mod=weibotime&type=comment)提供北京韩红爱心慈善基金会捐款地址，表示“信得过，您就捐”。<br>
 * 晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY?ref=collection)，并[向医护人员鞠躬](https://weibo.com/2656274875/IrLLnxlV6?ref=collection&type=comment)。<br>
 * [河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)
 * [寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会](https://weibo.com/6004281123/IrKeCw66P)<br>
