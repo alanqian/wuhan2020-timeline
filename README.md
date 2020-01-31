@@ -21,6 +21,7 @@ wuhan2020-timeline
 #### （二）政府网站
 * [中国政府网_中央人民政府门户网站](http://www.gov.cn/)<br>
 * [中华人民共和国国家卫生健康委员会官网](http://www.nhc.gov.cn/)<br>
+* [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
 * [湖北省卫生健康委员会官网](http://wjw.hubei.gov.cn/)<br>
 * [武汉市人民政府门户网站](http://www.wuhan.gov.cn/)<br>
