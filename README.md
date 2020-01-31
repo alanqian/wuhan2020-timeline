@@ -8,7 +8,8 @@ wuhan2020-timeline
 凡例
 ====
 *  时间线梳理以官媒信息为经，以民营媒体、自媒体为纬，以事系日，着力关注疫情的扩展与舆论场域，力图呈现武汉新冠肺炎始末；
-*  信息或实或伪，一一注明出处。为避免微信公众号文章被销毁、抑或微博内容404、自媒体发布内容自行删除，部分敏感内容统一备份至Issues（标题可带上标识，微信公号文章用article，学术论文用paper），时间线上直接跳转至Issues。官方媒体的信息一般不会删除，故时间线上直接跳转至官媒的链接。采用信息目录分类见附录。
+*  [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)项目关于疫情的发布更细致，以后本项目着重关注舆情。
+*  信息或实或伪，一一注明出处。为避免微信公众号文章被销毁、抑或微博内容404、自媒体发布内容自行删除，部分敏感内容统一备份至Issues（标题可带上标识，微信公号文章用article，学术论文用paper），时间线上直接跳转至Issues。官方媒体的信息一般不会删除，故时间线上直接跳转至官媒的链接。采用信息目录分类见附录；
 *  以本人为主编写，时间精力有限，尽可能补齐前期各方面信息，时间线内容有一天左右延期。
 *  时间线体例参照本人编写。
 *  欢迎有心的朋友补充信息！
@@ -43,6 +44,7 @@ wuhan2020-timeline
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+* [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
 
 ### 三、企业信息
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
