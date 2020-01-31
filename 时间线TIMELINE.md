@@ -188,6 +188,7 @@
 *  17时 [林郑月娥：内地暂停发出来港个人游签注；高铁香港段、城际直通车、内地航班暂停。](https://weibo.com/1618051664/IrAAW5QTK?type=comment#_rnd1580291171708) <br>
 *  21时 [澎湃新闻：家属口述｜一个“重症肺炎”患者的最后12天](https://github.com/Pratitya/wuhan2020-timeline/issues/1#issue-556638979)<br>
 *  22时 [林俊杰发布新歌《I’ll Stay With You》，为武汉加油。](https://weibo.com/1195354434/IrCDH0SUn?type=comment)<br>
+*  广电总局宣传司每天统筹全国卫视节目编排，指导加强疫情防控报道，减少娱乐性节目，并及时发布36家卫视全天节目指引。除湖北外，湖南、浙江、安徽、重庆等多家省级卫视均开设了抗击疫情新闻直播节目和特别报道，及时发布权威信息。
 *  [在人间 | 妈妈在武汉隔离病房去世](https://github.com/Pratitya/wuhan2020-timeline/issues/15)<br>
 
 ## 2020年1月29日 初五
