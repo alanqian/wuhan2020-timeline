@@ -28,13 +28,15 @@ wuhan2020-timeline
 * [武汉疾病控制预防中心](http://www.whcdc.org/)
 * [武汉市文化旅游局官网](http://wlj.wuhan.gov.cn/html/index.html)<br>
 * [武汉市公安局](http://gaj.wuhan.gov.cn/jwgk/index.jhtml)
+* [黄冈卫健委官网](http://wjw.hg.gov.cn/)
 #### （三）医院报告
-待补
+* 华山感染 （微信公众号）
 ### 二、民间媒体
 * [澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
 * [财新网微博](https://weibo.com/caixincn)<br>
 * [三联生活周刊微博](https://weibo.com/lifeweek)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
+* [在人间](https://weibo.com/ifengweiguan)<br>
 ### 三、企业信息
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
 ### 四、社会舆情
