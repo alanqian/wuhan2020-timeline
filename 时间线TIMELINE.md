@@ -202,4 +202,5 @@
 * 凌晨，国家卫健委发布[第十一份公告](http://www.nhc.gov.cn/xcs/yqfkdt/202001/a53e6df293cc4ff0b5a16ddf7b6b2b31.shtml)，截至1月30日24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1982例，累计报告确诊病例9692例（四川省累计确诊病例核减1例），累计死亡病例213例。<br>
 * 当地时间晚间，[世界卫生组织（WHO）](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))在瑞士日内瓦召开新闻发布会，世界卫生组织总干事谭德塞宣布新型冠状病毒疫情构成国际关注的突发公共卫生事件。<br>
 * 上午，[中国疾病预防控制中心](https://weibo.com/1618051664/IrZME2tAE?ref=collection&type=comment#_rnd1580438466992)回应，在新英格兰杂志发表了题为《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》的论文是根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）所做的回顾性分析，所有病例在论文撰写前已向社会公布。论文提出的“2019年12月份即在密切接触者中发生了人际传播”的观点，是基于425例病例流行病学调查资料做出的回顾性推论。<br>
+* 14时，[财新网](https://github.com/Pratitya/wuhan2020-timeline/issues/24#issue-557963108)就《新英格兰医学杂志》论文事件采访中国疾控中心原副主任杨功焕，杨表示“究竟是专家知道了实情不报告，还是报告了但未及时采取措施，两者区别很大，关键的事实需要澄清。‘如果只责怪专家，事情就变味了’”。<br>
 
