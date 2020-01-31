@@ -177,7 +177,7 @@
 * [河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)
 * [寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会](https://weibo.com/6004281123/IrKeCw66P)<br>
 * [平安武汉](https://weibo.com/2418542712/IrISGCgs6)发再次发布关于8人造谣的情况通报。<br>
-* 中国疾控中心和各级疾控中心的专家在《新英格兰医学杂志》发表了论文《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》，<br>
+* 中国疾控中心和各级疾控中心的专家在《新英格兰医学杂志》发表了论文[《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001316?articleTools=true&utm_source=wechat_session&utm_medium=social&utm_oi=780862704100319232&from=singlemessage)，文中表示1月1日至11日武汉已有医务人员感染，得出结论12月底时已有明确人传人特征。<br>
 * [央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ?refer_flag=1001030103_&type=comment)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>
 * [央视新闻](https://weibo.com/2656274875/IrPHuzIcR?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)报道新型冠状病毒感染肺炎上海医疗救治专家组组长张文宏在接受采访时表示，他将新年到现在值班的感染科一线医生进行换岗，换成共产党员医生到一线工作。<br>
 * [孝感前线医生：武汉更难，我们下面不好意思提要求](https://github.com/Pratitya/wuhan2020-timeline/issues/19)<br>
