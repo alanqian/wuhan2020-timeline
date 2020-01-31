@@ -98,6 +98,7 @@
 
 ## 2020年1月16日
 * 凌晨，武汉市卫健委发布[第八份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011609057)，表示截止15号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院5例，新增死亡病例1例（熊某，69岁）”，“尚在接受医学观察119人，密切接触者中，没有发现相关病例”。<br>
+* 丁香园发布[武汉病毒纪事——2020年的第一场疫情](https://github.com/Pratitya/wuhan2020-timeline/issues/29#issue-557997434)对前期疫情进行了较完整的复盘，提到最早发病的患者之一郑梓昱在2019年12月12日就已经开始发烧，并经历了两次转院。基于部分患者未到过华南海鲜批发市场文章，已隐约表达了对人传人可能性的担忧。<br>
 
 ## 2020年1月17日
 * 武汉文化旅游局发布[《购买2020春节文化旅游惠民活动氛围布置服务的公告》](http://wlj.wuhan.gov.cn/html/gsgg/20200117/13258.html)。<br>
@@ -161,6 +162,7 @@
 * 20时，2020年中央广播电视总台第38届春节联欢晚会播出，其中加入历史上首次没有彩排节目[《爱是桥梁》](https://weibo.com/tv/v/Ir0mamcty?fid=1034:4464361318842420)，白岩松创作，为武汉加油。<br>
 * 同日，[法国确诊两例新型冠状病毒感染的肺炎病例](https://news.sina.com.cn/o/2020-01-25/doc-iihnzahk6215027.shtml)，这也是欧洲首次确诊新型冠状病毒感染的肺炎病例。
 * 国际顶级医学期刊The Lancet（《柳叶刀》）发表了题为[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)的文章。文章详细记录、分析了疫情初始阶段41名病例的临床资料，文章显示已知第一个出现症状的病例（12月1日，事后确诊）未接触华南海鲜批发市场。12月10日出现第一个与海鲜城相关病例。文章作者包括武汉金银潭医院副院长黄朝发、国家第一批专家组成员李兴旺、王广发、蒋荣猛。北京中日友好医院曹彬、北京协和医院王建伟是共同通讯作者。
+* 同日，《柳叶刀》发表题为[2019新冠肺炎家族性研究(A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster)](https://github.com/Pratitya/wuhan2020-timeline/issues/28)的文章，确认病毒感染一家, 病毒基因序列均不同 (意味着病毒在不同人体内出现不同程度变异)，同时病毒在与病毒库中的冠状病毒进行对比, 是从未见过的 (暂不了解病毒结构)。<br>
 * [三联生活周刊 | 湖北黄冈：一家四口疑似病例难确诊](https://github.com/Pratitya/wuhan2020-timeline/issues/23#issue-557910141)<br>
 
 ## 2020年1月25日 初一
