@@ -233,4 +233,9 @@
 * 17时，《新英格兰医学杂志》论文事件通讯作者之一、中国疾控中心副主任冯子健接受[新京报记者专访](https://github.com/Pratitya/wuhan2020-timeline/issues/31#issue-558086593)时表示，上述推论是1月23日获得病例数据后做出的，没有隐瞒。病毒人传人早有推论，保守下结论有原因。<br>
 * [央视新闻](https://mp.weixin.qq.com/s/2PL5GYzVZ4U0CM1wJdBM3w)报道李克强主持召开领导小组会议，同意湖北省将春节假期适当延长，目前人在湖北、工作在外地的人员同样延长假期，暂不返回工作地，以利于疫情防控。<br>
 * [封城第九天日记](https://github.com/Pratitya/wuhan2020-timeline/issues/32#issue-558459418)<br>
+* [红十字会物资分配风波](https://github.com/Pratitya/wuhan2020-timeline/issues/33)：武汉仁爱医院院长回应，医院27-31日共用一万两千只口罩，暂无发热门诊。晚上七时，武汉协和医院发布辟谣声明，网传红十字会要求辟谣，否则不发放物资。（信息太多，根据公众号整理）<br>
+* [人民日报微博发布](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。<br>
 
+## 2020年2月1日 初八
+
+* [人民日报微博发布](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。【历史回顾】[中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
