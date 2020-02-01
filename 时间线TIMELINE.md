@@ -54,10 +54,11 @@
 
 ## 2019年12月26日
 * 2名武汉市民出现病症（事后确诊，事后知1名与华南海鲜城有关）。见1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-* 网传武汉某实验室的样本测出敏感病原体，上海病毒学家拿到样本开始检测。（出处待考）<br>
+* 武汉某医院样本测出病原体，与蝙蝠冠状病毒相似度为87%，与SARS相似度为81%。见[《微信公众号小山狗：记录一下首次发现新型冠状病毒的经历》](https://github.com/Pratitya/wuhan2020-timeline/issues/36#issue-558471531)。上海病毒学家拿到样本开始检测。（出处待考）<br>
 
 ## 2019年12月27日
 * 2名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
+* 微信公众号作者小山狗与中国医学科学院病原所共享数据做其他数据分析，意识到这是一个突发病毒，该实验室进行全面消毒，与医生沟通采取隔离措施，作者所属公司领导与医院和疾控的人电话沟通。见[《微信公众号小山狗：记录一下首次发现新型冠状病毒的经历》](https://github.com/Pratitya/wuhan2020-timeline/issues/36#issue-558471531)<br>
 
 ## 2019年12月28日
 ## 2019年12月29日
