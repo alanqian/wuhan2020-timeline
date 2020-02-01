@@ -46,6 +46,7 @@ wuhan2020-timeline
 * [在人间](https://weibo.com/ifengweiguan)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 * [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
+* [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
 ### 三、企业信息
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
