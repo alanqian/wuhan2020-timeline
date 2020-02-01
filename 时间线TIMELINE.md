@@ -220,7 +220,7 @@
 * [世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。](https://weibo.com/2656274875/IryC5cLh5?type=comment#_rnd1580291594764)<br>
 * 下午，武汉市长周先旺接受[央视](http://m.china.caixin.com/m/2020-01-27/101508817.html?cxw=IOS&Sfrom=WechatMoments&from=timeline)<br>采访，承认前期未获得授权，信息披露不及时，表示愿意革职以谢天下。
 * 晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会](https://weibo.com/1638782947/IrBUT4c6g?type=comment)。湖北省委副书记、武汉市委书记马国强指出，所有捐赠的物资一定要通过红十字会。<br>
-* 稳健医疗发布公告[《这些天，稳健医疗做了什么》]。(http://www.winnermedical.cn/cn/newsdetail/106/666.html)<br>
+* 稳健医疗发布公告[《这些天，稳健医疗做了什么》](http://www.winnermedical.cn/cn/newsdetail/106/666.html)。<br>
 
 ## 2020年1月28日 初四
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第八份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/ec9fe7ea987d467d9462e7db509079e6.shtml)，截至1月27日24时，国家卫生健康委收到30个省（区、市）累计报告确诊病例4515例。<br>
