@@ -51,6 +51,7 @@
 
 ## 2019年12月25日
 * 3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。见1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
+* 武汉市第五医院消化内科吕小红主任听说武汉市两家医院有医护人员疑似感染不明原因的病毒性肺炎（当时未知是新冠肺炎），并被隔离，其中还有呼吸科的医护人员。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
 
 ## 2019年12月26日
 * 2名武汉市民出现病症（事后确诊，事后知1名与华南海鲜城有关）。见1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
@@ -81,6 +82,7 @@
 ## 2020年1月2日
 * 武汉病毒研究所确定了新型冠状病毒（以下称2019新型冠状病毒）全基因组序列。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
 * [新加坡健康部](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)发公告称密切关注武汉不明肺炎，并且决定从1月3日起，在樟宜机场对所有从武汉进入新加坡的人进行温度筛查。<br>
+* 武汉市第五医院消化内科吕小红主任建议本院设立发热门诊。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
 
 ## 2020年1月3日
 * 武汉市卫健委发布[第二份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)，首次提出“不明原因的病毒性肺炎”概念。表示“发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗”，指出“截至目前，初步调查表明，未发现明显的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/InMYgwUhZ?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459087573)转发报道。<br>
@@ -130,10 +132,14 @@
 
 ## 2020年1月14日
 * 凌晨，武汉市卫健委发布[第七份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)，表示截止13号24时，“无治愈出院病例，无新增死亡病例报告”。同时指出“泰国通报诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。目前在泰国隔离治疗，其回国的密切接触者正开展追踪医学观察。”<br>
+* 新华社报道，武汉武昌、汉口、武汉三大车站安装配备了29台红外测温仪。<br>
 
 ## 2020年1月15日
 * 凌晨，武汉市卫健委发布[《新型冠状病毒感染的肺炎疫情知识问答》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509040)，表示“现有的调查结果表明，尚未发现明确的人传人证据，不能排除有限人传人的可能，但持续人传人的风险较低”，同时表示“发现一起为家庭聚集性，夫妻两人发病，丈夫先发病，为华南海鲜批发市场从业人员，妻子否认有华南海鲜批发市场暴露史”，“目前未发现社区传播”。<br>
+* 武汉天河机场通知各航司对将发热病人进行临时隔离。<br>
 * 15时，[中国人民政治协商会议湖北省第十二届委员会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200116_1913222.shtml)在武汉洪山礼堂闭幕。中共湖北省委书记蒋超良、省长王晓东、武汉市委书记马国强到会祝贺。<br>
+* 香港大学新发传染性疾病国家重点实验室主任以及流感研究中心主任管轶接受《大公报》采访，乐观估计形势，因为武汉市卫健委1月11日至16日发出的通告中均维持肺炎病例41例，无新增病例。<br>
+* 同日，随香港专家来访的香港记者在医院范围拍摄期间被截查，之后被带入医院内的派出所，香港电台、商业电台、无线电视、NOW新闻台记者及摄影师其后亦被带到同一个派出所。<br>
 
 ## 2020年1月16日
 * 凌晨，武汉市卫健委发布[第八份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011609057)，表示截止15号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院5例，新增死亡病例1例（熊某，69岁）”，“尚在接受医学观察119人，密切接触者中，没有发现相关病例”。<br>
@@ -156,6 +162,7 @@
 
 ## 2020年1月20日 年廿六
 * 凌晨2时，武汉市卫健委发布[第十一份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020012009077)，表示17、18日累计新确诊病例136例，其中轻症100例、重症33例、危重症3例（其中死亡1例）。仍在院治疗170例，其中轻症126例、重症35例、危重症9例，均在武汉市定点医疗机构接受隔离治疗。已解除医学观察727人，尚在接受医学观察90人，密切接触者中，没有发现相关病例。<br>
+* 武汉市第五医院消化内科吕小红主任给附近高中的校长发去短信，让给原计划补课的高三学生放假。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
 * 10时，[央视新闻微博](https://weibo.com/2656274875/IqkydFW0z?from=page_1002062656274875_profile&wvr=6&mod=weibotime)报道浙江发现5例武汉来浙发热呼吸道症状患者。<br>
 * 19时，[武汉市卫健委](http://wjw.wuhan.gov.cn/front/web/showDetail/2020012009078)公布发热门诊医疗机构和定点救治医疗机构名单。<br>
 * 19时，《新闻联播》报道新华社电，国务院下达[《习近平对新型冠状病毒感染的肺炎疫情作出重要指示》](http://www.gov.cn/xinwen/2020-01/20/content_5471057.htm)。<br>
@@ -187,7 +194,7 @@
 * 17时，武汉市卫健委发布[《关于市民关心的几个问题的答复》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020012309114)，回复“病例的样本检测流程是这样的：首诊医院通过规范的预检分诊、结合临床检查、实验室检查和胸部影像检查，经专家组会诊后确认疑似病例并采样，由辖区疾控中心将样本转运到市疾控中心，市疾控中心转运到省疾控中心进行核酸检测，每天可检测样本200多份”，并承认“1月16日之前我省没有试剂盒，还需要送到国家指定的检测机构进行病毒分离和核酸检测”，“样本需送到北京国家指定的检测机构，结果返回约需要3—5天”。<br>
 * 湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第二场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016539.shtml)。<br>
 * 21时，[《楚天都市报》](https://weibo.com/2656274875/IqVg4toO2?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580444929062)报道湖北武汉将以“小汤山”模式开建急救医院，建筑面积达到2.5万平方米，可容纳1000张病床，医院将在6天内建成。<br>
-* 湖北省长接受[央视](https://weibo.com/2656274875/IqRSLEnXs?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访称“尽管市场出现波动，但武汉储备和市场供应是充足的”。<br>
+* 湖北省长王晓东在封城首日接受[央视](https://weibo.com/2656274875/IqRSLEnXs?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访称“尽管市场出现波动，但武汉储备和市场供应是充足的”。<br>
 * 同时，有医护人士开始在微博为武汉协和等10家当地医院紧急求助物资支援。<br>
 * [三联生活周刊 | 武汉肺炎重症患者：一床难求](https://github.com/Pratitya/wuhan2020-timeline/issues/22#issue-557909390)
 * 武汉病毒所石正丽团队在bioRxiv预印版平台上发表文章《一种新型冠状病毒的发现及其可能的蝙蝠起源》（“Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin”），提出新型肺炎病毒或来源于蝙蝠。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
@@ -214,6 +221,7 @@
 ## 2020年1月26日 初二
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第六份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/9614b05a8cac4ffabac10c4502fe517c.shtml)，截至1月25日24时，国内累计报告确诊病例1975例，境外通报确诊新增澳大利亚1例。<br>
 * 湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第五场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016542.shtml)，湖北省长王晓东、武汉市市长周先旺、省政府秘书长别必雄主持，市长称“截至到昨天的24时，也就是今天的凌晨，累计报告的新型冠状病毒感染的肺炎是618例，已经治愈出院的是40例，死亡了45例。目前在院治疗的是533例，其中重症87例，危重53例，这些都在武汉市的定点医院接受隔离治疗”。<br>
+* 中国国务院疫情发布会，武汉向工信部发出的需求清单中，每天需要10万套医用防护服，一个月就需要300万套。其后，武汉和湖北省各医院开始向社会各界征集医疗物资。据医疗网站丁香园统计，截至1月29日，湖北省有近136家医院发布了医疗物资申援信息。<br>
 
 ## 2020年1月27日 初三
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第七份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/3882fdcdbfdc4b4fa4e3a829b62d518e.shtml)，截至1月26日24时，国内30个省（区、市）累计报告确诊病例2744例，境外通报确诊新增马来西亚。<br>
@@ -241,7 +249,7 @@
 * [河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)
 * [寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会](https://weibo.com/6004281123/IrKeCw66P)<br>
 * [平安武汉](https://weibo.com/2418542712/IrISGCgs6)发再次发布关于8人造谣的情况通报。<br>
-* 中国疾控中心和各级疾控中心的专家在《新英格兰医学杂志》发表了论文[《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001316?articleTools=true&utm_source=wechat_session&utm_medium=social&utm_oi=780862704100319232&from=singlemessage)，文中表示1月1日至11日武汉已有医务人员感染，得出结论12月底时已有明确人传人特征。<br>
+* 中国疾控中心和各级疾控中心的专家在《新英格兰医学杂志》发表了论文[《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001316?articleTools=true&utm_source=wechat_session&utm_medium=social&utm_oi=780862704100319232&from=singlemessage)，论文根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）分析，得出结论：12月底时已有明确人传人特征。文中表示1月1日至11日武汉已有医务人员感染。<br>
 * [央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ?refer_flag=1001030103_&type=comment)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>
 * [央视新闻](https://weibo.com/2656274875/IrPHuzIcR?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)报道新型冠状病毒感染肺炎上海医疗救治专家组组长张文宏在接受采访时表示，他将新年到现在值班的感染科一线医生进行换岗，换成共产党员医生到一线工作。<br>
 * [孝感前线医生：武汉更难，我们下面不好意思提要求](https://github.com/Pratitya/wuhan2020-timeline/issues/19)<br>
@@ -272,5 +280,6 @@
 * [人民日报微博发布](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。<br>
 
 ## 2020年2月1日 初八
-
-* [人民日报微博发布](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。【历史回顾】[中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
+* [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
+* [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
+* [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
