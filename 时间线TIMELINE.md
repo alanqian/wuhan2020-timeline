@@ -260,7 +260,7 @@
 * 下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ?refer_flag=1001030103_&type=comment#_rnd1580460349008)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>
 * [央视新闻](https://mp.weixin.qq.com/s/AL16I7a2c6BKl7jannCBbw)发布《网友在线“云监工” 新“爱豆”组团出道！》，二十四小时直播火神山、雷神山医院施工现场<br>
 * [央视新闻](https://weibo.com/2656274875/IrUaIckhA)，1月25日《黄冈日报》发布[《深夜碰头会》](http://wjw.hg.gov.cn/art/2020/1/25/art_6082_892885.html)发布中央派出督查组黄冈疾控负责人卫健委主任唐志红一问三不知。<br>
-* 武汉协和医院宣布物质“没有了”，网友质疑湖北红十字会[《物资使用情况》](https://github.com/Pratitya/wuhan2020-timeline/issues/14)，东湖生态旅游风景区城乡工作办事处（33人）获得1万枚口罩，武汉仁爱医院（植发、无痛人流、不孕不育）获得1.6万枚口罩，协和医院获得3000。<br>
+* [武汉协和医院](https://github.com/Pratitya/wuhan2020-timeline/issues/42#issue-558508293)宣布物质“没有了”，网友质疑湖北红十字会[《物资使用情况》](https://github.com/Pratitya/wuhan2020-timeline/issues/14)，东湖生态旅游风景区城乡工作办事处（33人）获得1万枚口罩，武汉仁爱医院（植发、无痛人流、不孕不育）获得1.6万枚口罩，协和医院获得3000。<br>
 * 18时，[浙江大学王立铭](https://github.com/Pratitya/wuhan2020-timeline/issues/18)质疑中国疾控中心专家组在1月初已得知“人传人”结论，却刻意向大众隐瞒，提前发表文章，舆论哗然。署名作者之一的高福院士登上微博热搜。<br>
 * 21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1580442133983)公报黄冈卫健委唐志红主任被火速免职。<br>
 
