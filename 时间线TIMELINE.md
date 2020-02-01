@@ -198,11 +198,12 @@
 * 同时，有医护人士开始在微博为武汉协和等10家当地医院紧急求助物资支援。<br>
 * [三联生活周刊 | 武汉肺炎重症患者：一床难求](https://github.com/Pratitya/wuhan2020-timeline/issues/22#issue-557909390)
 * 武汉病毒所石正丽团队在bioRxiv预印版平台上发表文章《一种新型冠状病毒的发现及其可能的蝙蝠起源》（“Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin”），提出新型肺炎病毒或来源于蝙蝠。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
+* 同日，河南省迅速响应的[防疫口号、措施](https://www.douban.com/group/topic/163760243/)成为网络热点，相当部分网民点明表扬省长尹弘。<br>
 
 ## 2020年1月24日 除夕
 * 湖北七地封城。<br>
 * 湖北、北京、上海、安徽、重庆、天津、四川、云南、贵州、山东、福建启动一级响应。<br>
-* 国务院办公厅发布[《关于征集新型冠状病毒感染的肺炎疫情防控工作问题线索及意见建议的公告》](https://mp.weixin.qq.com/s/HpkrEF_dwUWicXMWlMn36w)，征集疫情漏报瞒报问题线索，查证属实将严肃处理。<br>
+* 12时，国务院办公厅发布[《关于征集新型冠状病毒感染的肺炎疫情防控工作问题线索及意见建议的公告》](https://mp.weixin.qq.com/s/HpkrEF_dwUWicXMWlMn36w)，征集疫情漏报瞒报问题线索，查证属实将严肃处理。<br>
 * 湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第三场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016540.shtml)，称“截止1月23日24时，全省累计报告新型冠状病毒感染的肺炎病例549例，已治愈出院31例，死亡24例。目前仍在院治疗494例，其中重症106例、危重症23例，均在定点医疗机构接受隔离治疗”。<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第四份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/c5da49c4c5bf4bcfb320ec2036480627.shtml)，境外通报确诊新增越南，新加坡。<br>
 * 17时，B站up主林晨同学发布[《武汉UP实拍，封城后的24小时，“空城”武汉的物价、交通 、生活状态》](https://www.bilibili.com/video/av84850049)，26日被[人民日报官方微博](https://weibo.com/2803301701/IrbuC3Q2d?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment)转发。<br>
@@ -211,12 +212,14 @@
 * 国际顶级医学期刊The Lancet（《柳叶刀》）发表了题为[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)的文章。文章详细记录、分析了疫情初始阶段41名病例的临床资料，文章显示已知第一个出现症状的病例（12月1日，事后确诊）未接触华南海鲜批发市场。（见前文）12月10日出现第一个与海鲜城相关病例。文章作第一者武汉金银潭医院副院长黄朝发，其他作者包括国家第一批专家组成员李兴旺、王广发、蒋荣猛。北京中日友好医院曹彬、北京协和医院王建伟是共同通讯作者。
 * 同日，《柳叶刀》发表题为[2019新冠肺炎家族性研究(A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster)](https://github.com/Pratitya/wuhan2020-timeline/issues/28)的文章，确认病毒感染一家, 病毒基因序列均不同 (意味着病毒在不同人体内出现不同程度变异)，同时病毒在与病毒库中的冠状病毒进行对比, 是从未见过的 (暂不了解病毒结构)。<br>
 * [三联生活周刊 | 湖北黄冈：一家四口疑似病例难确诊](https://github.com/Pratitya/wuhan2020-timeline/issues/23#issue-557910141)<br>
+* [封城次日杂记](https://github.com/Pratitya/wuhan2020-timeline/issues/44#issue-558531773)<br>
 
 ## 2020年1月25日 初一
 * 湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第四场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016541.shtml)，称“累计报告新型冠状病毒感染的肺炎病例729例，已治愈出院32例，死亡39例。目前仍在院治疗658例，其中重症100例、危重症57例，均在定点医疗机构接受隔离治疗”。<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第五份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml)，境外通报确诊新增尼泊尔1例，法国2例。<br>
 * 下午，[《人民日报》](https://weibo.com/2656274875/Ir8qN9zci?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580444928660)报道武汉市防疫指挥部举行调度会，决定在武汉蔡甸火神山医院之外，半个月之内再建一所“小汤山医院”——武汉“雷神山医院”，新增床位1300张。<br>
 * [央视新闻](https://weibo.com/2656274875/IralNjcyN?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访传染病学专家李兰娟表示，武汉实施进出人员管控是因为疫情已到刻不容缓的程度，只有严格控制传染源，才能不让传染病发生大流行。<br>
+* 同日，腾讯新闻[较真查证实时辟谣平台](https://vp.fact.qq.com/home?from=timeline&isappinstalled=0&dt_platform=douban_broadcast&dt_dapp=1)上线。<br>
 
 ## 2020年1月26日 初二
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第六份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/9614b05a8cac4ffabac10c4502fe517c.shtml)，截至1月25日24时，国内累计报告确诊病例1975例，境外通报确诊新增澳大利亚1例。<br>
