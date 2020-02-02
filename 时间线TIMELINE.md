@@ -313,7 +313,8 @@
 * 16时，[湖北省红十字会网站](http://www.hbsredcross.org.cn/xxgk/18031.jhtml)发布关于捐赠物资分配有关情况的说明，称我们对物资分配中存在的问题深感痛心、自责和内疚，并将对直接责任人依纪依规追责。<br>
 * 晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU?ref=collection&type=comment)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>
 * 晚间，《财新》杂志微信公众号发布[统计数字之外的人：他们死于“普通肺炎”？ ](https://github.com/Pratitya/wuhan2020-timeline/issues/46#issue-558628515)，表明“目前人们所能看到的确诊、死亡病例数字，并不能完全反映这次疫情的全貌”。<br>
+* [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
 
 ## 2020年2月2日
-* 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。
+* 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>
 
