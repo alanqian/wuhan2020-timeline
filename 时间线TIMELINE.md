@@ -321,3 +321,4 @@
 * 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>
 * 上午，[湖北省新型冠状病毒感染肺炎疫情防控指挥部召开会议](https://mp.weixin.qq.com/s/DRMQ2wEsXhsvbE4SZ2fp_Q)强调，当前，全省防控形势依然极为严峻，要做实做细基层基础工作，坚决按照“四集中”要求，对所有疑似患者集中隔离。<br>
 * 14时，GEM邓紫棋发布新歌[《平凡天使》](https://weibo.com/1705586121/Islraim0Q?ref=collection)。<br>
+* 晚间，网传中国大陆开始管制民间媒体，[不允许民间自媒体采访](https://github.com/Pratitya/wuhan2020-timeline/issues/52#issue-558687451)武汉一线防疫。<br>
