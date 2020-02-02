@@ -55,5 +55,6 @@ wuhan2020-timeline
 #### （一）普通个体（封城日记等）
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
+* [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
 #### （二）自媒体（VLOG、疫情分析）
 * [纽约华人资讯网：武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
