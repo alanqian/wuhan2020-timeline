@@ -224,6 +224,7 @@
 * 下午，[《人民日报》](https://weibo.com/2656274875/Ir8qN9zci?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580444928660)报道武汉市防疫指挥部举行调度会，决定在武汉蔡甸火神山医院之外，半个月之内再建一所“小汤山医院”——武汉“雷神山医院”，新增床位1300张。<br>
 * [央视新闻](https://weibo.com/2656274875/IralNjcyN?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访传染病学专家李兰娟表示，武汉实施进出人员管控是因为疫情已到刻不容缓的程度，只有严格控制传染源，才能不让传染病发生大流行。<br>
 * 同日，腾讯新闻[较真查证实时辟谣平台](https://vp.fact.qq.com/home?from=timeline&isappinstalled=0&dt_platform=douban_broadcast&dt_dapp=1)上线。<br>
+* 黄冈市卫健委转载[《黄冈日报》发表的《深夜碰头会》](http://wjw.hg.gov.cn/art/2020/1/25/art_6082_892885.html)，文章记录了唐志红主任在疫情前鞠躬尽瘁的奉献精神。
 
 ## 2020年1月26日 初二
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第六份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/9614b05a8cac4ffabac10c4502fe517c.shtml)，截至1月25日24时，国内累计报告确诊病例1975例，境外通报确诊新增澳大利亚1例。<br>
@@ -268,9 +269,10 @@
 * 9时，[《环球时报》官方微博](https://weibo.com/1974576991/IrQykt0uo)报道，家人被隔离湖北17岁脑瘫儿在家6天死亡。2月1日黄冈红安县华家河镇书记镇长被免职。见红安县政府网。<br>
 * 下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ?refer_flag=1001030103_&type=comment#_rnd1580460349008)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>
 * [央视新闻](https://mp.weixin.qq.com/s/AL16I7a2c6BKl7jannCBbw)发布《网友在线“云监工” 新“爱豆”组团出道！》，二十四小时直播火神山、雷神山医院施工现场<br>
-* [央视新闻](https://weibo.com/2656274875/IrUaIckhA)，1月25日《黄冈日报》发布[《深夜碰头会》](http://wjw.hg.gov.cn/art/2020/1/25/art_6082_892885.html)发布中央派出督查组黄冈疾控负责人卫健委主任唐志红一问三不知。<br>
+* [央视新闻](https://weibo.com/2656274875/IrUaIckhA)报道中央派出督查组赶赴黄冈市进行督查核查。当问到定点医院收治能力床位数量、核酸检测能力时，当地卫健委主任唐志红要么沉默，要么含糊其辞，一问三不知。<br>
 * [武汉协和医院](https://github.com/Pratitya/wuhan2020-timeline/issues/42#issue-558508293)宣布物质“没有了”，网友质疑湖北红十字会[《物资使用情况》](https://github.com/Pratitya/wuhan2020-timeline/issues/14)，东湖生态旅游风景区城乡工作办事处（33人）获得1万枚口罩，武汉仁爱医院（植发、无痛人流、不孕不育）获得1.6万枚口罩，协和医院获得3000。<br>
 * 18时，[浙江大学王立铭](https://github.com/Pratitya/wuhan2020-timeline/issues/18)质疑中国疾控中心专家组在1月初已得知“人传人”结论，却刻意向大众隐瞒，提前发表文章，舆论哗然。署名作者之一的高福院士登上微博热搜。<br>
+* 20时，央直播武汉火神山医院发生斗殴事件。当晚[武汉市城乡建设局](https://baijiahao.baidu.com/s?id=1657214500285625277&wfr=spider&for=pc)澄清是一家施工单位晚上8点20分左右准备开挖现场施工道路铺设排污水管，该施工道路是现场施工材料和设备进出的主路，挖断了现场箱式房吊装施工就会中断，严重影响火神山项目施工建设，另一家施工单位管理人员遂上前阻止，由于双方人员对道路开挖时间存在误会，导致争执推搡，被周围人员迅速劝阻分开，无人受伤。<br>
 * 21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1580442133983)公报黄冈卫健委唐志红主任被火速免职。<br>
 
 ## 2020年1月31日 初七
