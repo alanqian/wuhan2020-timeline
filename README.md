@@ -16,11 +16,12 @@ wuhan2020-timeline
 
 ## 附录：采录内容
 ### 一、官方信息
-#### （一）官方媒体的微博、微信官方公众号
+#### （一）官方媒体的微博、微信公众号
 * [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)<br>
 * [央视新闻微博](https://weibo.com/cctvxinwen)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)<br>
+
 #### （二）政府网站
 * [中国政府网_中央人民政府门户网站](http://www.gov.cn/)<br>
 * [中华人民共和国国家卫生健康委员会官网](http://www.nhc.gov.cn/)<br>
@@ -35,10 +36,11 @@ wuhan2020-timeline
 * [武汉市公安局](http://gaj.wuhan.gov.cn/jwgk/index.jhtml)
 * [中国科学院武汉病毒研究所](http://www.whiov.ac.cn/xwdt_105286/zhxw/)
 * [黄冈卫健委官网](http://wjw.hg.gov.cn/)
+
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
-### 二、民间媒体
+### 二、民间媒体与网站
 * [澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
 * [财新网微博](https://weibo.com/caixincn)<br>
 * [三联生活周刊微博](https://weibo.com/lifeweek)<br>
@@ -49,6 +51,7 @@ wuhan2020-timeline
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 * [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
+* [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
 
 ### 三、企业信息
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
@@ -58,5 +61,6 @@ wuhan2020-timeline
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
+
 #### （二）自媒体（VLOG、疫情分析）
 * [纽约华人资讯网：武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
