@@ -44,6 +44,8 @@ wuhan2020-timeline
 * [三联生活周刊微博](https://weibo.com/lifeweek)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
+* [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，大量报道文章存有副本。<br>
+* [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 * [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
