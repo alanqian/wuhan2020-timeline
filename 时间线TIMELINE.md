@@ -345,3 +345,6 @@
 
 ## 2020年2月3日
 * 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
+* 上午，[央视新闻](https://mp.weixin.qq.com/s/eW8vVdZAG1LZdy3eN1gi3w)报道，军队抽组1400名医护人员于2月3日起承担武汉火神山新型冠状病毒感染肺炎专科医院医疗救治任务，首批患者转运武汉火神山医院。<br>
+* [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
+* 上午，[武汉大学中南医院张笑春](https://github.com/Pratitya/wuhan2020-timeline/issues/57#issue-558946441)建议不要迷信核酸检测，推荐以CT影像做目前2019nCOV肺炎判定的主要依据。<br>
