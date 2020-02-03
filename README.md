@@ -64,4 +64,6 @@ wuhan2020-timeline
 * [新冠肺炎：親歷者見聞選編（持續更新）](https://shimo.im/docs/5dbf36f637674529/read)<br>
 
 #### （二）自媒体（VLOG、疫情分析）
+* [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
 * [纽约华人资讯网：武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
+
