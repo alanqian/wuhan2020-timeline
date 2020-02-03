@@ -7,9 +7,9 @@ wuhan2020-timeline
 
 凡例
 ====
-*  时间线梳理以官媒信息为经，以民营媒体、自媒体为纬，以事系日，着力关注疫情的扩展与舆论场域，力图呈现武汉新冠肺炎始末；
+*  时间线梳理以官媒信息为经，以民营媒体、自媒体为纬，以事系日，着力关注疫情的扩展与舆论场域，力图呈现武汉新冠肺炎始末。
 *  [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)项目关于疫情的发布更细致，以后本项目着重关注舆情。
-*  信息或实或伪，一一注明出处。为避免微信公众号文章被销毁、抑或微博内容404、自媒体发布内容自行删除，部分敏感内容统一备份至Issues（标题可带上标识，微信公号文章用article，学术论文用paper），时间线上直接跳转至Issues。官方媒体的信息一般不会删除，故时间线上直接跳转至官媒的链接。采用信息目录分类见附录；
+*  信息或实或伪，一一注明出处。为避免微信公众号文章被销毁、抑或微博内容404、自媒体发布内容自行删除，部分敏感内容统一备份至Issues（标题可带上标识，微信公号文章用article，学术论文用paper），时间线上直接跳转至Issues。豆友制作的2019-nCoV网络档案库[Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)存有一线媒体报道文章副本也可以直接查考。官方媒体的信息一般不会删除，故时间线上直接跳转至官媒的链接。采用信息目录分类见附录。
 *  以本人为主编写，时间精力有限，尽可能补齐前期各方面信息，时间线内容有一天左右延期。
 *  时间线体例参照本人编写。
 *  欢迎有心的朋友补充信息！
@@ -44,7 +44,7 @@ wuhan2020-timeline
 * [三联生活周刊微博](https://weibo.com/lifeweek)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
-* [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，大量报道文章存有副本。<br>
+* [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 * [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
