@@ -118,6 +118,7 @@
 
 ## 2020年1月7日
 * 21时，[病原检测结果初步评估专家组](https://weibo.com/2656274875/IoE0ZyrWd?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580360125077)实验室获得了病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒。《柳叶刀》[A novel coronavirus outbreak of global health concern（《关系到全球卫生的新冠状病毒的爆发》）](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)也提及此日期。<br>
+* 同日，香港民建联主席李慧琼表达[对武汉不明原因肺炎关注](https://github.com/Pratitya/wuhan2020-timeline/issues/55#issue-558823968)，希望中联办助香港了解疫情。受到网友群嘲。<br>
 
 ## 2020年1月8日
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3336166.htm)闭幕。<br>
