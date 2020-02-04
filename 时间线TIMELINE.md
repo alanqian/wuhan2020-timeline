@@ -313,6 +313,7 @@
 
 【国际】<br>
 * [世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。](https://weibo.com/2656274875/IryC5cLh5?type=comment#_rnd1580291594764)<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200127-1023950?utm_source=ZB_iPhone&utm_medium=share)载香港讯，武汉肺炎疫情持续扩散，香港大学微生物学研究团队在医学杂志《柳叶刀》(The Lancet)发表文章，以深圳一个七人家庭中有六人确诊的群组病例，推算出病毒对家庭成员的攻击率(attack rate)高达83%，且证实能人传人。<br>
 
 ## 2020年1月28日 初四
 【武汉-湖北】<br>
