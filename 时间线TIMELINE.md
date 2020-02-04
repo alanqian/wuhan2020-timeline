@@ -328,31 +328,59 @@
 * 22时，[人民日报微博](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。当晚引发全民抢购“双黄连”风波。<br>
 
 ## 2020年2月1日 初八
-* [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
-* [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
-* [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
-* [投中网微信公众号](https://mp.weixin.qq.com/s/fryrqddUACB9XnHjoOxu5Q)发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。<br>
-* [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
+【武汉-湖北】<br>
 * 14时，[央视新闻](https://weibo.com/2656274875/IsbpTqTiN?refer_flag=1001030103_&type=comment#_rnd1580560578579)转载黄冈发布，湖北黄冈市民每户家庭每两天可指派1人上街采购生活物资，其他人员除生病就医、疫情防控工作需要、在商超和药店上班外，不得外出。<br>
 * 14时30分左右，武汉红十字会借用武汉市国际博览中心临时仓库外，一男子从中心提出一箱3M口罩，放入[鄂A0260W汽车](https://github.com/Pratitya/wuhan2020-timeline/issues/47#issue-558664754)，称给领导配送。晚间被全网删帖。<br>
 * 下午，[央视](https://weibo.com/2615417307/Isd2AAQVs?ref=collection)探访武汉红十字会。记者试图探访仓库物资分发处受到保安阻拦，保安大叔称“不能放你们进来，不要为难我，否则我的饭碗就丢了”。交涉过程中直播被切断。采访过程得知协和医院一个科室只有4个N95口罩。<br>
 * 16时，[湖北省红十字会网站](http://www.hbsredcross.org.cn/xxgk/18031.jhtml)发布关于捐赠物资分配有关情况的说明，称我们对物资分配中存在的问题深感痛心、自责和内疚，并将对直接责任人依纪依规追责。<br>
 * 晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU?ref=collection&type=comment)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>
+
+【中国】<br>
+* [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
+* [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
+* [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
+* [投中网微信公众号](https://mp.weixin.qq.com/s/fryrqddUACB9XnHjoOxu5Q)发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。<br>
+
+【国际】
+* [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
+
 * 晚间，《财新》杂志微信公众号发布[统计数字之外的人：他们死于“普通肺炎”？ ](https://github.com/Pratitya/wuhan2020-timeline/issues/46#issue-558628515)，表明“目前人们所能看到的确诊、死亡病例数字，并不能完全反映这次疫情的全貌”。<br>
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
 * [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
 * [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
 
 ## 2020年2月2日
+【武汉-湖北】<br>
 * 凌晨，[湖北省慈善总会](http://www.hbcf.org.cn/nv.html?nid=21fca047-9d40-4103-bb17-5ab0615d66a2)公布《新型冠状病毒感染肺炎疫情防控捐赠数据简报》。<br>
-* 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>
 * 上午，[湖北省新型冠状病毒感染肺炎疫情防控指挥部召开会议](https://mp.weixin.qq.com/s/DRMQ2wEsXhsvbE4SZ2fp_Q)强调，当前，全省防控形势依然极为严峻，要做实做细基层基础工作，坚决按照“四集中”要求，对所有疑似患者集中隔离。<br>
 * 武汉市人民政府发布[《关于防疫专班工作人员领取防护口罩的情况通报》](http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202002/t20200202_304352.html)，鄂A事件中称“给领导配送”者，只是“该工作人员参加市应急物资储备与管理工作会议时，找市应急物资储存仓库管理人员领取了口罩等相关防护用品”。<br>
+
+【中国】<br>
+* 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>
 * 14时，GEM邓紫棋发布新歌[《平凡天使》](https://weibo.com/1705586121/Islraim0Q?ref=collection)。<br>
 * 晚间，网传中国大陆开始管制民间媒体，[不允许民间自媒体采访](https://github.com/Pratitya/wuhan2020-timeline/issues/52#issue-558687451)武汉一线防疫。<br>
 
 ## 2020年2月3日
-* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
+【武汉-湖北】<br>
 * 上午，[央视新闻](https://mp.weixin.qq.com/s/eW8vVdZAG1LZdy3eN1gi3w)报道，军队抽组1400名医护人员于2月3日起承担武汉火神山新型冠状病毒感染肺炎专科医院医疗救治任务，首批患者转运武汉火神山医院。<br>
-* [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
 * 上午，[武汉大学中南医院张笑春](https://github.com/Pratitya/wuhan2020-timeline/issues/57#issue-558946441)建议不要迷信核酸检测，推荐以CT影像做目前2019nCOV肺炎判定的主要依据。<br>
+
+【中国】<br>
+* [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
+
+【国际】<br>
+（待补）
+
+* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
+
+## 2020年2月4日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+
+## 2020年2月5日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+
+
