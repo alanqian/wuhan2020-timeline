@@ -406,6 +406,7 @@
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
 * [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
 * [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
+* [澳洲政府](https://www.skynews.com.au/details/_6128821462001)宣布即日起禁止从中国大陆入境、中转的旅客入境，除澳洲公民和持有澳洲绿卡的人士以外。<br>
 
 ## 2020年2月2日
 【武汉-湖北】<br>
