@@ -91,7 +91,7 @@
 * 世界卫生组织中国办事处接到报告，武汉出现原因不明的肺炎。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。
 
 ## 2020年1月1日
-* 武汉市公安局官方微博[“平安武汉”](https://github.com/Pratitya/wuhan2020-timeline/issues/9#issue-556840315)依法查处8名造谣者。<br>
+* 武汉市公安局官方微博[“平安武汉”](https://github.com/Pratitya/wuhan2020-timeline/issues/9#issue-556840315)依法查处8名造谣者，其中包括武汉市中心医院眼科医生李文亮、武汉协和医院肿瘤科谢琳卡医生、神经内科刘文医生等。事后网友称他们是武汉肺炎的“吹哨人”。<br>
 * 关闭整顿华南海鲜城市场。<br>
 * 1月初（具体时间不详），各家医院先后出现了疑似“病毒肺”病人，有一些小的医院，不接收发热病人，把他们推到其他医院。这种情况被其他几家医院联名告到武汉卫健委。武汉卫健委通知，各家医院接诊的病人必须自己治，把转诊的口子堵住了。然而大多数医院都不是传染病医院，并不具备隔离条件。见见[南方周末：独家深访：从发现到封城，武汉一线医护复盘疫情为何爆发](https://github.com/Pratitya/wuhan2020-timeline/issues/51#issue-558681462) <br>
 * 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。
