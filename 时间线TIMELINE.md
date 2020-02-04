@@ -104,6 +104,7 @@
 ## 2020年1月3日
 * 武汉市卫健委发布[第二份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)，首次提出“不明原因的病毒性肺炎”概念。表示“发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗”，指出“截至目前，初步调查表明，未发现明显的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/InMYgwUhZ?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459087573)转发报道。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211279.html)转发公告。且通知了[世界卫生组织](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。 <br>
 * 武汉一男子在温州自驾期间出现高热；北京、深圳、日本等地亦有出现。<br>
+* 中方开始向美方通报疫情信息和防控措施。见[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道。<br>
 
 ## 2020年1月4日
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3334169.htm?spm=zm1066-001.0.0.1.ud9lKo)开幕。市委书记马国强出席大会并讲话。省政协副主席彭军代表省政协致辞。市长周先旺、市组织部长胡立山出席大会并在主席台就座。<br>
@@ -420,6 +421,7 @@
 
 【中国】<br>
 * [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
+* 17时，[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道：外交部辟谣美方称对疫情提供巨大帮助，称美方迄今为止没有提供任何实质性帮助。并提及1月3日起共30次向美方通报疫情信息和防控措施。引发舆论反弹，随后央视删除博文。<br>
 * 晚间，[教育部](https://weibo.com/2810373291/Isx6TlPi5?ref=collection&type=comment#_rnd1580790342236)发布原定近期举行的自划线高校硕士研究生复试录取工作和有关招生单位博士研究生考试招生工作等推迟举行。<br>
 
 【国际】<br>
