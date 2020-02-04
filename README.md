@@ -108,6 +108,7 @@ pr的友邻一定要注意按照上述体例编写！！！
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+* GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
