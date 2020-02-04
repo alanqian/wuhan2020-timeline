@@ -196,6 +196,7 @@
 * [新京报：武汉一社区办万家宴，社区负责人：目前一切正常](https://github.com/Pratitya/wuhan2020-timeline/issues/2#issue-556730991)<br>
 【国际】<br>
 * 同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>
+* （新加坡联合早报）(http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055?utm_source=ZB_iPhone&utm_medium=share)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>
 
 ## 2020年1月19日 年廿五
 【武汉-湖北】<br>
