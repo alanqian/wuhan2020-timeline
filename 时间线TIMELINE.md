@@ -439,14 +439,14 @@
 * [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
 * 17时，[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道：外交部辟谣美方称对疫情提供巨大帮助，称美方迄今为止没有提供任何实质性帮助。并提及1月3日起共30次向美方通报疫情信息和防控措施。引发舆论反弹，随后央视删除博文。<br>
 * 晚间，[教育部](https://weibo.com/2810373291/Isx6TlPi5?ref=collection&type=comment#_rnd1580790342236)发布原定近期举行的自划线高校硕士研究生复试录取工作和有关招生单位博士研究生考试招生工作等推迟举行。<br>
+* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
 
 【国际】<br>
-（待补）
-
-* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
+* 当地时间14时，齐泽克发布[《清晰的种族主义元素到对新型冠状病毒的歇斯底里》（Clear racist element to hysteria over new coronavirus ）](https://www.rt.com/op-ed/479970-coronavirus-china-wuhan-hysteria-racist/)<br>
 
 ## 2020年2月4日
 【武汉-湖北】<br>
+
 【中国】<br>
 * 2时，[杭州市人民政府发布](https://mp.weixin.qq.com/s/xUxTWicvDbdstE8wT0W8fw)关于实施“防控疫情，人人有责” 十项措施的通告。全市所有村庄、小区、单位实行封闭式管理，人员进出一律测温，并出具有效证件。<br>
 * [香港无线新闻](https://weibo.com/2615417307/IsD6eAXWN?ref=collection&type=comment)消息，澳门特区行政长官贺一诚表示，为防止疫情扩散，澳门决定暂停博彩业及相关娱乐行业半个月。<br>
