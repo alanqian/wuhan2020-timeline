@@ -16,7 +16,8 @@ wuhan2020-timeline
 - 2.每个版块下按照时间先后（若可考）排列事实，并注明文献信息出处；时间不可考者统一列于最末；
 - 若是当天发布综合/全盘性的价值较高的报道，则统一置于上述信息后。（若是关于武汉、湖北本地报道或封城日记等整篇文章亦置于【武汉-湖北】版块最末，若是关于中国亦置于【中国】版块最末）<br>
 
-以2月1日为例如下所示<br>
+以2月1日为例，如下所示：<br>
+=====
 
 ## 2020年2月1日 初八
 【武汉-湖北】<br>
@@ -39,6 +40,10 @@ wuhan2020-timeline
 【国际】
 * [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
 * [澳洲政府](https://www.skynews.com.au/details/_6128821462001)宣布即日起禁止从中国大陆入境、中转的旅客入境，除澳洲公民和持有澳洲绿卡的人士以外。<br>
+
+pr的友邻一定要注意按照上述体例编写！！！
+======
+
 
 招募令
 ======
@@ -103,6 +108,7 @@ wuhan2020-timeline
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+* GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>

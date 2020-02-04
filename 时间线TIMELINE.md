@@ -177,14 +177,19 @@
 * 新华社报道，武汉武昌、汉口、武汉三大车站安装配备了29台红外测温仪。<br>
 
 ## 2020年1月15日
+【武汉-湖北】<br>
 * 凌晨，武汉市卫健委发布[第八份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509046)，表示截止14号24时，“无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211281.html)全文转载公告。<br>
 * 凌晨，武汉市卫健委发布[《新型冠状病毒感染的肺炎疫情知识问答》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509040)，表示“现有的调查结果表明，尚未发现明确的人传人证据，不能排除有限人传人的可能，但持续人传人的风险较低”，同时表示“发现一起为家庭聚集性，夫妻两人发病，丈夫先发病，为华南海鲜批发市场从业人员，妻子否认有华南海鲜批发市场暴露史”，“目前未发现社区传播”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211280.html)全文转载此知识问答。<br>【按，开始提出“有限人传人”概念。】
 * 武汉天河机场通知各航司对将发热病人进行临时隔离。<br>
+【中国】<br>
 * 15时，[中国人民政治协商会议湖北省第十二届委员会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200116_1913222.shtml)在武汉洪山礼堂闭幕。中共湖北省委书记蒋超良、省长王晓东、武汉市委书记马国强到会祝贺。<br>
 * 同日，国家卫健委主任马晓伟专程赴武汉进一步落实各项防控措施。<br>
+*  中国疾病预防控制中心启动一级应急响应（最高级）。见[Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia（《新型冠状病毒感染肺炎在中国武汉的初期传播动力学》）](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)<br>
 * 香港大学新发传染性疾病国家重点实验室主任以及流感研究中心主任管轶接受《大公报》采访，乐观估计形势，因为武汉市卫健委1月11日至16日发出的通告中均维持肺炎病例41例，无新增病例。<br>
 * 同日，随香港专家来访的香港记者在医院范围拍摄期间被截查，之后被带入医院内的派出所，香港电台、商业电台、无线电视、NOW新闻台记者及摄影师其后亦被带到同一个派出所。<br>
-* CDC将应急响应级别提高到一级（最高级）。见Qun Li, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus – Infected Pneumonia. The New England Journal of Medicine (Jan. 29, 2020)
+
+【国际】<br>
+* [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200115-1021202?utm_source=ZB_iPhone&utm_medium=share):（日内瓦/武汉/香港/台北综合讯）世界卫生组织于1月14日表示：虽然引发中国武汉肺炎疫情的新型冠状病毒“有限度人传人”，但不排除疫情有可能扩大蔓延。并且，世卫已向全球医院发出防疫指导方针。<br>
 
 ## 2020年1月16日
 * 凌晨，武汉市卫健委发布[第九份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011609057)，表示截止15号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院5例，新增死亡病例1例（熊某，69岁）”，“尚在接受医学观察119人，密切接触者中，没有发现相关病例”。<br>
@@ -202,6 +207,7 @@
 * [新京报：武汉一社区办万家宴，社区负责人：目前一切正常](https://github.com/Pratitya/wuhan2020-timeline/issues/2#issue-556730991)<br>
 【国际】<br>
 * 同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>
+* [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055?utm_source=ZB_iPhone&utm_medium=share)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>
 
 ## 2020年1月19日 年廿五
 【武汉-湖北】<br>
