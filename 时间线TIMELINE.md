@@ -128,10 +128,13 @@
 【武汉-湖北】<br>
 * 21时，[国家卫健委病原检测结果初步评估专家组](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)实验室获得了新冠病毒的全基因组序列，“不明原因的病毒性肺炎”病例的病原体初步判定为新型冠状病毒。【按，基因序列的测出意味着可以对新发患者作出诊断，即开始可以确诊“新冠肺炎”。】经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒。《柳叶刀》[A novel coronavirus outbreak of global health concern（《关系到全球卫生的新冠状病毒的爆发》）](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)也提及此日期。<br>
 * 武汉同济医院急诊科医生陆俊复查时双肺出现斑片和毛玻璃样病变，后诊断为“不明原因病毒性肺炎”。见2月3日[财新网 | 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)刘力采访回忆内容。<br>
+
 【中国】<br>
 * 同日，香港民建联主席李慧琼表达[对武汉不明原因肺炎关注](https://github.com/Pratitya/wuhan2020-timeline/issues/55#issue-558823968)，希望中联办助香港了解疫情。受到网友群嘲。<br>
+
 【国际】<br>
 * [新加坡联合早报](http://www.zaobao.com/news/china/story20200107-1018950?utm_source=ZB_iPhone&utm_medium=share)：武汉/香港综合讯：武汉当局预计不明肺炎病例还会增加，据武汉疾病预防控制中心主任李刚介绍，目前尚未发现明确不明肺炎人传人的证据。<br>
+
 ## 2020年1月8日
 【武汉-湖北】<br>
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3336166.htm)闭幕。<br>
