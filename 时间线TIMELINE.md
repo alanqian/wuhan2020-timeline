@@ -390,6 +390,7 @@
 * 《知识分子》微信公众号发布[“瞒报”还是“保守”？一篇论文引发武汉疫情争议](https://mp.weixin.qq.com/s/HWYGQ_SfvblAORygJwMs1w)。<br>
 * 18时，界面新闻微博发布文章[饭圈女孩驰援武汉：我们“每一天都在解决困难”](https://weibo.com/5182171545/Is3ds1b9a?ref=collection)。<br>
 * 22时，[人民日报微博](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。当晚引发全民抢购“双黄连”风波。<br>
+* 同日13时，Political理论志转载旧文《传播的畸变对“SARS”传言的社会心理学分析》节选[周晓虹 | 传播的畸变：对“非典型性肺炎”传言的社会心理学分析]。<br>
 
 【国际】<br>
 * 当地时间晚间，[世界卫生组织（WHO）](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))在瑞士日内瓦召开新闻发布会，世界卫生组织总干事谭德塞宣布新型冠状病毒疫情构成国际关注的突发公共卫生事件。<br>
@@ -450,11 +451,14 @@
 【武汉-湖北】<br>
 * [湖北省纪委监委网站](https://mp.weixin.qq.com/s/rYrRiy6mjk8Vxzj1Gg7sWQ)通报，湖北省红十字会3名领导被问责。央视新闻微信公号转载。<br>
 * [澎湃新闻：武汉一志愿者感染后去世，曾义务接医护上下班](https://mp.weixin.qq.com/s/yigRCNdk8_aWy7w3UJGE9g)报道武汉志愿者车队，今年54岁的何辉，于昨日下午4时许在同济医院中法新城院区死亡。<br>
+* [二次六七八微博](https://weibo.com/2158017273/IsFhm8uKM?ref=collection&type=comment)发布：我在疫区建医院《我的火神山建造日记》8集视频。<br>
 
 【中国】<br>
 * 2时，[杭州市人民政府发布](https://mp.weixin.qq.com/s/xUxTWicvDbdstE8wT0W8fw)关于实施“防控疫情，人人有责” 十项措施的通告。全市所有村庄、小区、单位实行封闭式管理，人员进出一律测温，并出具有效证件。<br>
 * [香港无线新闻](https://weibo.com/2615417307/IsD6eAXWN?ref=collection&type=comment)消息，澳门特区行政长官贺一诚表示，为防止疫情扩散，澳门决定暂停博彩业及相关娱乐行业半个月。<br>
+* 晚间，南京市新型冠状病毒感染的肺炎疫情联防联控工作指挥部发布[通告](https://mp.weixin.qq.com/s/_OAx06R2M9OVTKNIPCVdnw)，全面实施小区封闭式管理。同日[哈尔滨](https://weibo.com/2803301701/IsFJ20EXU?ref=collection&type=comment#_rnd1580871835889)对已发生确诊病例、疑似病例的小区、村屯要实行挂牌管理，禁止人员和车辆出入。<br>
 * 南京大学[孙江：即使明天重新开始，也不能原谅](https://mp.weixin.qq.com/s/dXl87F2V3skO7J9PYVICsw)<br>
+* 武小华发布[《我知道的和你该知道的一切》](https://card.weibo.com/article/m/show/id/2309634468392248606935)，继续质疑2019-nCoV的原始病毒，保存在武汉病毒研究所石正丽的病毒库中，并提出2015年她在自然医学电子刊物上发表了一篇论文，表示只要把蝙蝠身上的S蛋白里的ACE2这个受体开关一调，这个病毒马上就可以传染给人类。其余详见[石正丽VS武小华事件相关整理](https://github.com/Pratitya/wuhan2020-timeline/issues/70#issue-560103415)<br>
 
 【国际】<br>
 
