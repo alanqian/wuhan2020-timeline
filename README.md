@@ -100,6 +100,9 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
 
+##### 4. 港澳台
+* [香港特别行政区卫生署卫生防护中心](https://www.chp.gov.hk/tc/features/102465.html)<br>
+* [香港特别行政区政府新闻公报-嚴重新型傳染性病原體呼吸系統病](https://www.chp.gov.hk/tc/miniweb/press_release/100063.html)<br>
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
