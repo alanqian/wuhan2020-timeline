@@ -451,12 +451,17 @@
 【中国】<br>
 * 2时，[杭州市人民政府发布](https://mp.weixin.qq.com/s/xUxTWicvDbdstE8wT0W8fw)关于实施“防控疫情，人人有责” 十项措施的通告。全市所有村庄、小区、单位实行封闭式管理，人员进出一律测温，并出具有效证件。<br>
 * [香港无线新闻](https://weibo.com/2615417307/IsD6eAXWN?ref=collection&type=comment)消息，澳门特区行政长官贺一诚表示，为防止疫情扩散，澳门决定暂停博彩业及相关娱乐行业半个月。<br>
+* 南京大学[孙江：即使明天重新开始，也不能原谅](https://mp.weixin.qq.com/s/dXl87F2V3skO7J9PYVICsw)<br>
 
 【国际】<br>
 
 ## 2020年2月5日
 【武汉-湖北】<br>
+* 财新网发布[《武汉百步亭社区多个门栋现发热患者 中老年人为主》](http://m.china.caixin.com/m/2020-02-05/101511619.html?from=timeline&isappinstalled=0)<br>
+
 【中国】<br>
+* [GQ报道：饭圈救援2020](https://mp.weixin.qq.com/s/Wj0P1aT-1oHRbVij_Icbgg)<br>
+
 【国际】<br>
 
 
