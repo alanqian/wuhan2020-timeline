@@ -169,9 +169,10 @@
 【武汉-湖北】<br>
 * 上午，[湖北省第十三届人民代表大会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200113_1910934.shtml)在武昌洪山礼堂隆重开幕。大会主席团常务主席蒋超良、马国强、王瑞连、王玲、周洪宇、王建鸣、刘雪荣、刘晓鸣、胡志强、王亚平在主席台前排就座。开幕大会由蒋超良主持。<br>
 * 20时，武汉市卫健委发布[第五份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)，表示截止11号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211276.html)全文转载公告。<br>
+
 【国际】<br>
-* 世界卫生组织发布[疾病爆发新闻](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)，称收到中国报告的最新信息：没有明确证据表明此病毒容易在人之间传播、武汉市以外没有发现病例。武汉在跟踪的763位亲密接触者之中，没有发现新的感染者。
-*  [新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428?utm_source=ZB_iPhone&utm_medium=share)：（广州报道）武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>
+* 世界卫生组织发布[疾病爆发新闻](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)，称收到中国报告的最新信息：没有明确证据表明此病毒容易在人之间传播、武汉市以外没有发现病例。武汉在跟踪的763位亲密接触者之中，没有发现新的感染者。<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428?utm_source=ZB_iPhone&utm_medium=share)：广州报道武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>
 
 ## 2020年1月13日
 * 凌晨，武汉市卫健委发布[第六份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)，表示截止12号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211277.html)全文转载公告。<br>
