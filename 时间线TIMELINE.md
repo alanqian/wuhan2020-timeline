@@ -449,6 +449,7 @@
 ## 2020年2月4日
 【武汉-湖北】<br>
 * [湖北省纪委监委网站](https://mp.weixin.qq.com/s/rYrRiy6mjk8Vxzj1Gg7sWQ)通报，湖北省红十字会3名领导被问责。央视新闻微信公号转载。<br>
+* [澎湃新闻：武汉一志愿者感染后去世，曾义务接医护上下班](https://mp.weixin.qq.com/s/yigRCNdk8_aWy7w3UJGE9g)报道武汉志愿者车队，今年54岁的何辉，于昨日下午4时许在同济医院中法新城院区死亡。<br>
 
 【中国】<br>
 * 2时，[杭州市人民政府发布](https://mp.weixin.qq.com/s/xUxTWicvDbdstE8wT0W8fw)关于实施“防控疫情，人人有责” 十项措施的通告。全市所有村庄、小区、单位实行封闭式管理，人员进出一律测温，并出具有效证件。<br>
