@@ -428,6 +428,7 @@
 * [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
 * [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
 * [投中网微信公众号](https://mp.weixin.qq.com/s/fryrqddUACB9XnHjoOxu5Q)发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。<br>
+* [《财新周刊》](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)因技术原因延迟发刊。<br>
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
 * [疫情肆虐下的江西农村：1万多只鸡被活埋，旅游产业受重创，房地产冻结](https://mp.weixin.qq.com/s/F5jnsWbAfvjf-xCaZQ4OUQ)<br>
 
@@ -459,7 +460,7 @@
 * [广州市疾病预防控制中心](https://mp.weixin.qq.com/s/2e9ZmRxpoSDPhCiaCQfT_g)监测中发现，在一名确诊患者家中门把手上发现了新型冠状病毒的核酸，这是广州首次在外环境中发现。<br>
 * 17时，[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道：外交部辟谣美方称对疫情提供巨大帮助，称美方迄今为止没有提供任何实质性帮助。并提及1月3日起共30次向美方通报疫情信息和防控措施。引发舆论反弹，随后央视删除博文。<br>
 * 晚间，[教育部](https://weibo.com/2810373291/Isx6TlPi5?ref=collection&type=comment#_rnd1580790342236)发布原定近期举行的自划线高校硕士研究生复试录取工作和有关招生单位博士研究生考试招生工作等推迟举行。<br>
-* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
+* 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)。<br>
 
 【国际】<br>
 * 针对极少数国家个别人和媒体连续出现不友善甚至辱华仇华言行，[中国驻英国大使馆](https://mp.weixin.qq.com/s/XRIJCN0Fdugl1t-u8Vs69w)提醒在英中国公民妥善应对不良分子挑衅。<br>
