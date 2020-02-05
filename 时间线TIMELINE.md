@@ -125,15 +125,23 @@
 * 中国疾病预防控制中心启动二级应急响应。见[Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia（《新型冠状病毒感染肺炎在中国武汉的初期传播动力学》）](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)<br>
 
 ## 2020年1月7日
+【武汉-湖北】<br>
 * 21时，[国家卫健委病原检测结果初步评估专家组](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)实验室获得了新冠病毒的全基因组序列，“不明原因的病毒性肺炎”病例的病原体初步判定为新型冠状病毒。【按，基因序列的测出意味着可以对新发患者作出诊断，即开始可以确诊“新冠肺炎”。】经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒。《柳叶刀》[A novel coronavirus outbreak of global health concern（《关系到全球卫生的新冠状病毒的爆发》）](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)也提及此日期。<br>
 * 武汉同济医院急诊科医生陆俊复查时双肺出现斑片和毛玻璃样病变，后诊断为“不明原因病毒性肺炎”。见2月3日[财新网 | 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)刘力采访回忆内容。<br>
+【中国】<br>
 * 同日，香港民建联主席李慧琼表达[对武汉不明原因肺炎关注](https://github.com/Pratitya/wuhan2020-timeline/issues/55#issue-558823968)，希望中联办助香港了解疫情。受到网友群嘲。<br>
-
+【国际】<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200107-1018950?utm_source=ZB_iPhone&utm_medium=share)：武汉/香港综合讯：武汉当局预计不明肺炎病例还会增加，据武汉疾病预防控制中心主任李刚介绍，目前尚未发现明确不明肺炎人传人的证据。<br>
 ## 2020年1月8日
+【武汉-湖北】<br>
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3336166.htm)闭幕。<br>
 * 下午，[武汉市第十四届人民代表大会第四次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3336229.htm)在圆满完成各项议程后闭幕。<br>
-* 美国疾控中心通知医院，注意从武汉回来的有呼吸道症状的病人。见美国疾控中心1月30日的[新闻](https://www.cdc.gov/media/releases/2020/p0130-coronavirus-spread.html)。<br>
+【中国】<br>
 * 晚间，国家卫生健康委第二批专家组成员、北京大学第一医院呼吸和危重症医学科主任王广发随专家组（医疗救治组）抵达武汉。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
+【国际】<br>
+* 美国疾控中心通知医院，注意从武汉回来的有呼吸道症状的病人。见美国疾控中心1月30日的[新闻](https://www.cdc.gov/media/releases/2020/p0130-coronavirus-spread.html)。<br>
+* [新加坡联合早报](http://www.zaobao.com/forum/zaodian/hai-qiang-xin-diao/story20200108-1019221?utm_source=ZB_iPhone&utm_medium=share)： 杨丹旭：神秘肺炎来袭后。新加坡严阵以待，从武汉飞抵新加坡樟宜机场的旅客需要接受体温检测，但大陆媒体没有对武汉肺炎的大规模报道，除武汉外也没有公布不明原因肺炎案例。<br>
+* [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200108-1019222?utm_source=ZB_iPhone&utm_medium=share)：港府规定未明呼吸传染病例须呈报 患者及有接触者可禁离港。<br>
 
 ## 2020年1月9日
 * 武汉病毒研究所表明该毒株资源已按标准完成国家病毒资源库入库，并进行了标准化保藏（保藏编号：IVCAS 6.7512），可依法依规提供给有关机构，将为当前2019新型冠状病毒的科学研究、疫苗开发、生物医药筛选等提供重要资源支撑。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
@@ -158,9 +166,12 @@
 * 同日晚时，世界卫生组织[发推](https://twitter.com/WHO/status/1216108498188230657)确认收到中国提供的新型冠状病毒基因组序列信息。从此条推文起，配图均为2019-nCov。<br>
 
 ## 2020年1月12日
+【武汉-湖北】<br>
 * 上午，[湖北省第十三届人民代表大会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200113_1910934.shtml)在武昌洪山礼堂隆重开幕。大会主席团常务主席蒋超良、马国强、王瑞连、王玲、周洪宇、王建鸣、刘雪荣、刘晓鸣、胡志强、王亚平在主席台前排就座。开幕大会由蒋超良主持。<br>
 * 20时，武汉市卫健委发布[第五份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)，表示截止11号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211276.html)全文转载公告。<br>
+【国际】<br>
 * 世界卫生组织发布[疾病爆发新闻](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)，称收到中国报告的最新信息：没有明确证据表明此病毒容易在人之间传播、武汉市以外没有发现病例。武汉在跟踪的763位亲密接触者之中，没有发现新的感染者。
+*  [新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428?utm_source=ZB_iPhone&utm_medium=share)：（广州报道）武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>
 
 ## 2020年1月13日
 * 凌晨，武汉市卫健委发布[第六份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)，表示截止12号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211277.html)全文转载公告。<br>
