@@ -442,6 +442,7 @@
 * 《财新周刊》发布[《封面报道 | 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)<br>
 
 【国际】<br>
+* 针对极少数国家个别人和媒体连续出现不友善甚至辱华仇华言行，[中国驻英国大使馆](https://mp.weixin.qq.com/s/XRIJCN0Fdugl1t-u8Vs69w)提醒在英中国公民妥善应对不良分子挑衅。<br>
 * 当地时间14时，齐泽克发布[《清晰的种族主义元素到对新型冠状病毒的歇斯底里》（Clear racist element to hysteria over new coronavirus ）](https://www.rt.com/op-ed/479970-coronavirus-china-wuhan-hysteria-racist/)<br>
 
 ## 2020年2月4日
