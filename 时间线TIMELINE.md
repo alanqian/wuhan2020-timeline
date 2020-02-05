@@ -393,6 +393,7 @@
 
 【国际】<br>
 * 当地时间晚间，[世界卫生组织（WHO）](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))在瑞士日内瓦召开新闻发布会，世界卫生组织总干事谭德塞宣布新型冠状病毒疫情构成国际关注的突发公共卫生事件。<br>
+* 当地下午，柏林中心区，两名女性辱骂并袭击了一名23岁的中国女生，称呼她为中国病毒、向她吐口水、撕扯她的头发将她撕倒在地上，随后殴打并踢了她腿部、躯干和头部。警方将这一罪行归定性“种族歧视袭击”。2月2日经由[雅伦Yalun](https://weibo.com/1762734052/IsfkI80jK?from=page_1005051762734052_profile&wvr=6&mod=weibotime&type=comment#_rnd1580870258462)微博转知国内。<br>
 
 ## 2020年2月1日 初八
 【武汉-湖北】<br>
