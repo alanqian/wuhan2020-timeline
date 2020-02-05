@@ -421,6 +421,7 @@
 * 晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU?ref=collection&type=comment)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>
 * [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
 * 晚间，《财新》杂志微信公众号发布[统计数字之外的人：他们死于“普通肺炎”？ ](https://github.com/Pratitya/wuhan2020-timeline/issues/46#issue-558628515)，表明“目前人们所能看到的确诊、死亡病例数字，并不能完全反映这次疫情的全貌”。<br>
+* [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
 
 【中国】<br>
 * [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
@@ -428,7 +429,7 @@
 * [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
 * [投中网微信公众号](https://mp.weixin.qq.com/s/fryrqddUACB9XnHjoOxu5Q)发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。<br>
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
-* [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
+* [疫情肆虐下的江西农村：1万多只鸡被活埋，旅游产业受重创，房地产冻结](https://mp.weixin.qq.com/s/F5jnsWbAfvjf-xCaZQ4OUQ)<br>
 
 【国际】
 * [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
@@ -444,6 +445,7 @@
 【中国】<br>
 * 9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>
 * 14时，GEM邓紫棋发布新歌[《平凡天使》](https://weibo.com/1705586121/Islraim0Q?ref=collection)。<br>
+* [天津新型肺炎防控工作新闻发布会](https://www.bilibili.com/video/av86483602?from=search&seid=12512306030472408317)上，疾控中心传染病预防控制室主任张颖对此进行详细分析，解开层层迷雾，在发布会现场10多分钟的讲述中，几乎全程脱稿。次日以福尔摩斯式破解病毒传染迷局登上热搜，被[央视新闻微博](https://weibo.com/2656274875/Iswy4bxlt?ref=collection&type=comment)转载。<br>
 * 晚间，网传中国大陆开始管制民间媒体，[不允许民间自媒体采访](https://github.com/Pratitya/wuhan2020-timeline/issues/52#issue-558687451)武汉一线防疫。<br>
 
 ## 2020年2月3日
