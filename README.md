@@ -57,11 +57,11 @@ pr的友邻一定要注意按照上述体例编写！！！
 - 跟进实时的疫情，进行分类编写。
 
 三、人数：25人（大致依据信息源的分类编写，根据实际需要加人）<br>
-- 1.官媒及政府文件（国内外）摘编转述7人（@Pratitya）；
+- 1.官媒及政府文件（国内外）摘编转述7人（@Pratitya）：目前需要实时跟进补充香港方面的信息，以及国际社会一直以来对疫情的反应；
 - 2.民间媒体摘编转述5人（目前由[@jarrywangcn](https://github.com/jarrywangcn)负责，缺4人）；
 - 3.民间自营组织（如慈善机构）公告2人（无）；
-- 4.市井百态（如民间自媒体叙述、个体生命史）7人（无）；
-- 5.医学问题及学术动态4人（目前由[@uuuyouang](https://github.com/uuuyouang)负责，缺3人）。
+- 4.市井百态（如民间自媒体叙述、个体生命史）7人（无）：时间线的编写不一定太能顾及个体，虽然有悖我初衷。但社会上的流言需要重视；
+- 5.医学问题及学术动态4人（目前由[@uuuyouang](https://github.com/uuuyouang)负责，缺3人）：目前需要将1月29日以前医学论文成果的汇入，到底此前发表的论文提供了哪些信息。此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。
 
 - “记录历史，守护记忆。”
 
@@ -108,6 +108,7 @@ pr的友邻一定要注意按照上述体例编写！！！
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+* GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
