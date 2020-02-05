@@ -131,7 +131,7 @@
 【中国】<br>
 * 同日，香港民建联主席李慧琼表达[对武汉不明原因肺炎关注](https://github.com/Pratitya/wuhan2020-timeline/issues/55#issue-558823968)，希望中联办助香港了解疫情。受到网友群嘲。<br>
 【国际】<br>
-* （武汉/香港综合讯）武汉当局预计不明肺炎病例还会增加，据武汉疾病预防控制中心主任李刚介绍，目前尚未发现明确不明肺炎人传人的证据[新加坡联合早报](http://www.zaobao.com/news/china/story20200107-1018950?utm_source=ZB_iPhone&utm_medium=share)。<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200107-1018950?utm_source=ZB_iPhone&utm_medium=share)：武汉/香港综合讯：武汉当局预计不明肺炎病例还会增加，据武汉疾病预防控制中心主任李刚介绍，目前尚未发现明确不明肺炎人传人的证据。<br>
 ## 2020年1月8日
 【武汉-湖北】<br>
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3336166.htm)闭幕。<br>
