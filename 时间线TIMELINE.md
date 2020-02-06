@@ -81,20 +81,26 @@
 * 同日，武汉医学院2004级班级群流传SARS诊断书、肺部CT影响诊断资料，武汉市中心医院眼科医生李文亮叫群内医护及家人注意防范。<br>
 
 ## 2019年12月31日
+【武汉-湖北】<br>
 * 13时，武汉市卫健委发布[第一份公告《武汉市卫健委关于当前我市肺炎疫情的情况通报》](https://github.com/Pratitya/wuhan2020-timeline/issues/7#issue-556822867)，表示到目前为止调查发现27例病例，其中7例严重，所有病例均已隔离治疗。并表示“未发现明显人传人现象，未发现医务人员感染。目前对病原的检测及感染原因的调查正在进行中”。<br>
 * 当日3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)出现病症人数累计达40例。<br>
 * [《长江日报》](http://www.cjrbapp.cjn.cn/wuhan/p/147343.html)记者探访武汉华南海鲜市场。商贩表示市场每天消毒，但正常营业，秩序井然。<br>
 * [央视新闻](https://weibo.com/2656274875/InidkBWZL?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580458837774)报道国家卫建委组织第一批专家组（李兴旺、曹彬等，其他成员存疑）抵达武汉，正展开相关检测核实工作。据武汉大学中南医院重症医学科主任彭志勇回忆，国家卫健委派的专家组到金银潭医院做了调查，“做了一套诊断标准，要有华南海鲜市场的接触史，要有发烧症状，病毒检测呈阳性，这三条标准都达到才能确诊。尤其是第三点，非常苛刻，实际上极少有人能去做病毒检测。”见2月5日[财新网 | 重症科医生亲述：我们是怎样抢救危重病人的](https://mp.weixin.qq.com/s/IlQyOfQtsyvpptPAlTjwPg)。<br>
 * [微博大V江宁婆婆](https://github.com/Pratitya/wuhan2020-timeline/issues/27#issue-557983731)表示武汉拥有全国第一个p4级病毒研究所，“如果武汉搞不定，没人搞得定”，对武汉不明肺炎表示乐观。<br>
+【中国】<br>
 * 同日，香港食物及卫生局开始部署防控措施，加强出入境口岸健康监察，并通知前线医护人员提高警觉。<br>
 * 即日起，把从12月16日住院的疑似患者转移到金银潭医院进行隔离。（此研究共转移了59位疑似患者，住院日期从12月16日到1月1日。后有41位确诊。）见1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>
-* 世界卫生组织中国办事处接到报告，武汉出现原因不明的肺炎。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。
+【国际】<br>
+* 世界卫生组织中国办事处接到报告，武汉出现原因不明的肺炎。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>
+* [Dailymail（每日邮报）](https://www.dailymail.co.uk/health/article-7839625/Dozens-struck-unidentified-pneumonia-China.html)：27人在武汉被神秘未确定种类肺炎感染。<br>
 
 ## 2020年1月1日
 【武汉-湖北】<br>
 * 武汉市公安局官方微博[“平安武汉”](https://github.com/Pratitya/wuhan2020-timeline/issues/9#issue-556840315)依法查处8名武汉市民造谣者，其中包括武汉市中心医院眼科医生李文亮、武汉协和医院肿瘤科谢琳卡医生、神经内科刘文医生等。事后网友称他们是武汉肺炎的“吹哨人”。<br>
 * 关闭整顿华南海鲜城市场。<br>
 * 1月初（具体时间不详），各家医院先后出现了疑似“病毒肺”病人，有一些小的医院，不接收发热病人，把他们推到其他医院。这种情况被其他几家医院联名告到武汉卫健委。武汉卫健委通知，各家医院接诊的病人必须自己治，把转诊的口子堵住了。然而大多数医院都不是传染病医院，并不具备隔离条件。见见[南方周末：独家深访：从发现到封城，武汉一线医护复盘疫情为何爆发](https://github.com/Pratitya/wuhan2020-timeline/issues/51#issue-558681462) <br>
+【中国】<br>
+* [南方周末（海外版）](https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia)：世卫组织（WHO）与北京接触针对武汉神秘肺炎疫情，27人确诊。<br>
 【国际】<br>
 * 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>
 * [新加坡联合早报](http://www.zaobao.com/news/china/story20200101-1017466?utm_source=ZB_iPhone&utm_medium=share)：武汉陆续接治不明原因肺炎病人，网络流传疑SARS再度爆发。卫健委强调，到目前为止，调查未出现明显人传人现象，也未发现医务人员受感染。<br>
@@ -113,8 +119,11 @@
 * 武汉一男子在温州自驾期间出现高热；北京、深圳、日本等地亦有出现。<br>
 【中国】<br>
 * 中方开始向美方通报疫情信息和防控措施。见[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道。<br>
+* [台北中央社](http://www.rfi.fr/cn/20200103-nicolas-%E4%B8%AD%E5%9B%BD-%E8%82%BA%E7%82%8E-%E5%8F%B0%E6%B9%BE-desk-internet-chine-pneumonie-un-virus-grippal-se-propage)：针对中国武汉出现的不明原因肺炎疫情，疾管署副署长当天表示，现已受到大陆方面回复 : 已排除流感 ̖ 禽流感及腺病毒感染，但无法排除是新型冠状病毒疾病。目前累计有44个病例，没有明显人传人迹象。<br>
 【国际】<br>
 * [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200103-1017977?utm_source=ZB_iPhone&utm_medium=share)：武汉华南海鲜市场出现不明原因的肺炎持续发酵，相关病患已全部转入当地一家医院集中隔离治疗，截止发稿，官方未对此次肺炎的病原检测结果进行通告说明。香港、台湾等地则已提高防控层级，希望阻绝疫情入境。<br>
+* [BBC](https://www.bbc.com/news/world-asia-china-50984025)：中国肺炎爆发：神秘疫情调查在武汉。<br>
+
 
 ## 2020年1月4日
 【武汉-湖北】<br>
