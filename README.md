@@ -100,6 +100,9 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
 
+##### 4. 港澳台
+* [香港特别行政区卫生署卫生防护中心](https://www.chp.gov.hk/tc/features/102465.html)<br>
+* [香港特别行政区政府新闻公报-嚴重新型傳染性病原體呼吸系統病](https://www.chp.gov.hk/tc/miniweb/press_release/100063.html)<br>
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
@@ -115,6 +118,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
+* [香港立场新闻](https://thestandnews.com)
 
 #### （二）民间慈善组织
 * 待补
