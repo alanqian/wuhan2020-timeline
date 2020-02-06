@@ -91,26 +91,41 @@
 * 世界卫生组织中国办事处接到报告，武汉出现原因不明的肺炎。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。
 
 ## 2020年1月1日
+【武汉-湖北】<br>
 * 武汉市公安局官方微博[“平安武汉”](https://github.com/Pratitya/wuhan2020-timeline/issues/9#issue-556840315)依法查处8名武汉市民造谣者，其中包括武汉市中心医院眼科医生李文亮、武汉协和医院肿瘤科谢琳卡医生、神经内科刘文医生等。事后网友称他们是武汉肺炎的“吹哨人”。<br>
 * 关闭整顿华南海鲜城市场。<br>
 * 1月初（具体时间不详），各家医院先后出现了疑似“病毒肺”病人，有一些小的医院，不接收发热病人，把他们推到其他医院。这种情况被其他几家医院联名告到武汉卫健委。武汉卫健委通知，各家医院接诊的病人必须自己治，把转诊的口子堵住了。然而大多数医院都不是传染病医院，并不具备隔离条件。见见[南方周末：独家深访：从发现到封城，武汉一线医护复盘疫情为何爆发](https://github.com/Pratitya/wuhan2020-timeline/issues/51#issue-558681462) <br>
-* 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。
+【国际】<br>
+* 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200101-1017466?utm_source=ZB_iPhone&utm_medium=share)：武汉陆续接治不明原因肺炎病人，网络流传疑SARS再度爆发。卫健委强调，到目前为止，调查未出现明显人传人现象，也未发现医务人员受感染。<br>
 
 ## 2020年1月2日
+【武汉-湖北】<br>
 * 武汉病毒研究所确定了新型冠状病毒（以下称2019新型冠状病毒）全基因组序列。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
-* [新加坡健康部](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)发公告称密切关注武汉不明肺炎，并且决定从1月3日起，在樟宜机场对所有从武汉进入新加坡的人进行温度筛查。<br>
 * 武汉市第五医院消化内科吕小红主任建议本院设立发热门诊。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
+【国际】<br>
+* [新加坡健康部](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)发公告称密切关注武汉不明肺炎，并且决定从1月3日起，在樟宜机场对所有从武汉进入新加坡的人进行温度筛查。<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200102-1017696?utm_source=ZB_iPhone&utm_medium=share)：（武汉/香港/台北综合讯）疑是武汉肺炎疫情源头，华南海鲜市场被令休市。<br>
 
 ## 2020年1月3日
+【武汉-湖北】<br>
 * 武汉市卫健委发布[第二份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)，首次提出“不明原因的病毒性肺炎”概念。表示“发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗”，指出“截至目前，初步调查表明，未发现明显的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/InMYgwUhZ?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459087573)转发报道。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211279.html)转发公告。且通知了[世界卫生组织](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。 <br>
 * 武汉一男子在温州自驾期间出现高热；北京、深圳、日本等地亦有出现。<br>
+【中国】<br>
 * 中方开始向美方通报疫情信息和防控措施。见[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道。<br>
+【国际】<br>
+* [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200103-1017977?utm_source=ZB_iPhone&utm_medium=share)：武汉华南海鲜市场出现不明原因的肺炎持续发酵，相关病患已全部转入当地一家医院集中隔离治疗，截止发稿，官方未对此次肺炎的病原检测结果进行通告说明。香港、台湾等地则已提高防控层级，希望阻绝疫情入境。<br>
 
 ## 2020年1月4日
+【武汉-湖北】<br>
 * 上午，[政协武汉市第十三届委员会第三次会议](http://news.cjn.cn/tfsj/2019whlh/ttxw_16360/201901/t3334169.htm?spm=zm1066-001.0.0.1.ud9lKo)开幕。市委书记马国强出席大会并讲话。省政协副主席彭军代表省政协致辞。市长周先旺、市组织部长胡立山出席大会并在主席台就座。<br>
+【中国】<br>
 * 中国工程院院士、中国疾病预防控制中心传染病预防控制所所长徐建国接受《大公报》采访时表示，从目前看，未发现明显的人传人证据，未发现医务人员感染，且没有发生死亡案例，说明病毒威胁水平有限。徐建国还强调，中国的传染病控制有多年的积累，绝不会出现因为春运发生大扩散的可能性。<br>
 * 当地时间1月4日，世界卫生组织[发推](https://twitter.com/WHO/status/1213523866703814656)称，收到中国报告，武汉出现一撮肺炎患者。世界卫生组织总部、亚洲地区以及中国的工作人员密切关注此事。此条推文无配图。<br>
 * [香港特区政府公布](https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm)[《对公共卫生有重要性的新型传染病准备及应变计划》](https://www.chp.gov.hk/files/pdf/govt_preparedness_and_response_plan_for_novel_infectious_disease_of_public_health_significance_chi.pdf)，并同时启用严重应变级别，即时生效。
+【国际】<br>
+* [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018241?utm_source=ZB_iPhone&utm_medium=share)：（中新社）武汉肺炎个案增至44例，重症11例港疑似个案增至五人。<br>
+* [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018246?utm_source=ZB_iPhone&utm_medium=share)：（中通社）武汉肺炎恐慌蔓延到港。<br>
 
 ## 2020年1月5日
 * 武汉病毒研究所成功分离到了病毒毒株。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
@@ -130,6 +145,7 @@
 
 【国际】<br>
 * 美国卫生与公共服务部向中国提出可以派遣一支疾控小组协助中国的公共卫生防疫努力。见[1月28日美国公共卫生机构就新冠病毒疫情举行的新闻发布会](https://github.com/Pratitya/wuhan2020-timeline/issues/30#issue-558084328)<br>
+* [新加坡联合早报](http://www.zaobao.com/news/china/story20200106-1018675?utm_source=ZB_iPhone&utm_medium=share)：（香港中通社）再有八人从武汉返港后感不适，肺炎个案增至16宗。<br>
 
 ## 2020年1月7日
 【武汉-湖北】<br>
