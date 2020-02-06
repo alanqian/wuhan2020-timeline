@@ -26,7 +26,6 @@
 
 ## 2019年12月18日
 * 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-* “第一例”武汉不明肺炎病人入院。见Li-Li Ren, et al. Identification of a novel coronavirus causing severe pneumonia in human: a descriptive study. Chinese Medical Journal, Jan. 30, 2020
 
 ## 2019年12月19日
 * [市委常委会召开会议传达学习中央经济工作会议精神，市委书记马国强主持会议。](http://www.wuhan.gov.cn/2019_web/whyw/201912/t20191220_301820.html)<br>
