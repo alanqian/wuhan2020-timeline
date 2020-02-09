@@ -136,6 +136,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
 * [新冠肺炎：親歷者見聞選編（持續更新）](https://shimo.im/docs/5dbf36f637674529/read)<br>
+* GitHub项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
 
 #### （二）自媒体（VLOG、疫情分析）
 * [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
