@@ -191,7 +191,10 @@
 * 武汉大学中南医院向武汉市卫健委报告了不明肺炎传染病ICU准备的16张床位已住满的严重事态。见2月5日[财新网 | 重症科医生亲述：我们是怎样抢救危重病人的](https://mp.weixin.qq.com/s/IlQyOfQtsyvpptPAlTjwPg)。<br>
 * [稳健医疗](https://github.com/Pratitya/wuhan2020-timeline/issues/6#issue-556820423)决定，动员子公司唯一的口罩车间380人，春节不休假，生产N95口罩、外科口罩和护理口罩。<br>
 * 晚间，随国家卫健委专家组前往武汉的第一批国家医疗专家组北京大学第一医院呼吸内科主任王广发接受新华社采访时表示，目前病人的病情和整体疫情处于可控状态，大部分患者病情属于轻到中度。<br>
+
+【国际】
 * 世界卫生组织发布[国际旅行与卫生建议](https://www.who.int/ith/2020-0901_outbreak_of_Pneumonia_caused_by_a_new_coronavirus_in_C/en/)，称没有收到武汉市之外的感染报告，不建议旅客采取任何具体的健康措施，建议不要对中国实行任何旅行或贸易限制。同步的[推文](https://twitter.com/WHO/status/1215320529059688449)配图仍为冠状病毒。<br>
+* 世界卫生组织发布[Surveillance case definitions for human infection with novel coronavirus] (https://apps.who.int/iris/bitstream/handle/10665/330376/WHO-2019-nCoV-Surveillance-v2020.1-eng.pdf?sequence=5&isAllowed=y)《关于新冠状病毒的监控案例定义》以及[Laboratory testing of human suspected cases of novel coronavirus (nCoV) infection](https://apps.who.int/iris/bitstream/handle/10665/330374/WHO-2019-nCoV-laboratory-2020.1-eng.pdf)<br>《疑似新型冠状病毒病例的实验准则》。第一份文件明确了主要监控目的为监测并确定被新冠状病毒感染的案例，并寻找扩大或持续人传人的证据(amplified or sustained human-to-human transmission). 报告表明疾病的临床表征，轻重光谱，病程，还需进一步确定；病毒的流行病学特征，如如何传播，风险系数，需要跟进观察。第二份文件指出武汉肺炎的病原体还没有最后确证，但是已从至少一名肺炎病人处培育出新β属冠狀病毒，并通过电子显微镜和基因序列进行了特征描述。通过聚合酶链式反应在另15位病人身上检测出了同样的病毒。完整的基因组序列和关于推定病原的其他信息以及针对该病毒的探测方法，将会很快给出。
 
 ## 2020年1月11日
 【武汉-湖北】<br>
@@ -221,9 +224,15 @@
 * 凌晨，武汉市卫健委发布[第六份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)，表示截止12号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211277.html)全文转载公告。<br>
 * [武汉市卫健委](https://github.com/Pratitya/wuhan2020-timeline/issues/5#issue-556810708)为强化技术交流，应港澳台地区相关部门请求，接待了港澳台地区专家组实地考察。<br>
 
+【国际】
+* 泰国公共卫生部门通报第一名新型冠状病毒感染者，该患者61岁，于1月8日乘坐直达班机从武汉前往泰国。该患者并未与华南海鲜市场有过直接接触。
+
 ## 2020年1月14日
 * 凌晨，武汉市卫健委发布[第七份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)，表示截止13号24时，“无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告”。同时指出“泰国通报诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。目前在泰国隔离治疗，其回国的密切接触者正开展追踪医学观察。”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211278.html)全文转载公告。<br>
 * 新华社报道，武汉武昌、汉口、武汉三大车站安装配备了29台红外测温仪。<br>
+
+【国际】
+* IJID《国际传染病杂志》发表[关于2019-nCoV疫情对国际健康的持续影响](https://www.ijidonline.com/article/S1201-9712(20)30011-4/fulltext)的社论称中国卫健委向国际卫生组织通报新型冠状病毒后，香港，澳门，台湾的卫生部门提高了边境审查力度，并恐新型病毒会威胁国际公共卫生。截至1月10日，已有41名患者感染新型冠状病毒，症状为发热(>90%)，腹泻，干咳(80%)，气短(20%),和呼吸困难(15%)。虽然自1月3日气武汉没有新增病例，但是泰国的第一名病例发现于1月13日。该病例从未与华南海鲜市场有过直接接触。
 
 ## 2020年1月15日
 【武汉-湖北】<br>
@@ -343,6 +352,7 @@
 * 国际顶级医学期刊The Lancet（《柳叶刀》）发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。文章详细记录、分析了疫情初始阶段41名病例的临床资料，文章显示已知第一个出现症状的病例（12月1日，事后确诊）未接触华南海鲜批发市场。（余见前文）12月10日出现第一个与海鲜城相关病例。文章第一作者是武汉金银潭医院副院长黄朝林，其他作者包括国家专家组成员李兴旺、王广发（第二批）、蒋荣猛。北京中日友好医院曹彬、北京协和医院王建伟是共同通讯作者。
 * 同日，《柳叶刀》发表题为[2019新冠肺炎家族性研究(A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster)](https://github.com/Pratitya/wuhan2020-timeline/issues/28)的文章，确认病毒感染一家, 病毒基因序列均不同 (意味着病毒在不同人体内出现不同程度变异)，同时病毒在与病毒库中的冠状病毒进行对比, 是从未见过的 (暂不了解病毒结构)。<br>
 * 英国专家警告：至少有4,000人，武汉最坏情况为近万人染病(http://www.zaobao.com/znews/international/story20200124-1023619?utm_source=ZB_iPhone&utm_medium=share)。 <br>
+* 中国新型冠状病毒课题组的朱娜等人在NEJM《新英格兰医学期刊》发表题为 [A Novel Coronavirus from Patients with Pneumonia in China, 2019] (https://www.nejmqianyan.cn/article/YXQYoa2001017)《2019年从中国肺炎患者分离出的新型冠状病毒》一文，通报了在从三名与华南海鲜市场有过接触的病例的气道上皮细胞中分离出来了新型冠状病毒，并命名为2019-nCov。 新型病毒属于β冠状病毒属，常见于人类，蝙蝠，和其他野生动物体内。关于该病毒更新的信息，已从830位患者身上取得。
 
 ## 2020年1月25日 初一
 【武汉-湖北】<br>
