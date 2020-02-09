@@ -160,6 +160,7 @@
 【国际】<br>
 * 当地时间1月5日，世界卫生组织发[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)，总结一月初的情况：12月31日接到中国报告未明原因肺炎；1月3日已接到中国汇报共计44例疑似患者。同时，世界卫生组织[发推](https://twitter.com/WHO/status/1213795226072109058)的配图是：武汉肺炎。<br>
 * 同日，世界卫生组织[发推](https://twitter.com/WHO/status/1213847304186343424)称，中国已排除流感，禽流感，腺病毒，SARS或MERS。疾病具体原因还在核查中。目前已有59位疑似。（此59位应该就是1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)）论文中的59位。）<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/05/mystery-illness-to-strike-chinese-city-is-not-sars-say-authorities-wuhan?CMP=Share_iOSApp_Other)：中国官方宣布新型神秘病毒不是SARS，同时在武汉已经有59人患有新型疾病的特征，7人病重。<br>
 
 ## 2020年1月6日
 【武汉-湖北】<br>
@@ -208,6 +209,7 @@
 
 【国际】<br>
 * 世界卫生组织[发推](https://twitter.com/WHO/status/1215320529059688449)，介绍冠状病毒、SARS、MERS及个人防护措施。此条推文配图为：冠状病毒。
+* [英国卫报](https://www.theguardian.com/science/2020/jan/09/china-pneumonia-outbreak-may-be-caused-by-sars-type-virus-who?CMP=Share_iOSApp_Other): 据世界卫生组织（WHO）宣布：造成新型中国肺炎的病毒可能来源于SARS的同种类型。<br>
 
 ## 2020年1月10日
 【武汉-湖北】<br>
@@ -221,6 +223,7 @@
 【国际】<br>
 * 世界卫生组织发布[国际旅行与卫生建议](https://www.who.int/ith/2020-0901_outbreak_of_Pneumonia_caused_by_a_new_coronavirus_in_C/en/)，称没有收到武汉市之外的感染报告，不建议旅客采取任何具体的健康措施，建议不要对中国实行任何旅行或贸易限制。同步的[推文](https://twitter.com/WHO/status/1215320529059688449)配图仍为冠状病毒。<br>
 * 世界卫生组织发布[Surveillance case definitions for human infection with novel coronavirus（《关于新冠状病毒的监控案例定义》）](https://apps.who.int/iris/bitstream/handle/10665/330376/WHO-2019-nCoV-Surveillance-v2020.1-eng.pdf?sequence=5&isAllowed=y)，以及[Laboratory testing of human suspected cases of novel coronavirus (nCoV) infection（《疑似新型冠状病毒病例的实验准则》）](https://apps.who.int/iris/bitstream/handle/10665/330374/WHO-2019-nCoV-laboratory-2020.1-eng.pdf)。第一份文件明确了主要监控目的为监测并确定被新冠状病毒感染的案例，并寻找扩大或持续人传人的证据(amplified or sustained human-to-human transmission)。报告表明疾病的临床表征，轻重光谱，病程，还需进一步确定；病毒的流行病学特征，如如何传播，风险系数，需要跟进观察。第二份文件指出武汉肺炎的病原体还没有最后确证，但是已从至少一名肺炎病人处培育出新β属冠狀病毒，并通过电子显微镜和基因序列进行了特征描述。通过聚合酶链式反应在另15位病人身上检测出了同样的病毒。完整的基因组序列和关于推定病原的其他信息以及针对该病毒的探测方法，将会很快给出。<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/09/chinas-sars-like-illness-worries-health-experts?CMP=Share_iOSApp_Other): 据中国官方宣布，新型肺炎在人与人之间并没有表现出像SARS一样的高传染性，也没有表现中东热（Mers）一样的35%的致死率，目前无人死亡。<br>
 
 ## 2020年1月11日
 【武汉-湖北】<br>
@@ -235,6 +238,7 @@
 * 同日，国际合作司发[公告](http://www.nhc.gov.cn/gjhzs/s7952/202001/422796acaea746549f93e617ccc348a1.shtml)：中国与世界卫生组织分享新型冠状病毒基因序列信息。<br>
 * 世界卫生组织[发推](https://twitter.com/WHO/status/1215981049869668353)，为医护人员提供跟踪患者、实验室化验、疾病控制、信息公开等方面提出指导办法。推文配图仍为冠状病毒。<br>
 * 同日晚时，世界卫生组织[发推](https://twitter.com/WHO/status/1216108498188230657)确认收到中国提供的新型冠状病毒基因组序列信息。从此条推文起，配图均为2019-nCov。<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/11/china-mystery-illness-outbreak-causes-first-death?CMP=Share_iOSApp_Other): 据武汉官方宣布，一名61岁的感染者去世，并且有41人确诊，2人治愈，据称有739人与确诊的患者有过接触。<br>
 
 ## 2020年1月12日
 【武汉-湖北】<br>
@@ -259,6 +263,7 @@
 
 【国际】
 * IJID《国际传染病杂志》发表[《关于2019-nCoV疫情对国际健康的持续影响》](https://www.ijidonline.com/article/S1201-9712(20)30011-4/fulltext)的社论称中国卫健委向国际卫生组织通报新型冠状病毒后，香港，澳门，台湾的卫生部门提高了边境审查力度，并恐新型病毒会威胁国际公共卫生。截至1月10日，已有41名患者感染新型冠状病毒，症状为发热(>90%)，腹泻，干咳(80%)，气短(20%),和呼吸困难(15%)。虽然自1月3日气武汉没有新增病例，但是泰国的第一名病例发现于1月13日。该病例从未与华南海鲜市场有过直接接触。<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/14/case-of-mystery-coronavirus-found-outside-china-for-the-first-time-thailand?CMP=Share_iOSApp_Other):据泰国官方宣布，在中国境外发现的第一例武汉新型肺炎确诊病例被发现，这名女性在当地时间1月5日发病，并于1月8日被送往医院，该女性曾经有过直接接触与武汉的一所农贸市场，但该市场并没有被武汉官方确定为疾病的传染源。 <br>
 
 ## 2020年1月15日
 【武汉-湖北】<br>
@@ -278,9 +283,15 @@
 * [新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200115-1021202?utm_source=ZB_iPhone&utm_medium=share):（日内瓦/武汉/香港/台北综合讯）世界卫生组织于1月14日表示：虽然引发中国武汉肺炎疫情的新型冠状病毒“有限度人传人”，但不排除疫情有可能扩大蔓延。并且，世卫已向全球医院发出防疫指导方针。<br>
 
 ## 2020年1月16日
+【武汉-湖北】<br>
 * 凌晨，武汉市卫健委发布[第九份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011609057)，表示截止15号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院5例，新增死亡病例1例（熊某，69岁）”，“尚在接受医学观察119人，密切接触者中，没有发现相关病例”。<br>
 * 第二批专家组成员王广发返回北京，当时判断“疫情可能比较严重了”。事后回忆，“主要根据的是（武汉）发热门诊的情况。当时一到北京，专家组就马上开会。我那时还没发烧，也不知道有医务人员感染、人传人的情况”。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
+
+【中国】<br>
 * 当地时间15日，中美双方在美国华盛顿签署[《中华人民共和国政府和美利坚合众国政府经济贸易协议》](http://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202001/t20200116_3460124.htm)。<br>
+
+【国际】<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/16/japan-confirms-first-case-of-new-china-coronavirus-strain?CMP=Share_iOSApp_Other): 据日本官方宣布，在日本发现第一例确诊武汉新型肺炎病例，该名男子30岁，曾到过武汉。昨日，1月15日美国宣布对中国武汉地区的旅游警告。<br>
 
 ## 2020年1月17日
 * 武汉文化旅游局发布[《购买2020春节文化旅游惠民活动氛围布置服务的公告》](http://wlj.wuhan.gov.cn/html/gsgg/20200117/13258.html)。<br>
@@ -296,6 +307,8 @@
 【国际】<br>
 * 同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>
 * [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055?utm_source=ZB_iPhone&utm_medium=share)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak?CMP=Share_iOSApp_Other): 武汉新型肺炎的第二例死亡病例被中国官方确认。 [英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers?CMP=Share_iOSApp_Other):美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有武汉新型肺炎的体征。<br>
+
 
 ## 2020年1月19日 年廿五
 【武汉-湖北】<br>
@@ -327,6 +340,9 @@
 【中国】<br>
 * 国家卫健委开始跟进新型冠状病毒感染的肺炎疫情情况，发布[第一份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/930c021cdd1f46dc832fc27e0cc465c8.shtml)，表示“截至1月20日24时，我委收到国内4省（区、市）累计报告新型冠状病毒感染的肺炎确诊病例291例（湖北省270例，北京市5例，广东省14例，上海市2例）；14省（区、市）累计报告疑似病例54例（湖北省11例，广东省7例，四川省3例，云南省1例，上海市7例，广西壮族自治区1例，山东省1例，吉林省1例，安徽省1例，浙江省16例，江西省2例，海南省1例，贵州省1例，宁夏回族自治区1例）。收到日本通报确诊病例1例，泰国通报确诊病例2例，韩国通报确诊病例1例。”<br>
 * 四川省省长尹力主持召开[省政府第41次常务会议](https://weibointl.api.weibo.cn/share/119532293.html?weibo_id=4463226391384870)，要求立刻开始部署疫情防控工作。<br>
+
+【国际】<br>
+* [英国卫报](https://www.theguardian.com/australia-news/2020/jan/21/australian-man-tested-for-coronavirus-after-returning-from-china-with-respiratory-illness?CMP=Share_iOSApp_Other): 澳大利亚发现第一例武汉新型肺炎疑似病例，该名男子从武汉返回澳大利亚。<br>
 
 ## 2020年1月22日 年廿八
 【武汉-湖北】<br>
@@ -360,6 +376,7 @@
 
 【国际】<br>
 * 武汉病毒所石正丽团队在bioRxiv预印版平台上发表文章《一种新型冠状病毒的发现及其可能的蝙蝠起源》（“Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin”），提出新型肺炎病毒或来源于蝙蝠。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
+* [英国卫报](https://www.theguardian.com/science/2020/jan/22/coronavirus-who-steps-back-from-declaring-public-health-emergency?CMP=Share_iOSApp_Other):世界卫生组织（WHO）宣布推后对中国武汉发生的新型肺炎确定为国际关注的突发公共卫生事件（a public health  emergency of intenational concern）的决定。<br>
 
 ## 2020年1月24日 除夕
 【武汉-湖北】<br>
@@ -515,7 +532,7 @@
 
 【国际】
 * [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
-* [澳洲政府](https://www.skynews.com.au/details/_6128821462001)宣布即日起禁止从中国大陆入境、中转的旅客入境，除澳洲公民和持有澳洲绿卡的人士以外。<br>
+* 紧跟美国政府宣布禁止旅客从中国出发、转经入境美国的禁令之后，[澳洲政府](https://www.skynews.com.au/details/_6128821462001)宣布即日起禁止从中国大陆入境、中转的旅客入境，除澳洲公民和持有澳洲绿卡的人士以外。<br>
 
 ## 2020年2月2日
 【武汉-湖北】<br>
