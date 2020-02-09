@@ -216,7 +216,7 @@
 
 【国际】<br>
 * 世界卫生组织发布[国际旅行与卫生建议](https://www.who.int/ith/2020-0901_outbreak_of_Pneumonia_caused_by_a_new_coronavirus_in_C/en/)，称没有收到武汉市之外的感染报告，不建议旅客采取任何具体的健康措施，建议不要对中国实行任何旅行或贸易限制。同步的[推文](https://twitter.com/WHO/status/1215320529059688449)配图仍为冠状病毒。<br>
-* 世界卫生组织发布[Surveillance case definitions for human infection with novel coronavirus（《关于新冠状病毒的监控案例定义》）] (https://apps.who.int/iris/bitstream/handle/10665/330376/WHO-2019-nCoV-Surveillance-v2020.1-eng.pdf?sequence=5&isAllowed=y)以及[Laboratory testing of human suspected cases of novel coronavirus (nCoV) infection（《疑似新型冠状病毒病例的实验准则》）](https://apps.who.int/iris/bitstream/handle/10665/330374/WHO-2019-nCoV-laboratory-2020.1-eng.pdf)。第一份文件明确了主要监控目的为监测并确定被新冠状病毒感染的案例，并寻找扩大或持续人传人的证据(amplified or sustained human-to-human transmission)。报告表明疾病的临床表征，轻重光谱，病程，还需进一步确定；病毒的流行病学特征，如如何传播，风险系数，需要跟进观察。第二份文件指出武汉肺炎的病原体还没有最后确证，但是已从至少一名肺炎病人处培育出新β属冠狀病毒，并通过电子显微镜和基因序列进行了特征描述。通过聚合酶链式反应在另15位病人身上检测出了同样的病毒。完整的基因组序列和关于推定病原的其他信息以及针对该病毒的探测方法，将会很快给出。<br>
+* 世界卫生组织发布[Surveillance case definitions for human infection with novel coronavirus（《关于新冠状病毒的监控案例定义》）](https://apps.who.int/iris/bitstream/handle/10665/330376/WHO-2019-nCoV-Surveillance-v2020.1-eng.pdf?sequence=5&isAllowed=y)，以及[Laboratory testing of human suspected cases of novel coronavirus (nCoV) infection（《疑似新型冠状病毒病例的实验准则》）](https://apps.who.int/iris/bitstream/handle/10665/330374/WHO-2019-nCoV-laboratory-2020.1-eng.pdf)。第一份文件明确了主要监控目的为监测并确定被新冠状病毒感染的案例，并寻找扩大或持续人传人的证据(amplified or sustained human-to-human transmission)。报告表明疾病的临床表征，轻重光谱，病程，还需进一步确定；病毒的流行病学特征，如如何传播，风险系数，需要跟进观察。第二份文件指出武汉肺炎的病原体还没有最后确证，但是已从至少一名肺炎病人处培育出新β属冠狀病毒，并通过电子显微镜和基因序列进行了特征描述。通过聚合酶链式反应在另15位病人身上检测出了同样的病毒。完整的基因组序列和关于推定病原的其他信息以及针对该病毒的探测方法，将会很快给出。<br>
 
 ## 2020年1月11日
 【武汉-湖北】<br>
