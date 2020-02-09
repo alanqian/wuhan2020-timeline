@@ -480,9 +480,9 @@
 * [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
 * [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
 * [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
-* [投中网微信公众号](https://mp.weixin.qq.com/s/fryrqddUACB9XnHjoOxu5Q)发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。<br>
+* 投中网微信公众号发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。（原文已删除）<br>
 * [《财新周刊》](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)因技术原因延迟发刊。<br>
-* 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日[删文](https://mp.weixin.qq.com/s/ZaPc5hFDWpQMa3GJOPE5dw)。<br>
+* 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日文章被删除。<br>
 * [疫情肆虐下的江西农村：1万多只鸡被活埋，旅游产业受重创，房地产冻结](https://mp.weixin.qq.com/s/F5jnsWbAfvjf-xCaZQ4OUQ)<br>
 
 【国际】
