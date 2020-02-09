@@ -160,7 +160,7 @@
 【国际】<br>
 * 当地时间1月5日，世界卫生组织发[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)，总结一月初的情况：12月31日接到中国报告未明原因肺炎；1月3日已接到中国汇报共计44例疑似患者。同时，世界卫生组织[发推](https://twitter.com/WHO/status/1213795226072109058)的配图是：武汉肺炎。<br>
 * 同日，世界卫生组织[发推](https://twitter.com/WHO/status/1213847304186343424)称，中国已排除流感，禽流感，腺病毒，SARS或MERS。疾病具体原因还在核查中。目前已有59位疑似。（此59位应该就是1月24日发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)）论文中的59位。）<br>
-* [英国卫报](https://www.theguardian.com/world/2020/jan/05/mystery-illness-to-strike-chinese-city-is-not-sars-say-authorities-wuhan?CMP=Share_iOSApp_Other):中国官方宣布新型神秘病毒不是SARS，同时在武汉已经有59人患有新型疾病的特征，7人病重。<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/05/mystery-illness-to-strike-chinese-city-is-not-sars-say-authorities-wuhan?CMP=Share_iOSApp_Other)：中国官方宣布新型神秘病毒不是SARS，同时在武汉已经有59人患有新型疾病的特征，7人病重。<br>
 
 ## 2020年1月6日
 【武汉-湖北】<br>
