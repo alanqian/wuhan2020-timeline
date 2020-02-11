@@ -167,6 +167,7 @@
 【武汉-湖北】<br>
 * 一位来自黄冈呼吸困难的重症病人被多家医院拒收后，送到武汉大学中南医院急诊科，重症医学科主任彭志勇参与会诊，并告知院长这个病人很可能会传染别人，一定要严格按照传染病防护方法采取隔离措施，疏散病房的其他病人，按照SARS的标准改造病房，把医务人员的生活区和病人隔离开。见2月5日[财新网 | 重症科医生亲述：我们是怎样抢救危重病人的](https://mp.weixin.qq.com/s/IlQyOfQtsyvpptPAlTjwPg)。<br>
 * 湖北省卫健委从武汉地区抽调了医护人员支援武汉金银潭医院。2月9日[《长江日报：黄朝林：42天用6种身份与病毒较量》](http://cjrb.cjn.cn/html/2020-02/09/content_164342.htm)。<br>
+* 湖北省卫健委官方微信公众号[健康湖北](https://mp.weixin.qq.com/s/7XNck2ZZSygZ5XR4hh5rsQ)转载长江日报记者对疾控专家、武汉市疾病预防控制中心主任李刚的专访。李刚表示“病原鉴定和病因溯源工作仍在进一步进行中，尚未发现明确的人传人证据”。<br>
 
 【中国】<br>
 * 中国疾病预防控制中心启动二级应急响应。见[Qun Li, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia. The New England Journal of Medicine, Jan. 29, 2020（《新型冠状病毒感染肺炎在中国武汉的初期传播动力学》）](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)<br>
