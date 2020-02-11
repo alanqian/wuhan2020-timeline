@@ -247,22 +247,26 @@
 * 武汉市卫健委一个专家组3人到中南医院调查。据重症医学科主任彭志勇回忆，“专家组说临床表现和SARS确实有点像，但他们还是在讲诊断的标准那一套东西。我们就反映，诊断标准太苛刻了，按照这个标准，很难有人会被确诊。”此时，彭志勇知道别的医院也在向武汉卫健委反映。见2月5日[财新网 | 重症科医生亲述：我们是怎样抢救危重病人的](https://mp.weixin.qq.com/s/IlQyOfQtsyvpptPAlTjwPg)。<br>
 * 20时，武汉市卫健委发布[第五份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)，表示截止11号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211276.html)全文转载公告。<br>
 
+【中国】<br>
+* 首都医科大学附属北京地坛医院自今年1月12日起开始承担新冠肺炎患者的救治、筛查、隔离工作，收治了北京市第一例确诊病例。见2月11日[人民日报 | 习近平总书记在北京调研指导新冠肺炎疫情防控工作时的重要讲话引发热烈反响](http://cpc.people.com.cn/n1/2020/0211/c64387-31580547.html)。<br>
+
 【国际】<br>
 * 世界卫生组织发布[疾病爆发新闻](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)，称收到中国报告的最新信息：没有明确证据表明此病毒容易在人之间传播、武汉市以外没有发现病例。武汉在跟踪的763位亲密接触者之中，没有发现新的感染者。<br>
 * [新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428?utm_source=ZB_iPhone&utm_medium=share)：广州报道武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>
 
 ## 2020年1月13日
+【武汉-湖北】<br>
 * 凌晨，武汉市卫健委发布[第六份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011309038)，表示截止12号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院1例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211277.html)全文转载公告。<br>
 * [武汉市卫健委](https://github.com/Pratitya/wuhan2020-timeline/issues/5#issue-556810708)为强化技术交流，应港澳台地区相关部门请求，接待了港澳台地区专家组实地考察。<br>
 
-【国际】
+【国际】<br>
 * 泰国公共卫生部门通报第一名新型冠状病毒感染者，该患者61岁，于1月8日乘坐直达班机从武汉前往泰国。该患者并未与华南海鲜市场有过直接接触。
 
 ## 2020年1月14日
 * 凌晨，武汉市卫健委发布[第七份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)，表示截止13号24时，“无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告”。同时指出“泰国通报诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。目前在泰国隔离治疗，其回国的密切接触者正开展追踪医学观察。”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211278.html)全文转载公告。<br>
 * 新华社报道，武汉武昌、汉口、武汉三大车站安装配备了29台红外测温仪。<br>
 
-【国际】
+【国际】<br>
 * IJID《国际传染病杂志》发表[《关于2019-nCoV疫情对国际健康的持续影响》](https://www.ijidonline.com/article/S1201-9712(20)30011-4/fulltext)的社论称中国卫健委向国际卫生组织通报新型冠状病毒后，香港，澳门，台湾的卫生部门提高了边境审查力度，并恐新型病毒会威胁国际公共卫生。截至1月10日，已有41名患者感染新型冠状病毒，症状为发热(>90%)，腹泻，干咳(80%)，气短(20%),和呼吸困难(15%)。虽然自1月3日气武汉没有新增病例，但是泰国的第一名病例发现于1月13日。该病例从未与华南海鲜市场有过直接接触。<br>
 * [英国卫报](https://www.theguardian.com/world/2020/jan/14/case-of-mystery-coronavirus-found-outside-china-for-the-first-time-thailand?CMP=Share_iOSApp_Other):据泰国官方宣布，在中国境外发现的第一例武汉新型肺炎确诊病例被发现，这名女性在当地时间1月5日发病，并于1月8日被送往医院，该女性曾经有过直接接触与武汉的一所农贸市场，但该市场并没有被武汉官方确定为疾病的传染源。 <br>
 
@@ -309,7 +313,6 @@
 * 同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>
 * [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055?utm_source=ZB_iPhone&utm_medium=share)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>
 * [英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak?CMP=Share_iOSApp_Other): 武汉新型肺炎的第二例死亡病例被中国官方确认。 [英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers?CMP=Share_iOSApp_Other):美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有武汉新型肺炎的体征。<br>
-
 
 ## 2020年1月19日 年廿五
 【武汉-湖北】<br>
