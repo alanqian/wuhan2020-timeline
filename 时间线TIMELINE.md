@@ -714,6 +714,8 @@
 
 ## 2020年2月12日
 【武汉-湖北】<br>
+* [《长江日报》](https://github.com/Pratitya/wuhan2020-timeline/issues/94#issue-563988530)评“风月同天”与“武汉加油” ：奥斯维辛之后，写诗是残忍的。表示：一个民族的语言，来自一个民族基本的、深沉的、持久的力量，语言的根脉不是在“艺术史”里头，而是在中国老百姓利益攸关、生死攸关之时，都会脱口而出的那些词汇——现在，它就是“武汉加油”“湖北加油”“中国加油”。<br>
+
 【中国】<br>
 * [央视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1bpIKIJKBXH5wAcwhad200212&fromapp=cctvnews&version=803&version=803&allow_comment=1)报道，截至14时，西藏自治区累计报告新型冠状病毒感染的肺炎确诊病例1例。现有确诊病例0例，重症病例0例，死亡病例0例，出院病例1例。<br>
 
