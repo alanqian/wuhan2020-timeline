@@ -120,6 +120,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
 ####  * 媒体报道备份项目
 * [2019-nCoV疫情实时播报](https://2019ncov.tk/):汇总国内官方渠道的疫情数据。<br>
+* [后续·有记忆的新闻，持续追踪热点新闻](https://houxu.app/lives)：汇总媒体新闻实时转载。<br>
 * GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
