@@ -752,6 +752,7 @@
 
 【国际】<br>
 * [今日美国](https://www.usatoday.com/story/travel/airline-news/2020/02/11/coronavirus-american-airlines-wont-resume-china-flights-until-april/4723966002/)（USA Today）：当地时间2月12日，美国联合航空和美国航空均表示，目前中美间（包括香港）的航班停航政策将被延续到4月底。此前，这两家航空公司宣布停航中国内地与美国之间的航线至3月28日，停航美港间的航班至2月20日。<br>
+* [星报（加拿大报纸）](https://www.thestar.com/politics/provincial/2020/02/13/ontario-couple-have-recovered-but-are-still-testing-positive-for-coronavirus.html):据报道，加拿大两名患有新型肺炎的夫妻，在被治愈后并且被继续隔离在家中的检测中发现，他们的鼻子和喉咙在使用医用药签检测后，仍检测出新型肺炎的病菌，但尚未清楚这些病菌是“尸体”，还是有活性的病菌，对是否具有传染性也尚不清晰。<br>
 
 ## 2020年2月14日
 【武汉-湖北】<br>
