@@ -190,6 +190,7 @@
 * 武汉同济医院急诊科医生陆俊复查时双肺出现斑片和毛玻璃样病变，后诊断为“不明原因病毒性肺炎”。见2月3日[财新网 | 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)刘力采访回忆内容。<br>
 
 【中国】<br>
+* 习近平主持召开中央政治局常委会会议时，就对新型冠状病毒肺炎疫情防控工作提出了要求。见2月15日[求是网 | 习近平：在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话](https://mp.weixin.qq.com/s/cIWQvs6fWLcLSWXS-NL7mw)。<br>
 * 同日，香港民建联主席李慧琼表达[对武汉不明原因肺炎关注](https://github.com/Pratitya/wuhan2020-timeline/issues/55#issue-558823968)，希望中联办助香港了解疫情。受到网友群嘲。<br>
 
 【国际】<br>
