@@ -769,7 +769,8 @@
 
 ## 2020年2月15日
 【武汉-湖北】<br>
-* 
+* [财新网 | 独家|援建火神山医院 湖南湘潭两工人确诊新冠始末](http://china.caixin.com/2020-02-15/101515765.html?originReferrer=gh_caixinwang)<br>
+
 【中国】<br>
 * 11时，贵州综合广播微博发布中国疾控中心主任高福涉嫌严重违纪违法目前接受调查，后被河南反邪教、黑龙江卫视、广州日报转载发布。13时[微博](https://weibo.com/2085931962/IuiZD14Im?from=page_1002062085931962_profile&wvr=6&mod=weibotime)自证是谣言。<br>
 
