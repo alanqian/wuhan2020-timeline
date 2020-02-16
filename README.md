@@ -66,7 +66,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
  医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
 
 > “记录历史，守护记忆。”
-
+> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)
 
 感兴趣的人欢迎联系，也欢迎直接指正，有优化的建议也欢迎提出！
 --------
