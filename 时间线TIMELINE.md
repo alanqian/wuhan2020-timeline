@@ -771,10 +771,20 @@
 ## 2020年2月15日
 【武汉-湖北】<br>
 * [财新网 | 独家|援建火神山医院 湖南湘潭两工人确诊新冠始末](http://china.caixin.com/2020-02-15/101515765.html?originReferrer=gh_caixinwang)<br>
+* 湖北司法厅退休副厅长陈北洋确诊后拒绝送医隔离引关注。知情人称，陈北洋及妻儿一家三口2月3日就已确诊。后社区和其所在单位多次劝说三人就医隔离，但三人以病情好转为由拒绝。湖北省纪委工作人员则表示，纪检监察部门绝不会放任不管。<br>
+* [新民周刊 | 口述实录 | 快递小哥搞定金银潭医护难题：我送的不是快递，是救命的人啊！](https://mp.weixin.qq.com/s/ClBv1ZomfQ__GG2AFHEKrQ)<br>
 
 【中国】<br>
 * 11时，贵州综合广播微博发布中国疾控中心主任高福涉嫌严重违纪违法目前接受调查，后被河南反邪教、黑龙江卫视、广州日报转载发布。13时[微博](https://weibo.com/2085931962/IuiZD14Im?from=page_1002062085931962_profile&wvr=6&mod=weibotime)自证是谣言。<br>
+* [央视新闻](https://wap.peopleapp.com/article/5156381/5055261)：近日，在钟南山院士的指导下，实验室联合多家研究机构，最新研发出新型冠状病毒IgM抗体快速检测试剂盒，并已在实验室和临床完成初步评价。据介绍，仅需采取一滴血就可在15分钟内肉眼观察获得检测结果，且患者的血浆稀释500至1000倍后，仍能检测出阳性条带。<br>
+* [中国日报网](https://weibo.com/2127460165/IukTGksbG?type=comment)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>
 
 【国际】<br>
 * [纽约时报](https://www.nytimes.com/aponline/2020/02/14/world/middleeast/ap-ml-china-outbreak-egypt-.html?searchResultPosition=10)：埃及卫生和人口部与世界卫生组织（世卫组织）当天宣布发现一外国人确诊感染新冠病毒肺炎病例，无明显症状。系非洲首例新冠肺炎。<br>
+* [BFMTV](https://www.bfmtv.com/sante/coronavirus-buzyn-annonce-la-mort-d-un-patient-en-france-le-premier-en-dehors-de-l-asie-1858467.html)：来自湖北省的中国游客，于1月16日抵达法国，于1月25日以严格的隔离措施住进了比查特医院（巴黎），后来病情迅速恶化去世。是为亚洲以外首例新冠肺炎死亡病例。<br>
 
+## 2020年2月16日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* [NHK](https://www3.nhk.or.jp/news/html/20200216/k10012287771000.html?utm_int=word_contents_list-items_002&word_result=%E6%96%B0%E5%9E%8B%E8%82%BA%E7%82%8E)：日本厚生劳动相加藤胜信16日表示，停泊在横滨港的“钻石公主号”邮轮上新增70名新冠肺炎确诊病例，目前，“钻石公主号”邮轮上共确诊355例新冠肺炎病例。<br>
