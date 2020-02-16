@@ -345,6 +345,7 @@
 * 武汉市第五医院消化内科吕小红主任给附近高中的校长发去短信，让给原计划补课的高三学生放假。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
 * 19时，[武汉市卫健委](http://wjw.wuhan.gov.cn/front/web/showDetail/2020012009078)公布发热门诊医疗机构和定点救治医疗机构名单。<br>
 * 晚间，湖北省应急管理厅成功举办“用汗水浇灌收获，以实干笃定前行”的春节联欢会。<br>
+* [财新网 | 不明原因肺炎忽现](http://weekly.caixin.com/2020-01-18/101505541.html?p3)<br>
 
 【中国】<br>
 * 10时，[央视新闻微博](https://weibo.com/2656274875/IqkydFW0z?from=page_1002062656274875_profile&wvr=6&mod=weibotime)报道浙江发现5例武汉来浙发热呼吸道症状患者。<br>
