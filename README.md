@@ -59,29 +59,29 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
  项目 |  当前工作内容 | 需要人数 | 目前人数
  ---- | --------- | ------  | -----
- 官媒及政府文件（国内外）摘编转述  | 目前需要实时跟进补充香港方面的信息，以及国际社会自19年12月底以来对疫情的反应。 | 7 | 2  
- 民间媒体摘编转述  | 依托其他平台（见附录）提供的资料做每人选编。 | 5 | 3 
- 民间自营组织公告  | 跟进民营组织相关新闻进行摘录，如慈善机构事件等。 | 2 | 0 
- 市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | 7 | 0
- 医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | 2 | 2
+ 官媒及政府文件（国内外）摘编转述  | 目前需要实时跟进补充香港方面的信息，以及国际社会自19年12月底以来对疫情的反应。 | / | /  
+ 民间媒体摘编转述  | 依托其他平台（见附录）提供的资料做每人选编。 | / | / 
+ 民间自营组织公告  | 跟进民营组织相关新闻进行摘录，如慈善机构事件等。 | / | / 
+ 市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | / | /
+ 医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
 
 > “记录历史，守护记忆。”
 
 
-感兴趣的人欢迎联系，也欢迎直接豆油指正，有优化的建议也欢迎提出！
+感兴趣的人欢迎联系，也欢迎直接指正，有优化的建议也欢迎提出！
 --------
 
 ## 附录：采录内容
 ### 一、官方
 #### （一）官方媒体（微博、微信公众号、网站）报道
-* [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)<br>
-* [央视新闻微博](https://weibo.com/cctvxinwen)<br>
+* [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)，[人民网](http://www.people.com.cn/)<br>
+* [央视新闻微博](https://weibo.com/cctvxinwen)，[[央视网](http://tv.cctv.com/)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
-* [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)<br>
+* [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
 
 #### （二）政府网站通告及文件
 ##### 1.武汉市
-* [《长江日报》微博](https://weibo.com/changjiangribaowuhan?profile_ftype=1&is_all=1&is_search=1&key_word=%E6%B6%88%E6%AF%92#_0)<br>
+* [《长江日报》](http://cjrb.cjn.cn/html/2020-02/16/node_1.htm)，[长江网](http://www.cjn.cn/)，[《长江日报》微博](https://weibo.com/changjiangribaowuhan?profile_ftype=1&is_all=1&is_search=1&key_word=%E6%B6%88%E6%AF%92#_0)<br>
 * [武汉市人民政府门户网站](http://www.wuhan.gov.cn/)<br>
 * [武汉卫生健康委员会官网](http://wjw.wuhan.gov.cn/)<br>
 * [武汉疾病控制预防中心](http://www.whcdc.org/)
@@ -108,8 +108,8 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
 ### 二、民间组织
 #### （一）市场化媒体
-* [澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
-* [财新网微博](https://weibo.com/caixincn)<br>
+* [澎湃新闻](https://www.thepaper.cn/)，[澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
+* [财新网](http://www.caixin.com/)，[财新网微博](https://weibo.com/caixincn)<br>
 * [三联生活周刊微博](https://weibo.com/lifeweek)、[中读微博](https://weibo.com/u/5639985234?is_hot=1)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
 * [第一财经微博](https://weibo.com/diyicaijing)、[第一财经YiMagazine](https://weibo.com/cbnweekly?is_hot=1)<br>
