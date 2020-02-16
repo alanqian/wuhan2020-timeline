@@ -75,7 +75,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 ### 一、官方
 #### （一）官方媒体（微博、微信公众号、网站）报道
 * [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)，[人民网](http://www.people.com.cn/)<br>
-* [央视新闻微博](https://weibo.com/cctvxinwen)，[[央视网](http://tv.cctv.com/)<br>
+* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
 
