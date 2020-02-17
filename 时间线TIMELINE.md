@@ -787,6 +787,7 @@
 【国际】<br>
 * [纽约时报](https://www.nytimes.com/aponline/2020/02/14/world/middleeast/ap-ml-china-outbreak-egypt-.html?searchResultPosition=10)：埃及卫生和人口部与世界卫生组织（世卫组织）当天宣布发现一外国人确诊感染新冠病毒肺炎病例，无明显症状。系非洲首例新冠肺炎。<br>
 * [BFMTV](https://www.bfmtv.com/sante/coronavirus-buzyn-annonce-la-mort-d-un-patient-en-france-le-premier-en-dehors-de-l-asie-1858467.html)：来自湖北省的中国游客，于1月16日抵达法国，于1月25日以严格的隔离措施住进了比查特医院（巴黎），后来病情迅速恶化去世。是为亚洲以外首例新冠肺炎死亡病例。<br>
+* [路透社](https://www.reuters.com/article/us-china-health-cambodia-cruiseship/american-from-cruise-ship-docked-in-cambodia-tests-positive-in-malaysia-for-coronavirus-idUSKBN20903R?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29)报道称，马拉西亚卫生部当天表示，停靠在柬埔寨的嘉年华邮轮集团旗下荷美邮轮公司运营的“威斯特丹号”邮轮上确诊首例新型冠状病毒感染的肺炎病例，一名83岁的美国女子从柬埔寨飞抵马来西亚后确诊其新型冠状病毒检测呈阳性。这艘邮轮于13日停泊在柬埔寨西南部的西哈努克港，共载有1455名乘客和802名船员。报道称，此前，该邮轮被日本、中国台湾、美国关岛、菲律宾和泰国拒绝靠岸，并在海上漂泊了两周。<br>
 
 ## 2020年2月16日
 【武汉-湖北】<br>
