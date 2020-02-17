@@ -91,11 +91,12 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
 ##### 2.湖北省
 * [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
+* [《湖北日报》微博](https://weibo.com/hubeiribao?profile_ftype=1&is_all=1#_0)<br>
 * [湖北省卫生健康委员会官网](http://wjw.hubei.gov.cn/)<br>
 * [黄冈卫健委官网](http://wjw.hg.gov.cn/)
 
 ##### 3.中央
-* [中国政府网_中央人民政府门户网站](http://www.gov.cn/)<br>
+* [中国政府网 中央人民政府门户网站](http://www.gov.cn/)<br>
 * [中华人民共和国国家卫生健康委员会官网](http://www.nhc.gov.cn/)<br>
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
@@ -119,7 +120,7 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 
 ####  * 媒体报道备份项目
-* [2019-nCoV疫情实时播报](https://2019ncov.tk/):汇总国内官方渠道的疫情数据。<br>
+* [2019-nCoV疫情实时播报](https://2019ncov.tk/)：汇总国内官方渠道的疫情数据。<br>
 * [后续·有记忆的新闻，持续追踪热点新闻](https://houxu.app/lives)：汇总媒体新闻实时转载。<br>
 * GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
