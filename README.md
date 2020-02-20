@@ -78,7 +78,7 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
 #### （一）官方媒体（微博、微信公众号、网站）报道
 * [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)，[人民网](http://www.people.com.cn/)<br>
 * [新华视点微博](https://weibo.com/xinhuashidian?is_all=1)，[新华网](http://www.news.cn/)<br>
-* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)<br>
+* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)，[新闻一加一栏目微博](https://weibo.com/yijiayijia?profile_ftype=1&is_all=1#_0)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
 
