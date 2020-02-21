@@ -41,7 +41,9 @@ wuhan2020-timeline
 * [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
 * [澳洲政府](https://www.skynews.com.au/details/_6128821462001)宣布即日起禁止从中国大陆入境、中转的旅客入境，除澳洲公民和持有澳洲绿卡的人士以外。<br>
 
-pr的友邻一定要注意严格按照上述体例编写，不然时间线会显得很乱！！！
+pr的友邻一定要注意严格按照上述体例编写，不然时间线会显得很乱！
+---------------------
+pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲突！
 ---------------------
 
 招募令
@@ -59,29 +61,30 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
  项目 |  当前工作内容 | 需要人数 | 目前人数
  ---- | --------- | ------  | -----
- 官媒及政府文件（国内外）摘编转述  | 目前需要实时跟进补充香港方面的信息，以及国际社会自19年12月底以来对疫情的反应。 | 7 | 2  
- 民间媒体摘编转述  | 依托其他平台（见附录）提供的资料做每人选编。 | 5 | 3 
- 民间自营组织公告  | 跟进民营组织相关新闻进行摘录，如慈善机构事件等。 | 2 | 0 
- 市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | 7 | 0
- 医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | 2 | 2
+ 官媒及政府文件（国内外）摘编转述  | 目前需要实时跟进补充香港方面的信息，以及国际社会自19年12月底以来对疫情的反应。 | / | /  
+ 民间媒体摘编转述  | 依托其他平台（见附录）提供的资料做每人选编。 | / | / 
+ 民间自营组织公告  | 跟进民营组织相关新闻进行摘录，如慈善机构事件等。 | / | / 
+ 市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | / | /
+ 医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
 
 > “记录历史，守护记忆。”
+> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)
 
-
-感兴趣的人欢迎联系，也欢迎直接豆油指正，有优化的建议也欢迎提出！
+感兴趣的人欢迎联系，也欢迎直接指正，有优化的建议也欢迎提出！
 --------
 
 ## 附录：采录内容
 ### 一、官方
 #### （一）官方媒体（微博、微信公众号、网站）报道
-* [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)<br>
-* [央视新闻微博](https://weibo.com/cctvxinwen)<br>
+* [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)，[人民网](http://www.people.com.cn/)<br>
+* [新华视点微博](https://weibo.com/xinhuashidian?is_all=1)，[新华网](http://www.news.cn/)<br>
+* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)，[新闻一加一栏目微博](https://weibo.com/yijiayijia?profile_ftype=1&is_all=1#_0)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
-* [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)<br>
+* [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
 
 #### （二）政府网站通告及文件
 ##### 1.武汉市
-* [《长江日报》微博](https://weibo.com/changjiangribaowuhan?profile_ftype=1&is_all=1&is_search=1&key_word=%E6%B6%88%E6%AF%92#_0)<br>
+* [《长江日报》](http://cjrb.cjn.cn/html/2020-02/16/node_1.htm)，[长江网](http://www.cjn.cn/)，[《长江日报》微博](https://weibo.com/changjiangribaowuhan?profile_ftype=1&is_all=1&is_search=1&key_word=%E6%B6%88%E6%AF%92#_0)<br>
 * [武汉市人民政府门户网站](http://www.wuhan.gov.cn/)<br>
 * [武汉卫生健康委员会官网](http://wjw.wuhan.gov.cn/)<br>
 * [武汉疾病控制预防中心](http://www.whcdc.org/)
@@ -91,11 +94,12 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 
 ##### 2.湖北省
 * [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
+* [《湖北日报》微博](https://weibo.com/hubeiribao?profile_ftype=1&is_all=1#_0)<br>
 * [湖北省卫生健康委员会官网](http://wjw.hubei.gov.cn/)<br>
 * [黄冈卫健委官网](http://wjw.hg.gov.cn/)
 
 ##### 3.中央
-* [中国政府网_中央人民政府门户网站](http://www.gov.cn/)<br>
+* [中国政府网 中央人民政府门户网站](http://www.gov.cn/)<br>
 * [中华人民共和国国家卫生健康委员会官网](http://www.nhc.gov.cn/)<br>
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
@@ -107,31 +111,37 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * 华山感染 （微信公众号）
 
 ### 二、民间组织
-#### （一）民间媒体网站
-* [澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
-* [财新网微博](https://weibo.com/caixincn)<br>
-* [三联生活周刊微博](https://weibo.com/lifeweek)<br>
+#### （一）市场化媒体
+* [澎湃新闻](https://www.thepaper.cn/)，[澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
+* [财新网](http://www.caixin.com/)，[财新网微博](https://weibo.com/caixincn)<br>
+* [三联生活周刊微博](https://weibo.com/lifeweek)、[中读微博](https://weibo.com/u/5639985234?is_hot=1)<br>
 * [新京报微博](https://weibo.com/xjb?is_hot=1)<br>
+* [第一财经微博](https://weibo.com/diyicaijing)、[第一财经YiMagazine](https://weibo.com/cbnweekly?is_hot=1)<br>
 * [在人间](https://weibo.com/ifengweiguan)<br>
+* [经济观察报](https://weibo.com/eeocomcn)<br>
+* [香港立场新闻](https://thestandnews.com)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
+
+####  * 媒体报道备份项目
+* [2019-nCoV疫情实时播报](https://2019ncov.tk/)：汇总国内官方渠道的疫情数据。<br>
+* [后续·有记忆的新闻，持续追踪热点新闻](https://houxu.app/lives)：汇总媒体新闻实时转载。<br>
 * GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
-* [2019-nCoV疫情实时播报](https://2019ncov.tk/):汇总国内官方渠道的疫情数据。<br>
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
-* [香港立场新闻](https://thestandnews.com)
 
 #### （二）民间慈善组织
 * 待补
+
 #### （三）民营企业公告
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
 
 #### （四）民间项目
-* [Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
+* GitHub项目[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
 ### 三、社会舆情
-#### （一）普通个体（封城日记等）【注：2月6日，豆瓣暂停日记功能】
+#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能】
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
