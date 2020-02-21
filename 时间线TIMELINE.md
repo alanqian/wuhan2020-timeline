@@ -716,7 +716,7 @@
 【武汉-湖北】<br>
 【中国】<br>
 * [央视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1bpIKIJKBXH5wAcwhad200212&fromapp=cctvnews&version=803&version=803&allow_comment=1)报道，截至14时，西藏自治区累计报告新型冠状病毒感染的肺炎确诊病例1例。现有确诊病例0例，重症病例0例，死亡病例0例，出院病例1例。<br>
-* [南宁](http://www.chinanews.com/gn/2020/02-11/9087634.shtml)南宁卫健委办公室主任擅自散布不实疫情信息被撤职。
+* [中国新闻网](http://www.chinanews.com/gn/2020/02-11/9087634.shtml)南宁卫健委办公室主任擅自散布不实疫情信息被撤职。
 
 【国际】<br>
 * [日本产经新闻](https://www.sankei.com/life/news/200212/lif2002120007-n1.html)：日本厚生劳动省，12 日对游船的检查中，39人感染新型肺炎，船内总计感染 174 人。另外有一名检疫人员也感染新型肺炎。<br>
