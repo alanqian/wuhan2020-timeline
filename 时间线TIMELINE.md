@@ -875,6 +875,7 @@
 * 醫院管理局向[立场新闻](https://www.thestandnews.com/society/%E6%AD%A6%E6%BC%A2%E8%82%BA%E7%82%8E-%E6%9C%AC%E6%B8%AF%E7%AC%AC%E4%BA%8C%E5%AE%97%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-70-%E6%AD%B2%E7%BF%81%E4%BB%8A%E6%97%A9%E7%91%AA%E5%98%89%E7%83%88%E9%9B%A2%E4%B8%96/)證實，一名70歲確診新型冠狀病毒的男病人，今早在瑪嘉烈醫院離世。香港目前共有第二宗武漢肺炎死亡個案，早前死亡個案是一名39歲男病人，他在本月4日在瑪嘉烈醫院逝世。<br>
 * 傍晚，腾讯“大家”栏目公众号被注销。栏目始创于2012年，以“洞见、价值、美感”为编辑原则。此前1月27日曾刊登文章《武汉肺炎50天，全体中国人都在承受媒体死亡的代价》。<br>
 * 晚间，中国工程院副院长、呼吸与危重症医学专家王辰在[新闻1+1节目](https://weibo.com/1737943044/IuYsfjbKt?from=page_1002061737943044_profile&wvr=6&mod=weibotime&type=comment)中表示，新冠肺炎与SARS不同，SARS传播性和致病性都很强，很快把宿主杀死然后病毒自身也不容易存活。而新冠肺炎有可能转成慢性疾病，像流感一样与人类共存。<br>
+* [剩余价值 | 瘟疫、语言和具体的人：与历史学家罗新的聊天](https://github.com/Pratitya/wuhan2020-timeline/issues/120#issue-569310623)<br>
 
 【国际】<br>
 * [今日俄罗斯](https://www.rt.com/russia/481133-russia-bans-china-visitors-coronavirus/)：俄罗斯暂时禁止所有中国公民以旅游、工作、教育或私人为由入境。措施由当地星期四（20号）零时起生效。<br>
