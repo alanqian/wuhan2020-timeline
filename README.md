@@ -67,8 +67,8 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
  市井百态  | 选录民间自媒体代表性叙述（如up主、大V）、个体生命史，社会流言（如双黄连事件、武汉病毒所所长事件）。 | / | /
  医学问题及学术动态| 将1月29日以前医学论文成果汇入，转述其提供了哪些信息；此外实时跟进医学界动态，文献可参考[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV/wiki)。 | / | /
 
-> “记录历史，守护记忆。”
-> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)
+> “记录历史，守护记忆。”<br>
+> I've constructed a timeline, minute by minute, second by second in some places. Every decision, every button push, every turn of a switch. (Chernobyl, 2019)<br>
 
 感兴趣的人欢迎联系，也欢迎直接指正，有优化的建议也欢迎提出！
 --------
