@@ -141,12 +141,13 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
 ### 三、社会舆情
-#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能】
+#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能。】
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
 * [新冠肺炎：親歷者見聞選編（持續更新）](https://shimo.im/docs/5dbf36f637674529/read)<br>
-* GitHub项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
+* Github项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
+* Github项目[疫情之下的劳动者--中文媒体报道收集](https://github.com/workshopwangdirector/Labor-in-2019-nCov)<br>
 
 #### （二）自媒体（VLOG、疫情分析）
 * [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
