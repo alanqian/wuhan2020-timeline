@@ -461,6 +461,7 @@
 
 【中国】<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第五份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/a7cf0437d1324aed9cc1b890b8ee29e6.shtml)，境外通报确诊新增尼泊尔1例，法国2例。<br>
+* 中共中央政治局常务委员会召开会议，成立应对疫情工作领导小组，在中央政治局常务委员会领导下开展工作。<br>
 * [央视新闻](https://weibo.com/2656274875/IralNjcyN?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访传染病学专家李兰娟表示，武汉实施进出人员管控是因为疫情已到刻不容缓的程度，只有严格控制传染源，才能不让传染病发生大流行。<br>
 * 同日，腾讯新闻[较真查证实时辟谣平台](https://vp.fact.qq.com/home?from=timeline&isappinstalled=0&dt_platform=douban_broadcast&dt_dapp=1)上线。<br>
 *  [香港特区政府](https://www.info.gov.hk/gia/general/202001/26/P2020012600013.htm)公布在《对公共卫生有重要性的新型传染病预备及应变计划》下提升应变级别至紧急，即时生效。
@@ -484,7 +485,8 @@
 
 【中国】<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第七份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/3882fdcdbfdc4b4fa4e3a829b62d518e.shtml)，截至1月26日24时，国内30个省（区、市）累计报告确诊病例2744例，境外通报确诊新增马来西亚。<br>
-* [受习近平总书记委托 李克强总理（中央应对新型冠状病毒感染肺炎疫情工作领导小组组长）赴汉考察指导疫情防控。](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200128_2015593.shtml)<br>
+* 受习近平总书记委托李克强总理（中央应对新型冠状病毒感染肺炎疫情工作领导小组组长）赴汉考察指导疫情防控。见1月28日[湖北日报](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200128_2015593.shtml)报道。<br>
+* 国务院办公厅发布[《关于延长2020年春节假期的通知》](http://www.gov.cn/zhengce/content/2020-01/27/content_5472352.htm)，决定延长2020年春节假期至2月2日（农历正月初九，星期日），2月3日（星期一）起正常上班。<br>
 * 稳健医疗发布公告[《这些天，稳健医疗做了什么》](http://www.winnermedical.cn/cn/newsdetail/106/666.html)。<br>
 
 【国际】<br>
@@ -519,6 +521,7 @@
 
 【中国】<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第九份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/1c259a68d81d40abb939a0781c1fe237.shtml)，截至1月28日24时，国家卫生健康委收到31个省（区、市）累计报告确诊病例5974例，超过2003年SARS国内确诊病例5327。<br>
+* 本日全国31个省份已经全部启动重大突发公共卫生事件Ⅰ级响应。<br>
 * 16时，[韩红微博](https://weibo.com/1922542315/IrJQn3rLs?from=page_1004061922542315_profile&wvr=6&mod=weibotime&type=comment)提供北京韩红爱心慈善基金会捐款地址，表示“信得过，您就捐”。<br>
 * [央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ?refer_flag=1001030103_&type=comment)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>
 * [央视新闻](https://weibo.com/2656274875/IrPHuzIcR?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)报道新型冠状病毒感染肺炎上海医疗救治专家组组长张文宏在接受采访时表示，他将新年到现在值班的感染科一线医生进行换岗，换成共产党员医生到一线工作。<br>
