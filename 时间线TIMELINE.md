@@ -446,7 +446,7 @@
 * 湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第三场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016540.shtml)，称“截止1月23日24时，全省累计报告新型冠状病毒感染的肺炎病例549例，已治愈出院31例，死亡24例。目前仍在院治疗494例，其中重症106例、危重症23例，均在定点医疗机构接受隔离治疗”。<br>
 * 武汉兴建火神山医院集中收治新冠肺炎患者。<br>
 * 陈秋实律师以独立公民记者身份前往武汉当地的医院，超市，殡仪馆，饭馆，火神山工地和方舱医院等地进行报道，并拍成视频上传至他的[YouTube频道](https://www.youtube.com/watch?v=CuT0aalqP04&t=1s)里。他采访的对象包括医生，护士，志愿者，普通居民，病人及遇难者的家属等等。<br>
-* 下午，微博魔女小希称武汉市红十字会医院内尸体无人处理，并附有视频。（内容已清空）次日被[共青团中央微博](https://weibo.com/3937348351/Ir64dChZA?from=page_1001063937348351_profile&wvr=6&mod=weibotime&type=comment#_rnd1581248513793)辟谣称“相关视频为配音再制作，情况不属实”。然而据1月30日[剥洋葱people | 武汉某定点医院被隔离的医生：曾一晚接诊200名患者](https://archive.ph/DiLpu)采访武汉某定点医生王阳（化名），尸体长时间滞留医院情况的确存在。又2月9日[财新网 | 援鄂专家口述:如何让爆满重压中的定点医院上轨道](https://xw.qq.com/antip/20200209000325/TWF2020020900032500)采访援鄂的四川省人民医院重症医学科主任黄晓波回忆到，红会医院很多遗体处理不过来，有时候遗体会在病床上摆几个小时甚至十几个小时才被运走。<br>
+* 下午，微博魔女小希称武汉市红十字会医院内尸体无人处理，并附有视频。（内容已清空）次日被[共青团中央微博](https://weibo.com/3937348351/Ir64dChZA?from=page_1001063937348351_profile&wvr=6&mod=weibotime&type=comment#_rnd1581248513793)辟谣称“相关视频为配音再制作，情况不属实”。然而据1月30日[剥洋葱people | 武汉某定点医院被隔离的医生：曾一晚接诊200名患者](https://archive.ph/DiLpu)采访武汉某定点医生王阳（化名），尸体长时间滞留医院情况的确存在。又2月9日[财新网 | 援鄂专家口述:如何让爆满重压中的定点医院上轨道](http://china.caixin.com/2020-02-08/101513121.html)采访援鄂的四川省人民医院重症医学科主任黄晓波回忆到，红会医院很多遗体处理不过来，有时候遗体会在病床上摆几个小时甚至十几个小时才被运走。<br>
 * [三联生活周刊 | 湖北黄冈：一家四口疑似病例难确诊](https://github.com/Pratitya/wuhan2020-timeline/issues/23#issue-557910141)<br>
 * [封城次日杂记](https://github.com/Pratitya/wuhan2020-timeline/issues/44#issue-558531773)<br>
 
@@ -575,7 +575,7 @@
 * 《知识分子》微信公众号发布[“瞒报”还是“保守”？一篇论文引发武汉疫情争议](https://mp.weixin.qq.com/s/HWYGQ_SfvblAORygJwMs1w)。<br>
 * 18时，界面新闻微博发布文章[饭圈女孩驰援武汉：我们“每一天都在解决困难”](https://weibo.com/5182171545/Is3ds1b9a?ref=collection)。<br>
 * 22时，[人民日报微博](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。当晚引发全民抢购“双黄连”风波。<br>
-* 同日13时，Political理论志转载旧文《传播的畸变对“SARS”传言的社会心理学分析》节选[周晓虹 | 传播的畸变：对“非典型性肺炎”传言的社会心理学分析]。<br>
+* 同日13时，Political理论志转载旧文《传播的畸变对“SARS”传言的社会心理学分析》节选[周晓虹 | 传播的畸变：对“非典型性肺炎”传言的社会心理学分析](https://mp.weixin.qq.com/s/sXrlF9lMbeDmNAfcTl86NQ)。<br>
 
 【国际】<br>
 * 当地时间晚间，[世界卫生组织（WHO）](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))在瑞士日内瓦召开新闻发布会，世界卫生组织总干事谭德塞宣布新型冠状病毒疫情构成国际关注的突发公共卫生事件。<br>
