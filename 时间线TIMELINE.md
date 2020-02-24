@@ -462,8 +462,8 @@
 * 同日，[法国确诊两例新型冠状病毒感染的肺炎病例](https://news.sina.com.cn/o/2020-01-25/doc-iihnzahk6215027.shtml)，这也是欧洲首次确诊新型冠状病毒感染的肺炎病例。
 * 国际顶级医学期刊The Lancet（《柳叶刀》）发表[Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。文章详细记录、分析了疫情初始阶段41名病例的临床资料，文章显示已知第一个出现症状的病例（12月1日，事后确诊）未接触华南海鲜批发市场。（余见前文）12月10日出现第一个与海鲜城相关病例。文章第一作者是武汉金银潭医院副院长黄朝林，其他作者包括国家专家组成员李兴旺、王广发（第二批）、蒋荣猛。北京中日友好医院曹彬、北京协和医院王建伟是共同通讯作者。
 * 同日，《柳叶刀》发表题为[2019新冠肺炎家族性研究(A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster)](https://github.com/Pratitya/wuhan2020-timeline/issues/28)的文章，确认病毒感染一家, 病毒基因序列均不同 (意味着病毒在不同人体内出现不同程度变异)，同时病毒在与病毒库中的冠状病毒进行对比, 是从未见过的 (暂不了解病毒结构)。<br>
-* 英国专家警告：至少有4,000人，武汉最坏情况为近万人染病(http://www.zaobao.com/znews/international/story20200124-1023619?utm_source=ZB_iPhone&utm_medium=share)。 <br>
-* 中国新型冠状病毒课题组的朱娜等人在NEJM《新英格兰医学期刊》发表题为 [A Novel Coronavirus from Patients with Pneumonia in China, 2019] (https://www.nejmqianyan.cn/article/YXQYoa2001017)《2019年从中国肺炎患者分离出的新型冠状病毒》一文，通报了在从三名与华南海鲜市场有过接触的病例的气道上皮细胞中分离出来了新型冠状病毒，并命名为2019-nCov。 新型病毒属于β冠状病毒属，常见于人类，蝙蝠，和其他野生动物体内。关于该病毒更新的信息，已从830位患者身上取得。
+* [新加坡联合早报](http://www.zaobao.com/znews/international/story20200124-1023619?utm_source=ZB_iPhone&utm_medium=share)：英国专家警告，至少有4,000人，武汉最坏情况为近万人染病。<br>
+* 中国新型冠状病毒课题组的朱娜等人在NEJM《新英格兰医学期刊》发表[A Novel Coronavirus from Patients with Pneumonia in China, 2019（《2019年从中国肺炎患者分离出的新型冠状病毒》）](https://www.nejmqianyan.cn/article/YXQYoa2001017)一文，通报了在从三名与华南海鲜市场有过接触的病例的气道上皮细胞中分离出来了新型冠状病毒，并命名为2019-nCov。 新型病毒属于β冠状病毒属，常见于人类，蝙蝠，和其他野生动物体内。关于该病毒更新的信息，已从830位患者身上取得。
 
 ## 2020年1月25日 初一
 【武汉-湖北】<br>
