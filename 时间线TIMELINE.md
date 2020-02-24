@@ -953,6 +953,26 @@
 
 ## 2020年2月23日
 【武汉-湖北】<br>
+* 清晨6时30分，[协和江北医院/蔡甸区人民医院](https://mp.weixin.qq.com/s/iHLoo8CNR3kmWLdmPh7DkQ)消化内科医生夏思思（女，29岁），不幸感染新冠肺炎，经救治无效在武汉大学中南医院去世。<br>
+* [三联生活周刊](https://www.weibo.com/1191965271/IvzWPdFkm?type=comment)：湖北孝感市中心医院呼吸内科副主任医师黄文军，不幸感染新型冠状病毒肺炎，经多方抢救医治无效，不幸去世，年仅42岁。他曾在1月24日写下请战书“岂因祸福避趋之”，主动申请去隔离病房。<br>
+
 【中国】<br>
+* [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6094108)：四川、黑龙江两省监狱进入战时管理状态：防止疫情向监所蔓延。<br>
+* [贵州卫健委](http://www.gzhfpc.gov.cn/xwzx_500663/ttxw/202002/t20200223_51119495.html)：自2020年2月23日24时起，将我省新冠肺炎疫情防控应急响应级别由省级一级响应调整为省级三级响应。<br>
+* 《中国科学：生命科学》杂志在线发表了由中国科学院院士陈国强牵头的上海交通大学医学院团队撰写的专题评述论文：[《新型冠状病毒感染疫情下的思考》](http://engine.scichina.com/publisher/scp/journal/SSV/doi/10.1360/SSV-2020-0044?slug=fulltext)，反思新冠疫情中暴露出的十大问题。<br>
+
 【国际】<br>
+* [环球网](https://world.huanqiu.com/article/9CaKrnKpxtf)：伊拉克当地时间22日出现首例新冠肺炎确诊病例。据土耳其阿纳多卢通讯社(Anadolu Agency)引述当地医疗界消息人士报道，伊拉克南部济加尔省(Dhi Qar)周六出现首例新冠肺炎确诊病例。<br>
+* [Reuters](https://www.reuters.com/article/us-china-health-italy/italy-coronavirus-cases-rise-to-more-than-100-lombardy-head-idUSKCN20H0A3)：意大利伦巴第大区主席丰塔纳(Attilo Fontana)周日（23日）表示，意大利伦巴第大区新冠肺炎确诊病例已上升至89例。报道称，丰塔纳在接受天空电视台采访时说，这使该国的确诊病例总数超过100例。<br>
+* [中央通讯社](https://www.cna.com.tw/news/firstnews/202002230197.aspx)：日本NHK報導，一名日籍男子2月中旬去印尼旅行，返國後診斷確定感染新冠肺炎，成為近期第2起旅遊印尼後確診的案例。<br>
+
+## 2020年2月24日
+【武汉-湖北】<br>
 * 
+【中国】<br>
+* [云南卫健委](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158247246967334043)：自2020年2月24日零时起，云南省新型冠状病毒肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
+* [广东省卫健委](http://wsjkw.gd.gov.cn/zwyw_gzdt/content/post_2905980.html)：根据国家有关法律法规规定和《广东省突发公共卫生事件应急预案》，自2020年2月24日9时起，将广东省新冠肺炎疫情防控应急响应级别由省重大突发公共卫生事件一级响应调整为二级响应。<br>
+
+【国际】<br>
+* [加拿大广播公司](https://www.cbc.ca/amp/1.5473283)：加拿大航空确认，2月14日有一趟蒙特利尔飞往温哥华的航班，曾搭乘该机的一名乘客新冠肺炎检测结果呈现阳性。<br>
+* [韩联社](https://cn.yna.co.kr/view/ACK20200224001100881)：韩赴以色列朝拜圣地团39人中28人确诊感染新冠病毒。<br>
