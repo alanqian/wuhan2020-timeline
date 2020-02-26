@@ -1001,14 +1001,22 @@
 
 【中国】<br>
 * 广东疾控称呼，省内有14%的出院患者出现复阳现象。疾控副主任宋铁称，复阳暂无系统性结论，专家初步判断认为，复阳主要是因为病人的肺部炎症尚在吸收过程中，还未达到临床痊愈，因此可能存在间歇性排毒现象。<br>
+* [安徽卫健委](http://wjw.ah.gov.cn/m/article55365.html)：自2020年2月25日12时起，将新冠肺炎疫情防控应急响应级别由省重大突发公共卫生事件一级响应调整为省级二级响应，其中，高风险地区参照省级一级响应管理。<br>
+* [四川省委、省政府](https://m.weibo.cn/1905843503/4475965738569388)：自2020年2月26日0时起，将疫情防控应急响应级别由突发公共卫生事件一级响应调整为二级响应。<br>
+* [内蒙古自治区人民政府](http://www.nmg.gov.cn/art/2020/2/25/art_365_303113.html)决定自2020年2月25日24时起，将内蒙古自治区新冠肺炎疫情防控应急响应级别由一级应急响应调整为自治区级三级应急响应。<br>
+* [青海日报](https://m.weibo.cn/5592771266/4476132809901365)：青海省人民政府发布第14号通告，自2020年2月26日12时起 ，将青海省重大突发公共卫生事件由一级响应调整为三级响应。<br>
+* [人民网](https://m.weibo.cn/2286908003/4476115781660433)：自2020年2月25日24时起，新疆维吾尔自治区新型冠状病毒肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件一级响应调整为二级响应。<br>
 * [活粒 | 投资7.3亿的传染病网络直报系统因何失灵28天](https://github.com/Pratitya/wuhan2020-timeline/issues/127#issue-571038473)<br>
 
 【国际】<br>
 * [美国疾病控制与预防中心（CDC）](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)当地时间24日宣布，美国境内的2019冠状病毒疾病确诊病例为14起，加上钻石公主号游轮撤回人员中的39起确诊病例，全国累计病例已增至53起。<br>
 * 10时，[NHK](https://www3.nhk.or.jp/news/html/20200225/k10012299951000.html)：一名80多岁的日本邮轮乘客死亡，为邮轮上第四例死亡。日本累计死亡5例。<br>
+* [Reuters](https://www.reuters.com/article/china-health-iran-minister/iran-deputy-health-minister-tests-positive-for-coronavirus-ilna-idUSB2N2A0012)：据伊朗伊斯兰通讯社25日报道，卫生部副部长哈利其确诊感染新冠病毒。哈利其在其社交媒体证实了这一说法。他表示，24日晚上的测试显示阳性，此后他已经接受隔离，目前状况良好。<br>
 * [央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQvLKYtG0l2yVosFlLek200225&fromapp=cctvnews&version=803&version=803&allow_comment=1)：法国卫生部长维兰在24日的新闻发布会上表示，目前法国所有新冠肺炎入院患者均已出院。目前法国没有确诊的新冠肺炎病例，所以法国没有必要取消各类文化活动。<br>
 
 ## 2020年2月26日
 【武汉-湖北】<br>
 【中国】<br>
 【国际】<br>
+* [NBC](https://www.nbcbayarea.com/news/local/san-francisco/sf-mayor-london-breed-declared-local-emergency-amid-coronavirus-outbreak/2241796/)：美国加州旧金山市长周二宣布当地进入紧急状态，尽管该市居民中尚未有确诊病例。<br>
+* [巴西环球网](https://oglobo.globo.com/sociedade/brasileiro-tem-confirmado-primeiro-teste-para-coronavirus-24271946)：巴西确诊首例新冠肺炎。患者，61岁，男，住在圣保罗，此前曾在意大利工作，现在已被送到医院接受治疗。系拉丁美洲首例新冠肺炎患者。<br>
