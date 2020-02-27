@@ -1002,6 +1002,7 @@
 * [韩联社](https://cn.yna.co.kr/view/ACK20200224001100881)：韩赴以色列朝拜圣地团39人中28人确诊感染新冠病毒。<br>
 * [美联社](https://apnews.com/32540d09ec101aac057660ef1b0aa970)援引伊朗半官方劳工新闻通讯社（ILNA）周一的消息称，本月以来伊朗什叶派圣城库姆市已有50人死于新冠病毒感染的肺炎。这一数字要比此前伊朗官方公布的数据高出不少。据伊朗国家电视台报道，截至目前，伊朗累计确诊47例病例，死亡达12例。<br>
 * 美联社：国际奥委会高级成员迪克·庞德表示，若疫情5月下旬得不到控制，东京奥运会可能会取消，不会推迟或换城市举办。<br>
+* 《柳叶刀》在线发表一篇通讯文章（correspondence）：[Chinese medical staff request international medical assistance in fighting against COVID-19](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext)。在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。<br>
 
 ## 2020年2月25日
 【武汉-湖北】<br>
@@ -1024,7 +1025,24 @@
 
 ## 2020年2月26日
 【武汉-湖北】<br>
+* [湖北日报](https://weibo.com/2827102952/Iw2HzuqAc)：网传一名刑满释放新冠肺炎确诊人员离汉抵京的有关情况，湖北省委书记应勇同志作出批示：在疫情防控最吃劲的关键阶段，竟发生此类严重违反离汉离鄂通道管控的事件，绝不能允许。要迅速查清事实，依纪依法严肃处理，及时回应社会关切。<br>
+* [央视新闻](https://weibo.com/2656274875/Iw35J2mVK)：经中央政法委批准，司法部牵头，由分管副部长刘志强带队，会同中央政法委、最高人民检察院、公安部组成联合调查组，赴湖北就武汉女子监狱一名刑满释放人员感染新冠肺炎到京事件进行调查。【网传该名女子是周永康儿媳。】<br>
+* [湖北纪委监委](https://www.hbjwjc.gov.cn/lzyw/120898.htm)：针对反映荆门市统计上报2月19日新冠肺炎确诊病例为“-107”的负数问题，决定对荆门市委书记张爱国、市政府市长孙兵予以诫勉；给予荆门市政府分管副市长梁早阳党内警告、政务记过处分，给予荆门市卫健委主任李志珍、副主任李艾娥党内严重警告、政务记大过处分。<br>
+
 【中国】<br>
+* [海南省](http://www.hainan.gov.cn/hainan/0101/202002/c3c6173c2224466ca42ff7bf49f9ec9e.shtml)新冠肺炎疫情防控工作第二十一场新闻发布会通报，自2020年2月26日17时起，将海南省新冠肺炎疫情防控应急响应级别由省突发公共卫生事件一级响应调整为三级响应。<br>
+* [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6150880)：大连、青岛、烟台、威海、延边等地出台措施防控境外疫情输入。<br>
+* [福建卫健委](http://wjw.fujian.gov.cn/xxgk/gzdt/wsjsyw/202002/t20200226_5204132.htm)：26日24时起，福建省新冠肺炎疫情中风险区调整为执行新冠肺炎疫情防控省级二级响应，低风险区调整为执行省级三级响应。<br>
+
 【国际】<br>
 * [NBC](https://www.nbcbayarea.com/news/local/san-francisco/sf-mayor-london-breed-declared-local-emergency-amid-coronavirus-outbreak/2241796/)：美国加州旧金山市长周二宣布当地进入紧急状态，尽管该市居民中尚未有确诊病例。<br>
 * [巴西环球网](https://oglobo.globo.com/sociedade/brasileiro-tem-confirmado-primeiro-teste-para-coronavirus-24271946)：巴西确诊首例新冠肺炎。患者，61岁，男，住在圣保罗，此前曾在意大利工作，现在已被送到医院接受治疗。系拉丁美洲首例新冠肺炎患者。<br>
+* [世界卫生组织](https://m.weibo.cn/5078700027/4476002053353055)联合专家考察组组长Bruce Aylward博士称，“中国争取来的这一段宝贵时间要用好，尽管我们列出了很长的研究清单，但也强调研究项目应该有优先次重，以便快速地掌握知识以进一步阻断病毒传播，进一步降低重症率及病死率。目前只有一种药可能有效，就是瑞德西韦。我们需要开始优先那些可能帮助我们更快挽救生命的研究项目。”<br>
+
+## 2020年2月27日
+【武汉-湖北】<br>
+* 
+【中国】<br>
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-china-health-norway/norway-detects-its-first-case-of-coronavirus-idUSKCN20K31G)：挪威首次出现1例确诊病例，患者上周从中国回国，无任何症状，可能未传染其他人。<br>
+* [美国疾控中心（CDC）](https://www.cnbc.com/2020/02/26/cdc-confirms-first-possible-community-spread-coronavirus-case-in-us.html)证实，在美国加利福尼亚州的一名患者中发现了冠状病毒在美国的首次“社区传播”。CDC尚不清楚该患者究竟是如何被感染的。患者是索拉诺县（Solano County）的居民，并在萨克拉曼多县（Sacramento County）接受治疗。<br>
