@@ -1008,7 +1008,7 @@
 * [韩联社](https://cn.yna.co.kr/view/ACK20200224001100881)：韩赴以色列朝拜圣地团39人中28人确诊感染新冠病毒。<br>
 * [美联社](https://apnews.com/32540d09ec101aac057660ef1b0aa970)援引伊朗半官方劳工新闻通讯社（ILNA）周一的消息称，本月以来伊朗什叶派圣城库姆市已有50人死于新冠病毒感染的肺炎。这一数字要比此前伊朗官方公布的数据高出不少。据伊朗国家电视台报道，截至目前，伊朗累计确诊47例病例，死亡达12例。<br>
 * 美联社：国际奥委会高级成员迪克·庞德表示，若疫情5月下旬得不到控制，东京奥运会可能会取消，不会推迟或换城市举办。<br>
-* 《柳叶刀》在线发表一篇通讯文章（correspondence）：[Chinese medical staff request international medical assistance in fighting against COVID-19](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext)。在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。<br>
+* 《柳叶刀》在线发表一篇通讯文章（correspondence）：[Chinese medical staff request international medical assistance in fighting against COVID-19](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30065-6/fulltext)。在这篇文章中，身处抗击疫情一线的中国医务人员向全球发出医疗支援请求。随后，《柳叶刀》主编应两位作者要求[撤下该稿](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30076-0/fulltext)，称文章并非来自第一手资料；[“丁香园”公众号的翻译和财新网的报道](https://github.com/Pratitya/wuhan2020-timeline/issues/135)都被撤下。<br>
 
 ## 2020年2月25日
 【武汉-湖北】<br>
