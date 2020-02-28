@@ -1043,15 +1043,41 @@
 【国际】<br>
 * [NBC](https://www.nbcbayarea.com/news/local/san-francisco/sf-mayor-london-breed-declared-local-emergency-amid-coronavirus-outbreak/2241796/)：美国加州旧金山市长周二宣布当地进入紧急状态，尽管该市居民中尚未有确诊病例。<br>
 * [巴西环球网](https://oglobo.globo.com/sociedade/brasileiro-tem-confirmado-primeiro-teste-para-coronavirus-24271946)：巴西确诊首例新冠肺炎。患者，61岁，男，住在圣保罗，此前曾在意大利工作，现在已被送到医院接受治疗。系拉丁美洲首例新冠肺炎患者。<br>
+* [环球时报](https://m.weibo.cn/1974576991/4476728052845312)：韩国新型传染病中央临床委员会通报大南医院精神病科疫情，该科室102名病人中共99人确诊，全韩13名死者中7人来自此处。专家称感染与精神病科环境有关，为防病人寻短见，精神病科常年门窗紧闭。<br>
 * [世界卫生组织](https://m.weibo.cn/5078700027/4476002053353055)联合专家考察组组长Bruce Aylward博士称，“中国争取来的这一段宝贵时间要用好，尽管我们列出了很长的研究清单，但也强调研究项目应该有优先次重，以便快速地掌握知识以进一步阻断病毒传播，进一步降低重症率及病死率。目前只有一种药可能有效，就是瑞德西韦。我们需要开始优先那些可能帮助我们更快挽救生命的研究项目。”<br>
 
 ## 2020年2月27日
 【武汉-湖北】<br>
 * [财新网](http://china.caixin.com/2020-02-27/101521131.html)记者调查了解到，黄女士是1959年生人，原为湖北省宣恩县水利水产局财务股副股长兼出纳。因犯贪污罪，湖北省宣恩县法院于2013年6月21日作出判决，黄女士获刑十年，其不服上诉，恩施州中院于2014年2月18日作出二审裁定，驳回上诉、维持原判。判决发生法律效力后交付执行，黄女士在湖北省武汉女子监狱服刑。<br>
+* 界面新闻记者联系上李文亮的遗孀付雪洁，她回忆了李文亮去世前后的经历，她说因为极度悲痛，孕期她的身体出血，一度住进了医院。她表示，自己会坚强起来，平平安安将腹中的孩子生下来；另外，她也期待调查组对李文亮被训诫的调查处理结果。（文章已被删除）<br>
+* [南风窗 | 我在武汉街头入睡，请别对着我的被子浇水](https://archive.li/6uhGB)<br>
 
 【中国】<br>
 * 广州市政府新闻办举办的[广州医科大学疫情防控专场新闻通气会](https://static.nfapp.southcn.com/content/202002/27/c3181080.html?layer=5&share_token=YzkyMDI1Y2YtOWQ0Yy00ZDAxLWE3ZGYtNTgxOTA1YjI2ZWJl&from=timeline&isappinstalled=0&date=ZDhhMzk2ZmItZTE5MC00YmI3LWE3NmQtNjUwZjQyYzJjNjMx)上，钟南山回复了各界关切的问题：1.国内疫情有信心，四月底基本控制。2.出院后“复阳”的患者再被感染的概率很低。3.疫情首先出现在中国，不一定是发源在中国。4.新冠肺炎12月31日就已经明确，1月3日已经分离出病毒毒株，1月7日给了联合国，但我们仍然没有发布。我们CDC（疾控中心）的地位太低了，这是一个技术部门。CDC的特殊地位没有得到足够的重视，要一级一级上报。5.目前正是复工回流高峰，之前我们的预测模型是回流之后又出现一个高峰还没有出现。<br>
+* [观察者网](https://weibo.com/1887344341/IwaloarJY?type=comment#_rnd1582820857075)：傍晚，中国驻韩国大使馆为大邱市紧急筹备的2.5万余个医用口罩从首尔明洞中国大使馆整装起运。<br>
+* 傍晚，[ndemiccreations](https://www.ndemiccreations.com/en/news/174-app-store)公司收到通知称《瘟疫公司》“经中国国家网信办审查存在违反国内法律内容”并从中国App Store下架。目前状况已经完全超出掌控，尚不清楚游戏下架是否与中国当下正在应对的冠状病毒疫情有关。<br>
+* [剥洋葱people | 公卫专家：临床角度不讲拐点，以疫情宣告结束为准](https://mp.weixin.qq.com/s?__biz=MzI2ODExNzg5OQ==&mid=2653626666&idx=2&sn=57e688c0fa73b589c79093789ff13c23)<br>
 
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-china-health-norway/norway-detects-its-first-case-of-coronavirus-idUSKCN20K31G)：挪威首次出现1例确诊病例，患者上周从中国回国，无任何症状，可能未传染其他人。<br>
 * [美国疾控中心（CDC）](https://www.cnbc.com/2020/02/26/cdc-confirms-first-possible-community-spread-coronavirus-case-in-us.html)证实，在美国加利福尼亚州的一名患者中发现了冠状病毒在美国的首次“社区传播”。CDC尚不清楚该患者究竟是如何被感染的。患者是索拉诺县（Solano County）的居民，并在萨克拉曼多县（Sacramento County）接受治疗。<br>
+* 傍晚，[人民日报](https://weibo.com/2803301701/Iw9ChBuNl)记者刘军国消息，为了防止新冠肺炎在日本进一步扩散，日本首相安倍晋三要求日本全国小学、初中、高中从下周一（3月2日）开始临时放假。<br>
+* [土耳其阿纳多卢通讯社](https://news.cgtn.com/news/2020-02-27/Another-high-ranking-Iranian-official-diagnosed-with-coronavirus-Oqy2AKqFva/index.html)消息，伊朗议会国家安全委员会主席称，他已感染新冠肺炎。<br>
+* 据伊朗媒体Fars News报道，前伊朗驻梵蒂冈大使因感染新冠肺炎去世。<br>
+
+## 2020年2月28日
+【武汉-湖北】<br>
+
+【中国】<br>
+* [陕西卫健委](http://sxwjw.shaanxi.gov.cn/art/2020/2/27/art_9_68401.html)：自2020年2月28日0时起，将省新冠肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
+* [香港渔护署](https://www.info.gov.hk/gia/general/202002/28/P2020022800012.htm)表示一只居于确诊者家中的狗对病毒测试呈弱阳性反应，该狗并无任何相关病征。目前未有数据证明宠物会感染而发病或传播该病毒，但署方强烈建议确诊者的宠物接受检疫。<br>
+
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-china-health-iran-ban/iran-bans-chinese-citizens-from-entering-the-country-irna-idUSKCN20L1V7)：伊朗国家通讯社报道称，为了阻止新冠肺炎的扩散，伊朗已经禁止中国公民入境。<br>
+*  CNN：“新天地”前国际事务主任介绍称：“他们就像沙丁鱼一样挤在一起，一列列排得整整齐齐，实际上每个人的膝盖都会碰到其他人的膝盖。”他还表示，信徒礼拜时禁止戴口罩，因为这被视为对“神”的不敬，甚至生病缺席都是不允许的。<br>
+* [NBC](https://www.nbcnews.com/news/us-news/coronavirus-cdc-didn-t-immediately-test-covid-19-case-n1143996)：美国加州萨克拉曼多卫生系统负责人说，美国疾控中心（CDC）未能及时对疑似首例社区传播的感染者进行检测。加州大学戴维斯分校David Lubarsky博士向媒体透露，患者于2月19日被转移到戴维斯分校医学中心后，要求CDC进行测试，但被联邦机构拒绝了。<br>
+* [CNBC](https://www.cnbc.com/2020/02/27/facebook-cancels-its-annual-developer-conference-amid-coronavirus-outbreak.html)：由于担心新冠病毒爆发，Facebook周四宣布决定取消年度开发者大会（F8）。会议原定于5月5日至6日在加州圣何塞的McEnery会议中心举行。公司发言人告诉媒体，去年有5000人参加了此次活动。<br>
+* [韩联社](https://cn.yna.co.kr/view/ACK20200228001000881)：韩国新增256例新冠确诊病例，累计2022例。<br>
+
+## 2020年2月29日
+【武汉-湖北】<br>
