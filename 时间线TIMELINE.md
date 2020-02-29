@@ -277,8 +277,10 @@
 据王广发事后回忆，“41例确诊病例，这当中有两起聚集性病例。我们请教过CDC的专家，根据两起聚集性病例，没法得出‘人传人’的结论，这需要流行病学专家来回答”。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
 * 同时，武汉市卫健委发布[专家解读不明原因的病毒性肺炎最新通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)，表示“截止目前所有密切接触者包括医务人员都未发现相关病例”。<br>
 * 上午，[中国人民政治协商会议湖北省第十二届委员会第三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200112_1910812.shtml)在武汉洪山礼堂隆重开幕。中共湖北省委书记蒋超良、省长王晓东、武汉市委书记马国强到会祝贺。<br>
-* 当日早间，上海公共卫生临床中心张永振教授团队成员悉尼大学爱德华•霍姆斯（Edward Holmes）教授代表课题组在virological.org网站发布了获得的新型冠状病毒全基因组序列，是最早向世界共享相关数据的科研工作者【参见12月20日及1月5日条目】。然而在1月12日之后，不知道是什么原因，上海公共卫生临床中心P3实验室重新申请活病毒的培养等相关的研究，就无法得到批准，目前只能做一些临床检测。见1月11日[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319)，2月25[财经杂志 | 研究表明：新冠病毒可能于去年11月出现，近期变异不大](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)及2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)。<br>
-* 当日晚间，国家卫健委宣布将与世界卫生组织分享武汉不明原因的病毒性肺炎病例中检测到的新型冠状病毒基因序列信息，并指定相关机构（中国疾控中心、中国医学科学院以及中科院武汉病毒所）在全球流感共享数据库（GISAID，Global Initiative on Sharing All Influenza Data）共享5个来自不同患者的病毒基因组序列。世界卫生组织于当地时间1月12日宣布确认收到中国所分享的数据，并将病毒名称暂命名为2019-nCov。见国家卫健委[公告](http://www.nhc.gov.cn/gjhzs/s7952/202001/422796acaea746549f93e617ccc348a1.shtml)，中国科学院武汉病毒研究所[武汉病毒所全力开展新型冠状病毒肺炎科研攻关](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)以及世界卫生组织[twitter公告](https://twitter.com/WHO/status/1216108498188230657)。<br>
+
+【中国】<br>
+* 早间，上海公共卫生临床中心张永振教授团队成员悉尼大学爱德华•霍姆斯（Edward Holmes）教授代表课题组在virological.org网站发布了获得的新型冠状病毒全基因组序列，是最早向世界共享相关数据的科研工作者【参见12月20日及1月5日条目】。然而在1月12日之后，不知道是什么原因，上海公共卫生临床中心的P3实验室就被上海市卫健委下令关闭整改。该中心人员至少提交了四次申请要求重新开放实验室，至今仍未得到任何回应，重新申请活病毒的培养等相关的研究也未得到批准，目前只能做一些临床检测。见1月11日[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319)，2月25[财经杂志 | 研究表明：新冠病毒可能于去年11月出现，近期变异不大](https://mp.weixin.qq.com/s/0QwyA3m4U-kahPQW4UMoSw)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)，2月28日[南华早报 | 最先与世界分享冠状病毒基因序列的中国实验室被下令关闭“整改”，对其新型冠状病毒肺炎研究造成阻碍](https://www.scmp.com/news/china/society/article/3052966/chinese-laboratory-first-shared-coronavirus-genome-world-ordered)。<br>
+* 晚间，国家卫健委宣布将与世界卫生组织分享武汉不明原因的病毒性肺炎病例中检测到的新型冠状病毒基因序列信息，并指定相关机构（中国疾控中心、中国医学科学院以及中科院武汉病毒所）在全球流感共享数据库（GISAID，Global Initiative on Sharing All Influenza Data）共享不同患者的病毒基因组序列。世界卫生组织于当地时间1月12日宣布确认收到中国所分享的数据，并将病毒名称暂命名为2019-nCov。见国家卫健委[公告](http://www.nhc.gov.cn/gjhzs/s7952/202001/422796acaea746549f93e617ccc348a1.shtml)，中国科学院武汉病毒研究所[武汉病毒所全力开展新型冠状病毒肺炎科研攻关](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)，2月26日[财新网 | 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)以及世界卫生组织[twitter公告](https://twitter.com/WHO/status/1216108498188230657)。<br>
 
 【国际】<br>
 * 世界卫生组织[发推](https://twitter.com/WHO/status/1215981049869668353)，为医护人员提供跟踪患者、实验室化验、疾病控制、信息公开等方面提出指导办法。<br>
@@ -394,7 +396,6 @@
 * 19时，《新闻联播》报道新华社电，国务院下达[《习近平对新型冠状病毒感染的肺炎疫情作出重要指示》](http://www.gov.cn/xinwen/2020-01/20/content_5471057.htm)。<br>
 * 晚间，[央视新闻《新闻1+1》](https://github.com/Pratitya/wuhan2020-timeline/issues/3#issue-556734943)白岩松现场连线采访钟南山院士，确定新型冠状病毒可以人传人，且已有医务人员感染。<br>
 * 同日，王广发新冠病毒核酸检测结果是阳性，肺部CT显示是典型的肺炎表现，在北京确诊新冠肺炎。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
-* 新冠肺炎被列入《中华人民共和国传染病防治法》。<br>
 * [稳健医疗](http://www.winnermedical.cn/cn/newsdetail/106/666.html)决定，动员全资子公司、车间全员春节不休假，全力生产防护产品：防护服、手术衣、酒精片等。<br>
 
 【国际】<br>
