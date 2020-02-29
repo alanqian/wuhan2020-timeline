@@ -1039,6 +1039,7 @@
 * [海南省](http://www.hainan.gov.cn/hainan/0101/202002/c3c6173c2224466ca42ff7bf49f9ec9e.shtml)新冠肺炎疫情防控工作第二十一场新闻发布会通报，自2020年2月26日17时起，将海南省新冠肺炎疫情防控应急响应级别由省突发公共卫生事件一级响应调整为三级响应。<br>
 * [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6150880)：大连、青岛、烟台、威海、延边等地出台措施防控境外疫情输入。<br>
 * [福建卫健委](http://wjw.fujian.gov.cn/xxgk/gzdt/wsjsyw/202002/t20200226_5204132.htm)：26日24时起，福建省新冠肺炎疫情中风险区调整为执行新冠肺炎疫情防控省级二级响应，低风险区调整为执行省级三级响应。<br>
+* [浙江大学](https://mp.weixin.qq.com/s/1K0rtFdoG1yeD2sl4iqlWw)医学院附属第一院副院长、眼科学科带头人沈晔教授团队，在《医学病毒学杂志》（Journal of Medical Virology）在线发表了一项研究工作，揭示在研究的新冠肺炎患者样本中，存在一名结膜炎患者的眼泪和结膜分泌物样本，在核酸检测中出现病毒阳性结果。<br>
 
 【国际】<br>
 * [NBC](https://www.nbcbayarea.com/news/local/san-francisco/sf-mayor-london-breed-declared-local-emergency-amid-coronavirus-outbreak/2241796/)：美国加州旧金山市长周二宣布当地进入紧急状态，尽管该市居民中尚未有确诊病例。<br>
@@ -1072,6 +1073,8 @@
 【中国】<br>
 * [陕西卫健委](http://sxwjw.shaanxi.gov.cn/art/2020/2/27/art_9_68401.html)：自2020年2月28日0时起，将省新冠肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
 * [香港渔护署](https://www.info.gov.hk/gia/general/202002/28/P2020022800012.htm)表示一只居于确诊者家中的狗对病毒测试呈弱阳性反应，该狗并无任何相关病征。目前未有数据证明宠物会感染而发病或传播该病毒，但署方强烈建议确诊者的宠物接受检疫。<br>
+* [山东省人民政府](http://www.shandong.gov.cn/art/2020/2/28/art_101628_349676.html)免去王文杰山东省监狱管理局副局长职务。<br>
+* [北京](https://weibo.com/1893892941/IwlFPxj5j)发布《关于进一步严格疫情防控有关要求的通告》，其中提出：突出重点部位疫情防控。密切关注公园、景区周边人员聚集情况，有针对性地出台限流管控措施。加强重点交通站点防控力量，建立联动机制，避免轨道站外、公交站台周边排队人员密集。严格集体宿舍监督管理，原则上不安排在地下空间居住。<br>
 
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-china-health-iran-ban/iran-bans-chinese-citizens-from-entering-the-country-irna-idUSKCN20L1V7)：伊朗国家通讯社报道称，为了阻止新冠肺炎的扩散，伊朗已经禁止中国公民入境。<br>
@@ -1079,6 +1082,15 @@
 * [NBC](https://www.nbcnews.com/news/us-news/coronavirus-cdc-didn-t-immediately-test-covid-19-case-n1143996)：美国加州萨克拉曼多卫生系统负责人说，美国疾控中心（CDC）未能及时对疑似首例社区传播的感染者进行检测。加州大学戴维斯分校David Lubarsky博士向媒体透露，患者于2月19日被转移到戴维斯分校医学中心后，要求CDC进行测试，但被联邦机构拒绝了。<br>
 * [CNBC](https://www.cnbc.com/2020/02/27/facebook-cancels-its-annual-developer-conference-amid-coronavirus-outbreak.html)：由于担心新冠病毒爆发，Facebook周四宣布决定取消年度开发者大会（F8）。会议原定于5月5日至6日在加州圣何塞的McEnery会议中心举行。公司发言人告诉媒体，去年有5000人参加了此次活动。<br>
 * [韩联社](https://cn.yna.co.kr/view/ACK20200228001000881)：韩国新增256例新冠确诊病例，累计2022例。<br>
+* [CNBC](https://www.cnbc.com/2020/02/28/google-employee-diagnosed-with-coronavirus.html)：谷歌公司证实，一名谷歌员工在其位于瑞士苏黎世 的办公室冠状病毒检测呈阳性。<br>
+* [韩联社](https://cn.yna.co.kr/view/ACK20200225004200881?section=nk/index)：朝鲜禁止聚会聚餐严防新冠疫情；[韩联社](https://cn.yna.co.kr/view/ACK20200227000800881?section=nk/index)：朝鲜各级各类学校推迟开学严防疫情扩散。<br>
 
 ## 2020年2月29日
 【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* 当地时间28日，世卫组织总干事谭德塞在日内瓦宣布，将新冠肺炎全球风险级别提高为“非常高”。此前，新冠肺炎全球风险级别为“高风险”。谭德塞表示，鉴于目前新冠肺炎在全球多个国家蔓延，中国境外已有4351例病例，且有越来越多国家出现疫情，故提高新冠肺炎全球风险级别。<br>
+* [BBC](https://twitter.com/BBCBreaking/status/1233443539914252289?s=20)：据伊朗卫生系统内部消息，伊朗新冠病亡人数可能已经至少210。截至目前，伊朗官方媒体报道中，确诊人数388，病亡人数34。<br>
+* CNN：来自美国加州的国会众议员约翰·加拉曼迪告诉记者，此前在住院几天后被检测出新型冠状病毒阳性的加州病人病情严重，需要插管治疗。美国疾控中心主任雷德菲尔德(Robert Redfield)说，在疫情暴发的早些时候，疾控中心的指导意见是，患者必须有去过中国的旅行史，或者在接受检测前曾与去过中国的人有过密切接触。但雷德菲尔德说，检验标准现在已经改变了。<br>
+
+
