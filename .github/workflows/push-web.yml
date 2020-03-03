@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Run a multi-line script
+    - name: Regenerating content. The commit would fail if nothing changes
       run: |
         echo this is a simple workflow which will run automatically upon each push.
         cd docs
