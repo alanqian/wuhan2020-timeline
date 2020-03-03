@@ -13,7 +13,7 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo this is a simple workflow which will run automatically upon each push.
-        cd src
+        cd docs
         ./modify.sh
         echo -n new push at >> github-action.log
         date >> github-action.log
