@@ -8,6 +8,8 @@ file_input.readline()
 file_input.readline()
 file_input.readline()
 
+
+
 for line in file_input:
     if line[0:2] == "##":
         file_output.write('\n- date: '+ line[3:]+'  items:\n')

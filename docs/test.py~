@@ -1,0 +1,16 @@
+import json
+
+
+
+block={
+    'date':'march 30',
+    'groups':[
+        {
+            'group_name':'wuhan'
+            'items':[
+                'item1',
+                'item2'
+            ]
+        }
+        ]
+}

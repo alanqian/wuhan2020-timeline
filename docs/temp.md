@@ -2,5 +2,5 @@
 
 
 {% for block in site.data.news %}
-{{ block.date }}
+   {{ block.date }}
 {% endfor %}
