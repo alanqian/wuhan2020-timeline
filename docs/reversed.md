@@ -1,5 +1,5 @@
 
-reversed order
+reversed order to show latest news
 
 {% for block in site.data.news  reversed %}
 ### {{ block.date }}
