@@ -1074,6 +1074,7 @@
 * [香港渔护署](https://www.info.gov.hk/gia/general/202002/28/P2020022800012.htm)表示一只居于确诊者家中的狗对病毒测试呈弱阳性反应，该狗并无任何相关病征。目前未有数据证明宠物会感染而发病或传播该病毒，但署方强烈建议确诊者的宠物接受检疫。<br>
 * [山东省人民政府](http://www.shandong.gov.cn/art/2020/2/28/art_101628_349676.html)免去王文杰山东省监狱管理局副局长职务。<br>
 * [北京](https://weibo.com/1893892941/IwlFPxj5j)发布《关于进一步严格疫情防控有关要求的通告》，其中提出：突出重点部位疫情防控。密切关注公园、景区周边人员聚集情况，有针对性地出台限流管控措施。加强重点交通站点防控力量，建立联动机制，避免轨道站外、公交站台周边排队人员密集。严格集体宿舍监督管理，原则上不安排在地下空间居住。<br>
+* [中国妇女报](https://weibo.com/2606218210/IwzTgr9tx?type=comment)：广西贺州灵峰镇卫生院副院长钟进杏因日夜奋战在抗疫一线，劳累过度猝死在宿舍，年仅32岁。院长称因为人员比较少，他从大年初二到现在只休息了一天，一直工作了33天，他还有个6岁的孩子。<br>
 
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-china-health-iran-ban/iran-bans-chinese-citizens-from-entering-the-country-irna-idUSKCN20L1V7)：伊朗国家通讯社报道称，为了阻止新冠肺炎的扩散，伊朗已经禁止中国公民入境。<br>
@@ -1108,6 +1109,7 @@
 * [中国驻俄罗斯大使馆](javascript:void(0);)：个别自媒体传言称莫斯科警方暴力执法，虐待隔离人员，无故带走中国公民，该传言并不属实。警方带走的人员均涉嫌违反了俄防疫规定，且隔离地点并非只有中国公民。造谣者与日前散布中国公民因感染冠状病毒被俄方抛尸荒野谣言者系同一人。<br>
 * [北京卫健委](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200301_1673161.html)：截止2月29日0时至24时，北京市新增2例新冠肺炎确诊病例，均为境外输入病例，已送至定点医疗机构进行救治。<br>
 * [深圳卫健委](http://wjw.sz.gov.cn/yqxx/202003/t20200301_19033745.htm)通报1例境外输入新冠肺炎确诊病例。患者，男，35岁，在英国布里斯托工作。2月27日乘坐CX250航班，由伦敦飞往香港 。2月28日13:27抵达香港机场，15:30在香港机场海天码头乘坐渡轮到蛇口码头，16:32在码头入境时，显示该患者体温正常，16:45从蛇口码头乘出租车回福田区家中。患者全程佩戴口罩。2月29日上午7时，患者出现咳嗽、发热症状。10时由家属驾车送往中山大学附属第八医院发热门诊就诊。21时咽拭子初筛新冠病毒核酸阳性。23时患者由中大八医转至深圳市第三人民医院隔离治疗。3月1日0:40，深圳市疾控中心复核结果为新冠病毒核酸阳性。广东省卫生健康委已于3月1日凌晨将相关情况通报香港卫生部门。<br>
+* 有网友爆料称，云南临沧强制师生服用 “大锅药”，学生需服药才能报到入学。“大锅药”给出中医药预防药方，临沧教育体育局值班人员称，因对新型冠状病毒能起到预防作用。<br>
 
 【国际】<br>
 * [RTL](https://today.rtl.lu/news/luxembourg/a/1476925.html)：卢森堡当局已对约50人进行了检测，其中有一人冠状病毒检测呈阳性。该名四十多岁的男子从 #意大利 经沙勒罗瓦机场返回，目前被送往CHL。目前正在鹿特丹进行第二次测试，以确认第一次测试。结果将在周日早上发布。<br>
@@ -1119,12 +1121,35 @@
 
 ## 2020年3月2日
 【武汉-湖北】<br>
+* 湖北日报：下午，湖北省监狱管理局召开干部会议，宣布省委和省委组织部决定：贾石松任省司法厅党委委员、省监狱管理局党委书记、局长，董煜华任省监狱管理局党委副书记、政治委员；免去郝爱民的省司法厅党委委员、省监狱管理局党委书记、局长职务，免去胡承浩的省监狱管理局党委委员、副局长职务，免去张新华同志的省监狱管理局党委委员、政治部主任职务。<br>
 
 【中国】<br>
 * [香港特别行政区新闻公报](https://www.info.gov.hk/gia/general/202003/01/P2020030100722.htm)：香港新冠肺炎累计确诊100例。<br>
+* 凌晨，云南临沧通报强制师生服用大锅药，紧急叫停该行为。市教育体育局称，本意只是“倡议”学生服用，但个别区县执行时与要求不符。<br>
+* 浙江省卫健委通报：2020年3月1日0-24时，新增境外意大利输入性确诊病例1例。<br>
+* [浙江发布](https://m.weibo.cn/5131766197/4477969370620605)：上午，浙江省委书记车俊主持召开省委常委会会议，会议决定我省疫情防控应急响应等级从原来的一级调整为二级。<br>
+* [央视新闻](https://weibo.com/2656274875/IwKRv7F4w)：北京市回应黄某英离汉进京事件：4个责任单位（市公安局大兴分局求贤检查站、东城区崇文门外街道办事处及新怡家园社区、北京市疾控中心接线人员、北京新世界物业管理有限公司）被处罚。<br>
+* 山西首例接受血浆治疗的新冠肺炎患者姚某2月27日去世，但未计入新冠肺炎病亡病例。针对该患者未被计入新冠肺炎病亡病例一事，山西省卫健委相关工作人员向[澎湃新闻](https://weibo.com/ttarticle/p/show?id=2309354478120223703827#_0)表示，姚某新冠肺炎已经治愈，去世是因为这名患者已经80多岁，是其他基础病导致。<br>
 
 【国际】<br>
 * [里斯汀报](https://listindiario.com/la-republica/2020/03/01/606407/se-registra-primer-caso-de-coronavirus-en-rd)：多米尼加卫生部通报该国出现首例新冠肺炎患者，该患者是一名意大利人，还通报了另一名法国人也出现了疑似症状，正在进行对应的病毒测试等待结果。<br>
 * [柏林州政府](https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.901388.php)：德国柏林确认首例新冠肺炎。<br>
 * [NBC](https://www.nbcbayarea.com/news/coronavirus/two-bay-area-health-care-workers-presumptive-positive-for-coronavirus/2245437/)美国加州湾区新增2名确诊病例，均为医护感染。两位都接触过在加州大学戴维斯分校医学中心住院的社区传播患者。<br>
+* [第一财经](https://m.yicai.com/news/100529447.html)：法国瓦兹省和萨瓦省的两名市长（瓦卢瓦地区克雷皮市长Bruno Fortier和拉巴勒姆德西兰吉市长François Daviet）于同日确诊新冠肺炎，系欧洲首次有政府官员确诊。与此同时，法国海外省首现三例确诊病例。为抗击疫情，法国卫生部宣布，将取消国土范围内所有封闭环境中超过5000人的大型活动，卢浮宫等旅游机构开始闭门谢客。<br>
+* [andorradifusio](https://www.andorradifusio.ad/noticies/primer-cas-coronavirus-andorra)：安道尔确诊首例新冠肺炎病例，患者曾去过意大利。<br>
+* [美联社](https://apnews.com/2ab5535d09074fd0e1c70fc78fef2fad)：伊朗最高领袖哈梅内伊的顾问委员会成员赛义德·穆罕默德·米尔-穆罕默迪(SeyedMohammadMir-Mohammadi)当天因感染新冠肺炎去世。其母亲，伊朗高级神职人员阿亚图拉赞贾尼(AyatollahShobeiriZanjani)的妹妹同样因新冠肺炎离世。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYD2wtuf2rPgUeHFFQRIf200302&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月2日，约旦卫生部宣布该国发现首例新冠肺炎确诊病例。该名约旦籍患者两周前从意大利返回约旦，并在抵达约旦时被立即隔离。<br>
 
+## 2020年3月3日
+【武汉-湖北】<br>
+
+【中国】<br>
+
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-tajikistan-idUSKBN20P28G)：塔吉克斯坦政府日前发出公告，宣布将从即日起禁止35个出现COVID-19疫情国家的公民入境，这其中包含中国、美国、英国、伊朗和、日本。<br>
+* [央视新闻](https://weibo.com/2656274875/IwNXp61XD)：当地时间2日晚，沙特卫生部发布公告，确诊首例新冠肺炎病例，患者已被医学隔离。公告显示，该患者从伊朗途经巴林返回沙特。<br>
+* [央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxYXY9vVpo2njBikKEWJ200303&fromapp=cctvnews&version=803&version=803&allow_comment=1)：根据塞内加尔当地媒体报道，塞内加尔首都达喀尔的巴斯德研究所当地时间2日确诊一例新冠肺炎确诊病例。<br>
+* [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)：美国佛罗里达州新增2例COVID-19确诊病例，其中一人无任何美国以外旅行史，该病例的流行病学感染途径尚不明确。该病例的出现意味着美国佛罗里达州也可能已经出现了社区传染病例。另一位确诊病例此前曾前往意大利旅行，回到美国后出现症状。该州州长DeSantis宣布佛罗里达进入公关卫生紧急状态。<br>
+* [央视新闻](https://m.chinanews.com/wap/detail/zw/gj/2020/03-03/9111480.shtml)：当地时间3月2日，突尼斯卫生部长阿卜杜勒拉蒂夫·梅基在新闻发布会上宣布，该国确诊首例新冠肺炎病例。据称，这名病例是突尼斯人，2月27日坐船从意大利到达首都突尼斯城的拉古莱特港口，2月29日出现症状。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-morocco/morocco-reports-first-coronavirus-case-health-ministry-idUSKBN20P33T)：摩洛哥通报首例新冠肺炎病例，患者是摩洛哥人此前居住在意大利。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-latvia/latvia-reports-its-first-coronavirus-case-ministry-idUSKBN20P2IU)：据拉脱维亚通讯社报道，拉脱维亚确认了首例新冠肺炎感染病例。患者乘坐拉脱维亚航空公司AirBaltic的BT226航班从德国慕尼黑返回首都里加。<br>
