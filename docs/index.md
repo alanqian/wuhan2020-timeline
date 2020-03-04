@@ -1142,10 +1142,15 @@
 
 ## 2020年3月3日
 【武汉-湖北】<br>
+* 中午，[武汉市中心医院](https://mp.weixin.qq.com/s/qb-yEgwoRLKUQpCGHO_pNA)眼科医生梅仲明因新冠肺炎感染去世，他和此前去世的李文亮同科室，是该医院眼科副主任、主任医师。<br>
 
 【中国】<br>
+* 浙江省公布新型冠状病毒肺炎疫情情况，新增境外（意大利）输入性确诊病例7例。该7例病例与首例境外输入病例王某某为密切接触者，在意大利贝加莫 同一家餐厅工作，8人一直生活在意大利，无湖北武汉接触史。<br>
+* 北京市新冠疫情防控工作新闻发布会：北京市政府副秘书长陈蓓表示，近日仅在伊朗的中国留学生从北京口岸回国的就有20余人。凡是从韩国、意大利、伊朗、日本等疫情严重国家经北京口岸入境的，如果是中转去外地的，严格按当地规定做好防疫工作；如果目的地是北京的，不论是中国人，还是外国人，都要实行隔离观察。<br>
+* 针对网传“安康市中心医院领导拿的补助比援鄂一线的都惊人”一事，[陕西安康市中心医院](http://61.134.48.218:8077/content_21_999.html)致歉，并表示将重新对医院一线人员补助范围、天数、标准进行认真核定，严格审核把关。3月2日，一份安康市中心医院为一线疫情防控人员发放临时性工作补助的统计表在网络热传。表格显示，补助标准为每人每天200元、300元两档，最长补助时间为42天，补助金额为12600元。有知情者指出，名单中包括多名院领导，且其获得的补助高于含支援湖北医护在内的抗疫一线人员。该名单引发争议。<br>
 
 【国际】<br>
+* 2月22日开始，莫斯科执法人员每天都会在地铁站、公交、甚至民宅中进行“突然检查”。截止本日，莫斯科已确认88人违反隔离制度，其中80人是中国公民。这80位中国人多数在莫斯科东南部的察里津诺残疾人康复中心隔离，截至2月29日晚10点，察里津诺还滞留着70名左右中国人。[北青深一度](https://www.sohu.com/a/377331858_148781)记者采访了数位当事人，他们还原了在莫斯科的经历， 一部分人表示自己是在不知情的情况下“无意识”地违背了隔离法令，有人因为出门倒垃圾涉嫌违法，有人因为去超市买东西涉嫌违法，现在他们可能面临被驱逐出境，5年不得入境俄罗斯的处罚。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-tajikistan-idUSKBN20P28G)：塔吉克斯坦政府日前发出公告，宣布将从即日起禁止35个出现COVID-19疫情国家的公民入境，这其中包含中国、美国、英国、伊朗和、日本。<br>
 * [央视新闻](https://weibo.com/2656274875/IwNXp61XD)：当地时间2日晚，沙特卫生部发布公告，确诊首例新冠肺炎病例，患者已被医学隔离。公告显示，该患者从伊朗途经巴林返回沙特。<br>
 * [央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxYXY9vVpo2njBikKEWJ200303&fromapp=cctvnews&version=803&version=803&allow_comment=1)：根据塞内加尔当地媒体报道，塞内加尔首都达喀尔的巴斯德研究所当地时间2日确诊一例新冠肺炎确诊病例。<br>
@@ -1153,3 +1158,16 @@
 * [央视新闻](https://m.chinanews.com/wap/detail/zw/gj/2020/03-03/9111480.shtml)：当地时间3月2日，突尼斯卫生部长阿卜杜勒拉蒂夫·梅基在新闻发布会上宣布，该国确诊首例新冠肺炎病例。据称，这名病例是突尼斯人，2月27日坐船从意大利到达首都突尼斯城的拉古莱特港口，2月29日出现症状。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-morocco/morocco-reports-first-coronavirus-case-health-ministry-idUSKBN20P33T)：摩洛哥通报首例新冠肺炎病例，患者是摩洛哥人此前居住在意大利。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-latvia/latvia-reports-its-first-coronavirus-case-ministry-idUSKBN20P2IU)：据拉脱维亚通讯社报道，拉脱维亚确认了首例新冠肺炎感染病例。患者乘坐拉脱维亚航空公司AirBaltic的BT226航班从德国慕尼黑返回首都里加。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-ukraine/ukraine-reports-first-coronavirus-case-health-official-idUSKBN20Q0ZH)：乌克兰确诊首例新冠肺炎。患者从意大利经罗马尼亚入境乌克兰。<br>
+* [福克斯新闻](https://www.foxnews.com/health/iran-says-77-dead-amid-2336-cases-of-new-coronavirus)援引伊朗国家电视台消息称，伊朗23名议员感染新冠病毒。<br>
+* 美联储紧急宣布降息，将基准利率下调50个基点。美联储在一份声明中说：“冠状病毒对经济活动构成了不断变化的风险。鉴于这些风险，为了支持实现最大的就业率和价格稳定目标，联邦公开市场委员会今天决定降低联邦基金利率的目标范围。”<br>
+
+## 2020年3月4日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/health-coronavirus-argentina/argentina-has-first-confirmed-case-of-coronavirus-lab-tech-says-idUSE6N27A05B)：阿根廷确诊首例新冠肺炎，患者曾在意大利逗留两周，包括北部疫情严重地区。<br>
+* [Latercera](https://www.latercera.com/que-pasa/noticia/confirman-primer-caso-de-coronavirus-en-chile/FDN7GE7NEJEZZFJIMVJDVY5F6I/)：智利确诊首例新冠肺炎，患者曾在新加坡、马来西亚、印尼、马尔代夫、西班牙旅行，后于2月25日从西班牙马德里乘坐飞机返回智利，于3月1日进行检测。<br>
+* [西班牙国家报](https://elpais.com/sociedad/2020-03-03/valencia-confirma-la-muerte-de-un-hombre-con-coronavirus.html)：瓦伦西亚通报西班牙首例新冠肺炎死亡病例，患者于2月13日去世，死于不明原因的肺炎，随后的尸检确诊为新冠肺炎。死者生前曾去过尼泊尔。<br>
+* [The Seattle Times](https://www.seattletimes.com/business/amazon/amazon-employee-in-seattle-has-tested-positive-for-illness-caused-by-coronavirus/)：西雅图亚马逊的一名员工确诊新冠肺炎。据消息称，该员工于2月25日星期二回到家时感到不适，此后一直未恢复工作。亚马逊于3月3日周二得知该员工检测呈阳性。<br>
+
