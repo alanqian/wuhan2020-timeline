@@ -1,8 +1,8 @@
 # extract data from index.md to _data/news.yml
 
 
-#file_input=open('index.md','r')
-file_input=open('../时间线TIMELINE.md','r')
+file_input=open('index.md','r')
+#file_input=open('../时间线TIMELINE.md','r')
 file_output=open('_data/news.yml','w')
 
 file_input.readline()
