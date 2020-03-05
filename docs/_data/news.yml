@@ -1463,6 +1463,8 @@
     content: "[央视新闻](https://wap.peopleapp.com/article/5156381/5055261)：近日，在钟南山院士的指导下，实验室联合多家研究机构，最新研发出新型冠状病毒IgM抗体快速检测试剂盒，并已在实验室和临床完成初步评价。据介绍，仅需采取一滴血就可在15分钟内肉眼观察获得检测结果，且患者的血浆稀释500至1000倍后，仍能检测出阳性条带。<br>"
   - item_name: news
     content: "[中国日报网](https://weibo.com/2127460165/IukTGksbG?type=comment)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>"
+  - item_name: news
+    content: "[求是网·大国领袖的责任担当——总书记的战“疫”日志](https://github.com/Pratitya/wuhan2020-timeline/issues/143#issue-575963583)<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1883,6 +1885,8 @@
     content: "[台湾卫生福利部疾病管制署](https://www.cdc.gov.tw/)：台湾流行疫情指挥中心29日公布，岛内新增5例新冠肺炎确诊病例，其中4例为昨日（28日）公布的第34案确诊前，于台湾北部某医院的接触者，分别为1名清洁人员（案35）及3名护理人员（案36至38）。案35于医院急诊工作时曾接触案34，其余3人均为案34确诊前住院病房的护理人员，4人陆续于2月18—25日出现咳嗽、流鼻水、发烧等症状，并于案34确诊后列为接触者采检，于今日确诊，为一起群聚事件。<br>"
   - item_name: news
     content: "[中国新闻周刊](https://weibo.com/1642512402/Iwuu1uCpz)记者从天津市疾控中心获悉，天津又出现一例出院确诊病例核酸检测阳性。该病例是河北省秦皇岛市一确诊病例治愈出院后返津，10日后肛拭子标本检测呈阳性，已收入海河医院观察。<br>"
+  - item_name: news
+    content: "[丁香医生](https://mp.weixin.qq.com/s/z2evDPApBrXZoZGDskrBuQ)新冠病毒最新实时疫情地图功能下线。1月21日，丁香医生第一时间上线「疫情地图」，帮助国人了解最新的疫情数据和资讯。1月27日上线了实时数据动态订阅功能，为国人及时推送自己关心地区的数据更新。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1967,6 +1971,8 @@
     content: "[美联社](https://apnews.com/2ab5535d09074fd0e1c70fc78fef2fad)：伊朗最高领袖哈梅内伊的顾问委员会成员赛义德·穆罕默德·米尔-穆罕默迪(SeyedMohammadMir-Mohammadi)当天因感染新冠肺炎去世。其母亲，伊朗高级神职人员阿亚图拉赞贾尼(AyatollahShobeiriZanjani)的妹妹同样因新冠肺炎离世。<br>"
   - item_name: news
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYD2wtuf2rPgUeHFFQRIf200302&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月2日，约旦卫生部宣布该国发现首例新冠肺炎确诊病例。该名约旦籍患者两周前从意大利返回约旦，并在抵达约旦时被立即隔离。<br>"
+  - item_name: news
+    content: "[齐泽克·冠状病毒是对资本主义“杀死比尔”式的重击，并可能导致共产主义的重现](https://www.rt.com/op-ed/481831-coronavirus-kill-bill-capitalism-communism/)（[中译版](https://mp.weixin.qq.com/s/uAqpVpcPZzgGm9F_8NnkoA)）br>"
 
 - date: 2020年3月3日
   items:
@@ -2011,8 +2017,22 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "武汉硚口区的梅女士向[澎湃新闻](https://archive.li/wip/TK7rP)反映称，自己的丈夫李亮，今年36岁，被确诊为新冠肺炎患者，经治疗，2月26日从方舱医院出院，到指定的酒店康复点隔离，3月2日突然在康复点发病，送医后不治。<br>"
+  - item_name: news
+    content: "晚，武汉市江岸方舱医院一名负责人向[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6321807)记者证实，江岸方舱医院发布了一份《紧急通知》：近期出院患者中复发者较多，导致患者重新入院治疗。医院决定，即日对所有在舱拟出院病友抽血加做病毒抗体Ig-M与Ig-G的检查。上述检查将从明天（3月5日）开始。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[香港渔护署](https://www.info.gov.hk/gia/general/202003/04/P2020030400656.htm)：一只狗只对新冠病毒的反复测试中均呈弱阳性反应，有关结果显示该狗只已低程度感染新冠病毒。署方曾征询香港大学公共卫生学院、香港城市大学动物医学及生命科学院及世界动物卫生组织专家意见，他们一致认同很可能是由人类传染。该狗只现时没有任何与新冠肺炎相关的病征，现正于港珠澳大桥口岸动物居留所接受检疫。<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://weibo.com/5044281310/Ix3cjDAIT)从中央政法委获悉，日前调查组，就山东省任城监狱疫情事件进行了全面调查，任城监狱疫情事件是由1月21日从武汉自驾车到达山东济宁的人员，传染给监狱干警、职工，进而造成部分干警和罪犯感染。<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://weibo.com/1642088277/Ix57d2Cs5)：北京地坛医院公布，此前的2月25日，首例新冠肺炎合并脑炎患者从该院顺利出院。该院ICU主任刘景院提醒：患者出现意识障碍，一定要考虑病毒有可能攻击中枢神经系统。目前来说，新冠肺炎患者可合并重度呼吸窘迫综合征（ARDS）、心肌损害、凝血功能异常、肾脏损伤、肝脏损害等多脏器损害，但尚未发现有中枢神经系统受累的报道，此病例报道在全球尚属首例。<br>"
+  - item_name: news
+    content: "[新华视点](https://m.weibo.cn/1699432410/4478851872453492)：黑龙江省召开省委常委会会议决定将黑龙江省新冠肺炎疫情防控应急响应等级，由重大突发公共卫生事件一级应急响应调整为二级应急响应。<br>"
+  - item_name: news
+    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2023,3 +2043,20 @@
     content: "[西班牙国家报](https://elpais.com/sociedad/2020-03-03/valencia-confirma-la-muerte-de-un-hombre-con-coronavirus.html)：瓦伦西亚通报西班牙首例新冠肺炎死亡病例，患者于2月13日去世，死于不明原因的肺炎，随后的尸检确诊为新冠肺炎。死者生前曾去过尼泊尔。<br>"
   - item_name: news
     content: "[The Seattle Times](https://www.seattletimes.com/business/amazon/amazon-employee-in-seattle-has-tested-positive-for-illness-caused-by-coronavirus/)：西雅图亚马逊的一名员工确诊新冠肺炎。据消息称，该员工于2月25日星期二回到家时感到不适，此后一直未恢复工作。亚马逊于3月3日周二得知该员工检测呈阳性。<br>"
+  - item_name: news
+    content: "[alarabiya](http://english.alarabiya.net/en/News/middle-east/2020/03/04/Iran-s-first-Vice-President-tests-positive-for-coronavirus-Iranwire.html)：第一副总统埃沙格·贾汉吉里（Eshaq Jahangiri）、工业部长雷扎·拉哈马尼（Reza Rahmani）确诊新冠肺炎。<br>"
+
+- date: 2020年3月5日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[法新社](https://twitter.com/AFP/status/1235204106534498305?s=20)：欧盟位于比利时首都布鲁塞尔的办公室刚刚发现了第2例COVID-19确诊病例。数小时前，法新社和美国ABC新闻报告了该地点的首例确诊病例。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-slovenia/slovenia-confirms-first-case-of-coronavirus-idUSKBN20R33X)斯洛文尼亚通报首例新冠肺炎。<br>"
+  - item_name: news
+    content: "美国加州州长于当地时间4日宣布该州进入紧急状态。加州目前是全美第三个宣布进入紧急状态的州，此前华盛顿州和佛罗里达州已宣布进入紧急状态。<br>"
