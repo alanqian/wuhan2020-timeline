@@ -925,8 +925,6 @@
   - item_name: news
     content: "晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY?ref=collection)，并[向医护人员鞠躬](https://weibo.com/2656274875/IrLLnxlV6?ref=collection&type=comment)。<br>"
   - item_name: news
-    content: "21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1580442133983)公报黄冈卫健委唐志红主任被火速免职。<br>"
-  - item_name: news
     content: "[河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)"
   - item_name: news
     content: "[寿光向武汉捐献350吨蔬菜，低价出售后讲所得捐钱给红十字会](https://weibo.com/6004281123/IrKeCw66P)<br>"
@@ -961,6 +959,8 @@
     content: "[央视新闻](https://weibo.com/2656274875/IrUaIckhA)报道中央派出督查组赶赴黄冈市进行督查核查。当问到定点医院收治能力床位数量、核酸检测能力时，当地卫健委主任唐志红要么沉默，要么含糊其辞，一问三不知。<br>"
   - item_name: news
     content: "[武汉协和医院](https://github.com/Pratitya/wuhan2020-timeline/issues/42#issue-558508293)宣布物资“没有了”。网友质疑湖北红十字会[《物资使用情况》](https://github.com/Pratitya/wuhan2020-timeline/issues/14)，东湖生态旅游风景区城乡工作办事处（33人）获得1万个口罩，武汉仁爱医院（植发、无痛人流、不孕不育）获得1.6万个口罩，协和医院获得3000个。<br>"
+  - item_name: news
+    content: "21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1580442133983)公报黄冈卫健委唐志红主任被火速免职。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1844,6 +1844,8 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "上午9时30分左右，湖北黄梅镇向窑村一组村民14户22人误食二氧化氯环境消毒片后被紧急送往县人民医院救治。2月29日晚，网上流传一份疑似黄冈市人民政府发往各县的关于此事的电报流出。黄梅县委宣传部向[界面新闻](https://www.jiemian.com/article/4049983.html)证实，确有发生误食“消毒片”中毒事件。3月1日下午，黄梅县人民政府网站发布通报证实。经查，2月25日，黄梅镇向各村社区发放防护物资时，均交代清楚了泡腾片的用途及使用方法，每粒泡腾片兑2公斤水，用于住户家中喷洒消毒。向窑村安排村妇女主任、会计罗晓红及网格员翟锦霞负责向各小组发放物资。27日15时许，罗晓红电话通知一组组长蒋建军到村委会领取一组防护物资，发放给村民，但电话中未告知蒋建军泡腾片的用途及使用方法。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1923,7 +1925,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[RTL](https://today.rtl.lu/news/luxembourg/a/1476925.html)：卢森堡当局已对约50人进行了检测，其中有一人冠状病毒检测呈阳性。该名四十多岁的男子从 #意大利 经沙勒罗瓦机场返回，目前被送往CHL。目前正在鹿特丹进行第二次测试，以确认第一次测试。结果将在周日早上发布。<br>"
+    content: "[RTL](https://today.rtl.lu/news/luxembourg/a/1476925.html)：卢森堡当局已对约50人进行了检测，其中有一人冠状病毒检测呈阳性。该名四十多岁的男子从意大利经沙勒罗瓦机场返回，目前被送往CHL。目前正在鹿特丹进行第二次测试，以确认第一次测试。结果将在周日早上发布。<br>"
   - item_name: news
     content: "[华盛顿州](https://www.governor.wa.gov/news-media/inslee-issues-covid-19-emergency-proclamation)州长Jay Inslee今天宣布该州进入紧急状态以应对新冠肺炎，下令政府机构动用一切必要的资源应对疫情。今年1月，一名华盛顿州Snohomish County的男子确诊为美国首例新冠确诊病例。2月29日，该州出现美国首例死亡病例。<br>"
   - item_name: news
@@ -2050,8 +2052,20 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "微博用户[“饿了么肖唐松”](https://m.weibo.cn/status/4479100519580626?sudaref=moe.covid-19.wtf&display=0&retcode=6102)自述2月初在武汉的救人的经历，并称以后遇到类似需要帮助还会出手相助。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[国家卫健委](http://www.nhc.gov.cn/renshi/s7771/202003/28cc60d7e33b4dc7bd77af485fab1a58.shtml)等三部门表彰新冠肺炎疫情防控工作先进集体和个人，追授李文亮、刘智明等34人“新冠肺炎疫情防控工作先进个人”。<br>"
+  - item_name: news
+    content: "[财新网](https://weibo.com/1663937380/IxcSgrUn7)：近期在网上流传的一份“告知书”称“朝鲜要求中国边境加强管控，如若违反将开枪击毙”；事发地吉林省集安市青石镇政府称已挨家挨户告诉村民消息不属实，并收回上述告知书。<br>"
+  - item_name: news
+    content: "[新京报](https://weibo.com/6124642021/Ixdgggh7v)：西安市高新区罗马西西里小区一确诊病例出院后复阳。丈八街道疫情防控指挥部工作人员称，患者治愈出院后在家隔离，核酸复查呈阳性时，14天的隔离期还未满。目前，患者被送往医院继续治疗，其家属也在医院进行医学隔离。<br>"
+  - item_name: news
+    content: "[甘肃卫健委](http://wsjk.gansu.gov.cn/single/10910/84639.html)：3月2日20时至3月5日20时，有311人分别乘商业包机由 #伊朗 到达 #兰州，均已全部隔离。3月5日新增11例境外输入确诊病例，均在省级定点医院隔离治疗，病情平稳。新增境外输入密切接触者300人，其中38人在省级定点医院隔离留观，262人在集中隔离点隔离，正在进一步进行医学检测检查。<br>"
+  - item_name: news
+    content: "自2020年3月6日12时起，将[青海省](http://www.qh.gov.cn/zwgk/system/2020/03/05/010353354.shtml)重大突发公共卫生事件由三级响应调整为四级响应。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2060,3 +2074,16 @@
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-slovenia/slovenia-confirms-first-case-of-coronavirus-idUSKBN20R33X)斯洛文尼亚通报首例新冠肺炎。<br>"
   - item_name: news
     content: "美国加州州长于当地时间4日宣布该州进入紧急状态。加州目前是全美第三个宣布进入紧急状态的州，此前华盛顿州和佛罗里达州已宣布进入紧急状态。<br>"
+  - item_name: news
+    content: "[cnbcafrica](https://www.cnbcafrica.com/news/2020/03/05/south-africa-confirms-first-case-of-covid-19/)：南非报告首例新冠肺炎确诊病例，患者近期有意大利旅行史。<br>"
+
+- date: 2020年3月6日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[BBC](https://www.bbc.com/news/uk-51759602)：英国出现首例死亡病例，是一名有基础疾病的老年患者，之前就因其他疾病多次住院。患者于昨晚住院，新冠检测呈阳性，后不治身亡。<br>"
