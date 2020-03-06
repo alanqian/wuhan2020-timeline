@@ -1192,4 +1192,4 @@
 * [法新社](https://twitter.com/AFP/status/1235204106534498305?s=20)：欧盟位于比利时首都布鲁塞尔的办公室刚刚发现了第2例COVID-19确诊病例。数小时前，法新社和美国ABC新闻报告了该地点的首例确诊病例。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-slovenia/slovenia-confirms-first-case-of-coronavirus-idUSKBN20R33X)斯洛文尼亚通报首例新冠肺炎。<br>
 * 美国加州州长于当地时间4日宣布该州进入紧急状态。加州目前是全美第三个宣布进入紧急状态的州，此前华盛顿州和佛罗里达州已宣布进入紧急状态。<br>
-<br><a name=bottom>[回到顶部](#top) </a>
+<br><a name="bottom">[回到顶部](#top) </a>
