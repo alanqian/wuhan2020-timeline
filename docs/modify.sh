@@ -8,7 +8,7 @@ sed  's/|/·/g' ../时间线TIMELINE.md > index.md
 python3 extract_data_to_yaml.py
 
 
-echo "<br><a name="bottom">[回到顶部](#top) </a>" >> index.md
+echo "<br><a name=\"bottom\">[回到顶部](#top) </a>" >> index.md
 
 # sed 's/|/\\|/g' test.txt > timeline.md
 # cat timeline.md
