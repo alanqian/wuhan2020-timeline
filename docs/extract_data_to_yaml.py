@@ -8,7 +8,7 @@ file_output=open('_data/news.yml','w')
 file_input.readline()
 file_input.readline()
 file_input.readline()
-
+file_input.readline()
 
 for line in file_input:
     if line[0:2] == "##":
