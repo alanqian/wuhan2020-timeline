@@ -1,6 +1,6 @@
 wuhan2020-timeline
 ====================
-[疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)
+[疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://pratitya.github.io/wuhan2020-timeline/)
 ===========================================================
 
 凡例
@@ -13,7 +13,7 @@ wuhan2020-timeline
 - 1.一日内分为三个版块：【武汉-湖北】（武汉及湖北各地）、【中国】（湖北以外省市自治区、特别行政区）、【国际】（国际疫情、医学动态及舆情）；
 - 2.每个版块下按照时间先后（若可考）排列事实条目，并注明文献信息出处；时间不可考者统一列于最末；
 - 3.媒体 __实时报道__ 某事，以“XX时，[媒体名](url)：内容。”格式撰写。例如2月3日条目下“[立场新闻](https://www.thestandnews.com/society/%E9%86%AB%E7%AE%A1%E5%B1%80-%E4%BB%8A%E6%97%A5%E9%80%BE-2700-%E4%BA%BA%E7%BD%B7%E5%B7%A5-%E6%9C%89-icu-%E9%80%BE%E5%8D%8A%E8%AD%B7%E5%A3%AB%E7%BC%BA%E5%8B%A4-%E5%A4%9A%E9%A0%85%E6%89%8B%E8%A1%93%E5%BB%B6%E6%9C%9F)：香港醫管局員工陣線宣布，今日第一阶段的罢工有超过2700人参与，有新生儿ICU、隔离病房等人手不足，多项手术都要延期。”；
-- 4.媒体 __事后叙述__ 某事，系于某事发生实际时间，以“XX时，事件转述。见报道时间[媒体名](url)。”格式撰写。例如12月16日条目下“同日，武汉市优抚医院门诊医生刘永（化名）接诊了一位来自华南海鲜市场的商户黄某（69岁）。见2月11日[八点健闻 | 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。”
+- 4.媒体 __事后叙述__ 某事，系于某事发生实际时间，以“XX时，事件转述。见报道时间[媒体名](url)。”格式撰写。例如12月16日条目下“同日，武汉市优抚医院门诊医生刘永（化名）接诊了一位来自华南海鲜市场的商户黄某（69岁）。见2月11日[八点健闻 · 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。”
 - 5.若是收录关于武汉、湖北本地报道或封城日记等整篇文章亦置于【武汉-湖北】版块最末，若是收录关于中国的综合性新闻报道亦置于【中国】版块最末。此部分在疫情前期（1月20日）以后已有专门项目整理（详见附录“媒体报道备份项目”一栏），本项目不作详录。<br>
 
 以2月1日为例，如下所示：<br>
@@ -26,16 +26,16 @@ wuhan2020-timeline
 * 下午，[央视](https://weibo.com/2615417307/Isd2AAQVs?ref=collection)探访武汉红十字会。记者试图探访仓库物资分发处受到保安阻拦，保安大叔称“不能放你们进来，不要为难我，否则我的饭碗就丢了”。交涉过程中直播被切断。采访过程得知协和医院一个科室只有4个N95口罩。<br>
 * 16时，[湖北省红十字会网站](http://www.hbsredcross.org.cn/xxgk/18031.jhtml)发布关于捐赠物资分配有关情况的说明，称我们对物资分配中存在的问题深感痛心、自责和内疚，并将对直接责任人依纪依规追责。<br>
 * 晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU?ref=collection&type=comment)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>
-* [豆瓣日记 | 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
+* [豆瓣日记 · 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>
 * 晚间，《财新》杂志微信公众号发布[统计数字之外的人：他们死于“普通肺炎”？ ](https://github.com/Pratitya/wuhan2020-timeline/issues/46#issue-558628515)，表明“目前人们所能看到的确诊、死亡病例数字，并不能完全反映这次疫情的全貌”。<br>
 
 【中国】<br>
-* [澎湃新闻 | 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
+* [澎湃新闻 · 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>
 * [人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>
 * [中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>
 * 投中网微信公众号发布对西贝餐饮董事长贾国龙的专访。贾表示疫情致西贝2万多员工待业 ，即使贷款发工资也只能撑3个月，作为餐饮行业中的头部企业，西贝的日子尚且如此困难，其他企业更加困难，希望政府在关键时候托底。（原文已删除）<br>
 * 同日，网传微信公众号文章《扒一扒武汉病毒所所长的成功史》，细数武汉病毒研究所所长王延轶与中科院院士舒红兵往事。2月3日删文。<br>
-* [豆瓣日记 | 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
+* [豆瓣日记 · 葵与黄色大象：我草拟的武汉新型冠状病毒疫情突发脉络图](https://github.com/Pratitya/wuhan2020-timeline/issues/58#issue-559042976)<br>
 
 【国际】<br>
 * [界面新闻](https://m.jiemian.com/article/3932115.html)发布《美国首例新冠病毒确诊病例康复全记录》：使用了在研抗病毒药物Remdesivir。病毒具有很高的载量水平，因此有传播的潜力。而且粪便检测出现新型冠状病毒阳性，也值得注意。<br>
@@ -151,6 +151,6 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * Github项目[疫情之下的劳动者--中文媒体报道收集](https://github.com/workshopwangdirector/Labor-in-2019-nCov)<br>
 
 #### （二）自媒体（VLOG、疫情分析）
-* [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
-* [纽约华人资讯网：武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
-* [南都传媒 | 记疫](http://h5.oeeee.com/h5/v20/nCovTimeline/?from=groupmessage&isappinstalled=0&dt_platform=wechat_friends&dt_dapp=1)<br>
+* [知识分子 · 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
+* [纽约华人资讯网 · 武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
+* [南都传媒·记疫](http://h5.oeeee.com/h5/v20/nCovTimeline/?from=groupmessage&isappinstalled=0&dt_platform=wechat_friends&dt_dapp=1)<br>

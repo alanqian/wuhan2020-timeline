@@ -1463,6 +1463,8 @@
     content: "[央视新闻](https://wap.peopleapp.com/article/5156381/5055261)：近日，在钟南山院士的指导下，实验室联合多家研究机构，最新研发出新型冠状病毒IgM抗体快速检测试剂盒，并已在实验室和临床完成初步评价。据介绍，仅需采取一滴血就可在15分钟内肉眼观察获得检测结果，且患者的血浆稀释500至1000倍后，仍能检测出阳性条带。<br>"
   - item_name: news
     content: "[中国日报网](https://weibo.com/2127460165/IukTGksbG?type=comment)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>"
+  - item_name: news
+    content: "[求是网·大国领袖的责任担当——总书记的战“疫”日志](https://github.com/Pratitya/wuhan2020-timeline/issues/143#issue-575963583)<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1852,6 +1854,8 @@
     content: "[山东省人民政府](http://www.shandong.gov.cn/art/2020/2/28/art_101628_349676.html)免去王文杰山东省监狱管理局副局长职务。<br>"
   - item_name: news
     content: "[北京](https://weibo.com/1893892941/IwlFPxj5j)发布《关于进一步严格疫情防控有关要求的通告》，其中提出：突出重点部位疫情防控。密切关注公园、景区周边人员聚集情况，有针对性地出台限流管控措施。加强重点交通站点防控力量，建立联动机制，避免轨道站外、公交站台周边排队人员密集。严格集体宿舍监督管理，原则上不安排在地下空间居住。<br>"
+  - item_name: news
+    content: "[中国妇女报](https://weibo.com/2606218210/IwzTgr9tx?type=comment)：广西贺州灵峰镇卫生院副院长钟进杏因日夜奋战在抗疫一线，劳累过度猝死在宿舍，年仅32岁。院长称因为人员比较少，他从大年初二到现在只休息了一天，一直工作了33天，他还有个6岁的孩子。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1881,6 +1885,8 @@
     content: "[台湾卫生福利部疾病管制署](https://www.cdc.gov.tw/)：台湾流行疫情指挥中心29日公布，岛内新增5例新冠肺炎确诊病例，其中4例为昨日（28日）公布的第34案确诊前，于台湾北部某医院的接触者，分别为1名清洁人员（案35）及3名护理人员（案36至38）。案35于医院急诊工作时曾接触案34，其余3人均为案34确诊前住院病房的护理人员，4人陆续于2月18—25日出现咳嗽、流鼻水、发烧等症状，并于案34确诊后列为接触者采检，于今日确诊，为一起群聚事件。<br>"
   - item_name: news
     content: "[中国新闻周刊](https://weibo.com/1642512402/Iwuu1uCpz)记者从天津市疾控中心获悉，天津又出现一例出院确诊病例核酸检测阳性。该病例是河北省秦皇岛市一确诊病例治愈出院后返津，10日后肛拭子标本检测呈阳性，已收入海河医院观察。<br>"
+  - item_name: news
+    content: "[丁香医生](https://mp.weixin.qq.com/s/z2evDPApBrXZoZGDskrBuQ)新冠病毒最新实时疫情地图功能下线。1月21日，丁香医生第一时间上线「疫情地图」，帮助国人了解最新的疫情数据和资讯。1月27日上线了实时数据动态订阅功能，为国人及时推送自己关心地区的数据更新。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1912,6 +1918,8 @@
     content: "[北京卫健委](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200301_1673161.html)：截止2月29日0时至24时，北京市新增2例新冠肺炎确诊病例，均为境外输入病例，已送至定点医疗机构进行救治。<br>"
   - item_name: news
     content: "[深圳卫健委](http://wjw.sz.gov.cn/yqxx/202003/t20200301_19033745.htm)通报1例境外输入新冠肺炎确诊病例。患者，男，35岁，在英国布里斯托工作。2月27日乘坐CX250航班，由伦敦飞往香港 。2月28日13:27抵达香港机场，15:30在香港机场海天码头乘坐渡轮到蛇口码头，16:32在码头入境时，显示该患者体温正常，16:45从蛇口码头乘出租车回福田区家中。患者全程佩戴口罩。2月29日上午7时，患者出现咳嗽、发热症状。10时由家属驾车送往中山大学附属第八医院发热门诊就诊。21时咽拭子初筛新冠病毒核酸阳性。23时患者由中大八医转至深圳市第三人民医院隔离治疗。3月1日0:40，深圳市疾控中心复核结果为新冠病毒核酸阳性。广东省卫生健康委已于3月1日凌晨将相关情况通报香港卫生部门。<br>"
+  - item_name: news
+    content: "有网友爆料称，云南临沧强制师生服用 “大锅药”，学生需服药才能报到入学。“大锅药”给出中医药预防药方，临沧教育体育局值班人员称，因对新型冠状病毒能起到预防作用。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1931,10 +1939,22 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "湖北日报：下午，湖北省监狱管理局召开干部会议，宣布省委和省委组织部决定：贾石松任省司法厅党委委员、省监狱管理局党委书记、局长，董煜华任省监狱管理局党委副书记、政治委员；免去郝爱民的省司法厅党委委员、省监狱管理局党委书记、局长职务，免去胡承浩的省监狱管理局党委委员、副局长职务，免去张新华同志的省监狱管理局党委委员、政治部主任职务。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "[香港特别行政区新闻公报](https://www.info.gov.hk/gia/general/202003/01/P2020030100722.htm)：香港新冠肺炎累计确诊100例。<br>"
+  - item_name: news
+    content: "凌晨，云南临沧通报强制师生服用大锅药，紧急叫停该行为。市教育体育局称，本意只是“倡议”学生服用，但个别区县执行时与要求不符。<br>"
+  - item_name: news
+    content: "浙江省卫健委通报：2020年3月1日0-24时，新增境外意大利输入性确诊病例1例。<br>"
+  - item_name: news
+    content: "[浙江发布](https://m.weibo.cn/5131766197/4477969370620605)：上午，浙江省委书记车俊主持召开省委常委会会议，会议决定我省疫情防控应急响应等级从原来的一级调整为二级。<br>"
+  - item_name: news
+    content: "[央视新闻](https://weibo.com/2656274875/IwKRv7F4w)：北京市回应黄某英离汉进京事件：4个责任单位（市公安局大兴分局求贤检查站、东城区崇文门外街道办事处及新怡家园社区、北京市疾控中心接线人员、北京新世界物业管理有限公司）被处罚。<br>"
+  - item_name: news
+    content: "山西首例接受血浆治疗的新冠肺炎患者姚某2月27日去世，但未计入新冠肺炎病亡病例。针对该患者未被计入新冠肺炎病亡病例一事，山西省卫健委相关工作人员向[澎湃新闻](https://weibo.com/ttarticle/p/show?id=2309354478120223703827#_0)表示，姚某新冠肺炎已经治愈，去世是因为这名患者已经80多岁，是其他基础病导致。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1943,3 +1963,100 @@
     content: "[柏林州政府](https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.901388.php)：德国柏林确认首例新冠肺炎。<br>"
   - item_name: news
     content: "[NBC](https://www.nbcbayarea.com/news/coronavirus/two-bay-area-health-care-workers-presumptive-positive-for-coronavirus/2245437/)美国加州湾区新增2名确诊病例，均为医护感染。两位都接触过在加州大学戴维斯分校医学中心住院的社区传播患者。<br>"
+  - item_name: news
+    content: "[第一财经](https://m.yicai.com/news/100529447.html)：法国瓦兹省和萨瓦省的两名市长（瓦卢瓦地区克雷皮市长Bruno Fortier和拉巴勒姆德西兰吉市长François Daviet）于同日确诊新冠肺炎，系欧洲首次有政府官员确诊。与此同时，法国海外省首现三例确诊病例。为抗击疫情，法国卫生部宣布，将取消国土范围内所有封闭环境中超过5000人的大型活动，卢浮宫等旅游机构开始闭门谢客。<br>"
+  - item_name: news
+    content: "[andorradifusio](https://www.andorradifusio.ad/noticies/primer-cas-coronavirus-andorra)：安道尔确诊首例新冠肺炎病例，患者曾去过意大利。<br>"
+  - item_name: news
+    content: "[美联社](https://apnews.com/2ab5535d09074fd0e1c70fc78fef2fad)：伊朗最高领袖哈梅内伊的顾问委员会成员赛义德·穆罕默德·米尔-穆罕默迪(SeyedMohammadMir-Mohammadi)当天因感染新冠肺炎去世。其母亲，伊朗高级神职人员阿亚图拉赞贾尼(AyatollahShobeiriZanjani)的妹妹同样因新冠肺炎离世。<br>"
+  - item_name: news
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYD2wtuf2rPgUeHFFQRIf200302&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月2日，约旦卫生部宣布该国发现首例新冠肺炎确诊病例。该名约旦籍患者两周前从意大利返回约旦，并在抵达约旦时被立即隔离。<br>"
+  - item_name: news
+    content: "[齐泽克·冠状病毒是对资本主义“杀死比尔”式的重击，并可能导致共产主义的重现](https://www.rt.com/op-ed/481831-coronavirus-kill-bill-capitalism-communism/)（[中译版](https://mp.weixin.qq.com/s/uAqpVpcPZzgGm9F_8NnkoA)）br>"
+
+- date: 2020年3月3日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "中午，[武汉市中心医院](https://mp.weixin.qq.com/s/qb-yEgwoRLKUQpCGHO_pNA)眼科医生梅仲明因新冠肺炎感染去世，他和此前去世的李文亮同科室，是该医院眼科副主任、主任医师。<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "浙江省公布新型冠状病毒肺炎疫情情况，新增境外（意大利）输入性确诊病例7例。该7例病例与首例境外输入病例王某某为密切接触者，在意大利贝加莫 同一家餐厅工作，8人一直生活在意大利，无湖北武汉接触史。<br>"
+  - item_name: news
+    content: "北京市新冠疫情防控工作新闻发布会：北京市政府副秘书长陈蓓表示，近日仅在伊朗的中国留学生从北京口岸回国的就有20余人。凡是从韩国、意大利、伊朗、日本等疫情严重国家经北京口岸入境的，如果是中转去外地的，严格按当地规定做好防疫工作；如果目的地是北京的，不论是中国人，还是外国人，都要实行隔离观察。<br>"
+  - item_name: news
+    content: "针对网传“安康市中心医院领导拿的补助比援鄂一线的都惊人”一事，[陕西安康市中心医院](http://61.134.48.218:8077/content_21_999.html)致歉，并表示将重新对医院一线人员补助范围、天数、标准进行认真核定，严格审核把关。3月2日，一份安康市中心医院为一线疫情防控人员发放临时性工作补助的统计表在网络热传。表格显示，补助标准为每人每天200元、300元两档，最长补助时间为42天，补助金额为12600元。有知情者指出，名单中包括多名院领导，且其获得的补助高于含支援湖北医护在内的抗疫一线人员。该名单引发争议。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "2月22日开始，莫斯科执法人员每天都会在地铁站、公交、甚至民宅中进行“突然检查”。截止本日，莫斯科已确认88人违反隔离制度，其中80人是中国公民。这80位中国人多数在莫斯科东南部的察里津诺残疾人康复中心隔离，截至2月29日晚10点，察里津诺还滞留着70名左右中国人。[北青深一度](https://www.sohu.com/a/377331858_148781)记者采访了数位当事人，他们还原了在莫斯科的经历， 一部分人表示自己是在不知情的情况下“无意识”地违背了隔离法令，有人因为出门倒垃圾涉嫌违法，有人因为去超市买东西涉嫌违法，现在他们可能面临被驱逐出境，5年不得入境俄罗斯的处罚。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-tajikistan-idUSKBN20P28G)：塔吉克斯坦政府日前发出公告，宣布将从即日起禁止35个出现COVID-19疫情国家的公民入境，这其中包含中国、美国、英国、伊朗和、日本。<br>"
+  - item_name: news
+    content: "[央视新闻](https://weibo.com/2656274875/IwNXp61XD)：当地时间2日晚，沙特卫生部发布公告，确诊首例新冠肺炎病例，患者已被医学隔离。公告显示，该患者从伊朗途经巴林返回沙特。<br>"
+  - item_name: news
+    content: "[央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxYXY9vVpo2njBikKEWJ200303&fromapp=cctvnews&version=803&version=803&allow_comment=1)：根据塞内加尔当地媒体报道，塞内加尔首都达喀尔的巴斯德研究所当地时间2日确诊一例新冠肺炎确诊病例。<br>"
+  - item_name: news
+    content: "[CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)：美国佛罗里达州新增2例COVID-19确诊病例，其中一人无任何美国以外旅行史，该病例的流行病学感染途径尚不明确。该病例的出现意味着美国佛罗里达州也可能已经出现了社区传染病例。另一位确诊病例此前曾前往意大利旅行，回到美国后出现症状。该州州长DeSantis宣布佛罗里达进入公关卫生紧急状态。<br>"
+  - item_name: news
+    content: "[央视新闻](https://m.chinanews.com/wap/detail/zw/gj/2020/03-03/9111480.shtml)：当地时间3月2日，突尼斯卫生部长阿卜杜勒拉蒂夫·梅基在新闻发布会上宣布，该国确诊首例新冠肺炎病例。据称，这名病例是突尼斯人，2月27日坐船从意大利到达首都突尼斯城的拉古莱特港口，2月29日出现症状。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-morocco/morocco-reports-first-coronavirus-case-health-ministry-idUSKBN20P33T)：摩洛哥通报首例新冠肺炎病例，患者是摩洛哥人此前居住在意大利。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-latvia/latvia-reports-its-first-coronavirus-case-ministry-idUSKBN20P2IU)：据拉脱维亚通讯社报道，拉脱维亚确认了首例新冠肺炎感染病例。患者乘坐拉脱维亚航空公司AirBaltic的BT226航班从德国慕尼黑返回首都里加。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-ukraine/ukraine-reports-first-coronavirus-case-health-official-idUSKBN20Q0ZH)：乌克兰确诊首例新冠肺炎。患者从意大利经罗马尼亚入境乌克兰。<br>"
+  - item_name: news
+    content: "[福克斯新闻](https://www.foxnews.com/health/iran-says-77-dead-amid-2336-cases-of-new-coronavirus)援引伊朗国家电视台消息称，伊朗23名议员感染新冠病毒。<br>"
+  - item_name: news
+    content: "美联储紧急宣布降息，将基准利率下调50个基点。美联储在一份声明中说：“冠状病毒对经济活动构成了不断变化的风险。鉴于这些风险，为了支持实现最大的就业率和价格稳定目标，联邦公开市场委员会今天决定降低联邦基金利率的目标范围。”<br>"
+
+- date: 2020年3月4日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "武汉硚口区的梅女士向[澎湃新闻](https://archive.li/wip/TK7rP)反映称，自己的丈夫李亮，今年36岁，被确诊为新冠肺炎患者，经治疗，2月26日从方舱医院出院，到指定的酒店康复点隔离，3月2日突然在康复点发病，送医后不治。<br>"
+  - item_name: news
+    content: "晚，武汉市江岸方舱医院一名负责人向[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6321807)记者证实，江岸方舱医院发布了一份《紧急通知》：近期出院患者中复发者较多，导致患者重新入院治疗。医院决定，即日对所有在舱拟出院病友抽血加做病毒抗体Ig-M与Ig-G的检查。上述检查将从明天（3月5日）开始。<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[香港渔护署](https://www.info.gov.hk/gia/general/202003/04/P2020030400656.htm)：一只狗只对新冠病毒的反复测试中均呈弱阳性反应，有关结果显示该狗只已低程度感染新冠病毒。署方曾征询香港大学公共卫生学院、香港城市大学动物医学及生命科学院及世界动物卫生组织专家意见，他们一致认同很可能是由人类传染。该狗只现时没有任何与新冠肺炎相关的病征，现正于港珠澳大桥口岸动物居留所接受检疫。<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://weibo.com/5044281310/Ix3cjDAIT)从中央政法委获悉，日前调查组，就山东省任城监狱疫情事件进行了全面调查，任城监狱疫情事件是由1月21日从武汉自驾车到达山东济宁的人员，传染给监狱干警、职工，进而造成部分干警和罪犯感染。<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://weibo.com/1642088277/Ix57d2Cs5)：北京地坛医院公布，此前的2月25日，首例新冠肺炎合并脑炎患者从该院顺利出院。该院ICU主任刘景院提醒：患者出现意识障碍，一定要考虑病毒有可能攻击中枢神经系统。目前来说，新冠肺炎患者可合并重度呼吸窘迫综合征（ARDS）、心肌损害、凝血功能异常、肾脏损伤、肝脏损害等多脏器损害，但尚未发现有中枢神经系统受累的报道，此病例报道在全球尚属首例。<br>"
+  - item_name: news
+    content: "[新华视点](https://m.weibo.cn/1699432410/4478851872453492)：黑龙江省召开省委常委会会议决定将黑龙江省新冠肺炎疫情防控应急响应等级，由重大突发公共卫生事件一级应急响应调整为二级应急响应。<br>"
+  - item_name: news
+    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-argentina/argentina-has-first-confirmed-case-of-coronavirus-lab-tech-says-idUSE6N27A05B)：阿根廷确诊首例新冠肺炎，患者曾在意大利逗留两周，包括北部疫情严重地区。<br>"
+  - item_name: news
+    content: "[Latercera](https://www.latercera.com/que-pasa/noticia/confirman-primer-caso-de-coronavirus-en-chile/FDN7GE7NEJEZZFJIMVJDVY5F6I/)：智利确诊首例新冠肺炎，患者曾在新加坡、马来西亚、印尼、马尔代夫、西班牙旅行，后于2月25日从西班牙马德里乘坐飞机返回智利，于3月1日进行检测。<br>"
+  - item_name: news
+    content: "[西班牙国家报](https://elpais.com/sociedad/2020-03-03/valencia-confirma-la-muerte-de-un-hombre-con-coronavirus.html)：瓦伦西亚通报西班牙首例新冠肺炎死亡病例，患者于2月13日去世，死于不明原因的肺炎，随后的尸检确诊为新冠肺炎。死者生前曾去过尼泊尔。<br>"
+  - item_name: news
+    content: "[The Seattle Times](https://www.seattletimes.com/business/amazon/amazon-employee-in-seattle-has-tested-positive-for-illness-caused-by-coronavirus/)：西雅图亚马逊的一名员工确诊新冠肺炎。据消息称，该员工于2月25日星期二回到家时感到不适，此后一直未恢复工作。亚马逊于3月3日周二得知该员工检测呈阳性。<br>"
+  - item_name: news
+    content: "[alarabiya](http://english.alarabiya.net/en/News/middle-east/2020/03/04/Iran-s-first-Vice-President-tests-positive-for-coronavirus-Iranwire.html)：第一副总统埃沙格·贾汉吉里（Eshaq Jahangiri）、工业部长雷扎·拉哈马尼（Reza Rahmani）确诊新冠肺炎。<br>"
+
+- date: 2020年3月5日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[法新社](https://twitter.com/AFP/status/1235204106534498305?s=20)：欧盟位于比利时首都布鲁塞尔的办公室刚刚发现了第2例COVID-19确诊病例。数小时前，法新社和美国ABC新闻报告了该地点的首例确诊病例。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-slovenia/slovenia-confirms-first-case-of-coronavirus-idUSKBN20R33X)斯洛文尼亚通报首例新冠肺炎。<br>"
+  - item_name: news
+    content: "美国加州州长于当地时间4日宣布该州进入紧急状态。加州目前是全美第三个宣布进入紧急状态的州，此前华盛顿州和佛罗里达州已宣布进入紧急状态。<br>"
