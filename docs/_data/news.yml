@@ -1736,6 +1736,8 @@
     content: "下午，[山东青岛市新冠肺炎疫情防控指挥部](https://weibointl.api.weibo.cn/share/126263944.html)召开第32次工作例会，会议强调要在全面做好社区防控的同时，严防境外人员输入，主动做好外籍人士沟通解释和服务保障工作，坚决防止疫情输入扩散。<br>"
   - item_name: news
     content: "晚7点30分，世界卫生组织-中国冠状病毒病联合专家考察组在北京召开了新闻[发布会](https://mp.weixin.qq.com/s/A4p49t7saLhoL_XC8NOOWw)，考察组赞扬了中国公卫措施，并向其他国家推荐；不过，中文文字稿与[世卫组织的文本（pdf文档）](https://www.who.int/docs/default-source/coronaviruse/transcripts/joint-mission-press-conference-script-english-final.pdf)有几处差别，诸如“There’s only one drug right now that we think may have real efficacy.And that’s Remdesivir, as you’ve heard about”(p.14)被翻译为“我们认为瑞德西韦可能有预期效力”（现场口译为“只有一个药物我们认为可能会有预期的效力的，那就是瑞西韦德”）。<br>"
+  - item_name: news
+    content: "单向空间发了一封众筹求助信，说单向空间陷入“绝境”，“预计书店 2 月份收入较往年直线下滑 80% 之多”，“书店平均每天只能卖出 15 本书，其中一半还是爱书如命的同事自己买走的。”<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2042,7 +2044,7 @@
   - item_name: news
     content: "[新华视点](https://m.weibo.cn/1699432410/4478851872453492)：黑龙江省召开省委常委会会议决定将黑龙江省新冠肺炎疫情防控应急响应等级，由重大突发公共卫生事件一级应急响应调整为二级应急响应。<br>"
   - item_name: news
-    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。<br>"
+    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。[新华网](http://www.xinhuanet.com/2020-03/04/c_1125660473.htm?dt_dapp=1)转载全文。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2074,6 +2076,10 @@
     content: "[甘肃卫健委](http://wsjk.gansu.gov.cn/single/10910/84639.html)：3月2日20时至3月5日20时，有311人分别乘商业包机由 #伊朗 到达 #兰州，均已全部隔离。3月5日新增11例境外输入确诊病例，均在省级定点医院隔离治疗，病情平稳。新增境外输入密切接触者300人，其中38人在省级定点医院隔离留观，262人在集中隔离点隔离，正在进一步进行医学检测检查。<br>"
   - item_name: news
     content: "自2020年3月6日12时起，将[青海省](http://www.qh.gov.cn/zwgk/system/2020/03/05/010353354.shtml)重大突发公共卫生事件由三级响应调整为四级响应。<br>"
+  - item_name: news
+    content: "[陕西省安康市](https://m.weibo.cn/3051524071/4479400794074866)通报了对网络反映市中心医院公示中存在“院领导抗疫补助高于援鄂一线人员”问题的调查结果【参见3月3日条目】，经核查，市中心医院在落实新冠肺炎一线疫情防控人员临时性工作补助政策时，对专家组中的院领导简单按全勤计算，其他人员按出勤计算，造成“院领导抗疫补助高于援鄂一线人员”问题。对陈文乾、董根文予以免职，对市卫生健康委员会主任王龙军予以诫勉。<br>"
+  - item_name: news
+    content: "下午，国家卫健委专家组成员王广发向[新京报](http://www.bjnews.com.cn/feature/2020/03/05/699575.html)记者指出，患者“假阴性”，在出院后存在“复阳”的可能性，但这主要是由于采样误差造成，几率较小。若未出现明显新冠肺炎病症，不宜过早对其“新冠肺炎复发”下结论。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2089,9 +2095,56 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[长江日报](https://news.ifeng.com/c/7udgSSv5rY8?from=timeline)：晚间，武汉市新冠肺炎疫情防控指挥部视频调度会上，武汉市委书记王忠林部署：“要在全市广大市民中深入开展感恩教育，感恩总书记、感恩共产党，听党话、跟党走，形成强大正能量。”<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[第一财经](https://mp.weixin.qq.com/s/DvP7nqPckoYteRLMpulnIw)：国新办举行的疫情防控救治进展情况新闻发布会上，中央指导组成员、国务院副秘书长丁向阳表示，迄今湖北省超过3000名医护人员感染新冠肺炎，其中40%在医院感染，60%在社区感染，均为湖北省医护人员，均为非传染科医生。驰援湖北省的4万多名医护人员，到目前没有感染报告。又表示“今年1月份及之前，湖北省有超过3000名医护人员被感染，其中40%是在医院感染，60%是在社区，均为湖北当地的医务人员，而且大都是非传染科的医生。”"
+  - item_name: news
+    content: "[上海发布](https://mp.weixin.qq.com/s/g2D1okGqkcuy7agSsnbQqA)：上海3月6日0-12时，新增3例境外输入型确诊病例，均为中国籍在伊朗留学。<br>"
+  - item_name: news
+    content: "[西藏卫健委](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202003/t20200306_133645.html)：自2020年3月6日24时起将西藏自治区突发公共卫生事件应急响应级别调整为Ⅱ级，部分地区按Ⅲ级响应管理。<br>"
+  - item_name: news
+    content: "[深圳卫健委](https://mp.weixin.qq.com/s/ff18fRn2aBhag_fEJG983A)：深圳发现第2例境外输入病例。患者1月10日，前往西班牙旅游。3月1日10时许，离开西班牙回国，途径阿联酋、北京。3月3日20时，患者自述有发热症状。3月4日，前往北京大学深圳医院就诊，5日新冠病毒核酸初筛结果呈阳性，6日凌晨3时，深圳市疾控中心复核为阳性。<br>"
+  - item_name: news
+    content: "[头条新闻 · 东北小伙坐高铁误入武汉  滞留医院搞卫生日赚500](https://weibo.com/1618051664/IxlwicCSS?ref=collection&type=comment)<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[BBC](https://www.bbc.com/news/uk-51759602)：英国出现首例死亡病例，是一名有基础疾病的老年患者，之前就因其他疾病多次住院。患者于昨晚住院，新冠检测呈阳性，后不治身亡。<br>"
+  - item_name: news
+    content: "[不丹总理办公室](https://www.facebook.com/410112025768173/posts/2750933261686026/?d=n)：不丹确诊首例新冠肺炎。患者，男，美国人，76岁，近期曾在印度旅行。<br>"
+  - item_name: news
+    content: "[bfmtv](https://www.bfmtv.com/politique/qui-est-jean-luc-reitzer-le-depute-infecte-par-le-coronavirus-1870196.html)：法国国会议员让·卢克·赖泽Jean-Luc Reitzer感染新冠肺炎，现在重症监护。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-vatican/vatican-reports-first-case-of-coronavirus-inside-its-walls-idUSKBN20T13O?il=0)：梵蒂冈通报首例新冠肺炎。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-cameroon/cameroon-confirms-first-case-of-coronavirus-idUSKBN20T10Z?il=0)：中非国家喀麦隆通报首例新冠肺炎。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-netherlands/first-coronavirus-death-in-the-netherlands-health-authorities-idUSKBN20T18D?il=0)：荷兰通报首例新冠肺炎死亡病例。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-healthcare-coronavirus-serbia/serbia-reports-first-case-of-coronavirus-health-minister-idUSKBN20T152)：塞尔维亚通报首例新冠肺炎，患者，男，43岁，有匈牙利布达佩斯旅行史。<br>"
+  - item_name: news
+    content: "[slovensko hnonline](https://slovensko.hnonline.sk/2106684-koronavirus-na-slovensku-pellegrini-potvrdil-prvy-pripad)：斯洛伐克确诊首例新冠肺炎，患者无旅行史，患者的儿子最近去过意大利。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-peru/peru-records-first-confirmed-case-of-coronavirus-president-vizcarra-says-idUSE6N29R02T)：秘鲁通报首例新冠肺炎，患者，25岁，曾游历西班牙、法国、捷克。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-egypt/egypt-registers-12-new-coronavirus-cases-on-nile-cruise-ship-state-tv-idUSKBN20T1IQ)：埃及尼罗河一艘邮轮上发现12例新冠肺炎感染病例，这搜邮轮从阿斯旺前往南部城市卢克索。埃及此前确诊3例。累计确诊15例。<br>"
+
+- date: 2020年3月7日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[BBC](https://www.bbc.com/news/uk-51759602)：英国出现首例死亡病例，是一名有基础疾病的老年患者，之前就因其他疾病多次住院。患者于昨晚住院，新冠检测呈阳性，后不治身亡。<br>"
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDeE6niKjve31APyHbdw200306&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月6日，西非国家多哥发布通报，该国确诊首例新冠肺炎病例。患者是首都洛美的一名42岁女性，2月22日起该患者先后去过贝宁、德国、法国、土耳其，3月2日取道贝宁返回多哥。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-colombia-idUSL1N29R129)：哥伦比亚通报首例新冠肺炎。<br>"
+  - item_name: news
+    content: "[kron4](https://www.kron4.com/news/bay-area/21-people-aboard-grand-princess-cruise-ship-test-positive-for-coronavirus/)：当地时间3月6日，美国副总统彭斯宣布，在“至尊公主”邮轮上共有46人接受了新冠病毒检测，其中21人新冠病毒检测呈阳性，24人呈阴性，1人检测待完成。在感染的21人中，19人为工作人员，2人为乘客。目前，加州政府正对“至尊公主”号乘客进行评估，但尚未允许邮轮靠岸。<br>"
+  - item_name: news
+    content: "[央视网](http://m.news.cctv.com/2020/03/07/ARTIaf6PyKgaAAj2dk2Nt5Pa200307.shtml)：当地时间3月6日，哥斯达黎加卫生部通报，该国已确诊首例新冠病毒感染病例。该名感染者为一名49岁的女性美国公民。她与一例纽约的感染者曾有过直接接触。<br>"
