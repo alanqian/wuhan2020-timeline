@@ -1,5 +1,5 @@
 # extract data from index.md to _data/news.yml
-
+# just file writing, didn't use the yaml package
 
 file_input=open('index.md','r')
 #file_input=open('../时间线TIMELINE.md','r')
@@ -8,7 +8,7 @@ file_output=open('_data/news.yml','w')
 file_input.readline()
 file_input.readline()
 file_input.readline()
-
+file_input.readline()
 
 for line in file_input:
     if line[0:2] == "##":
