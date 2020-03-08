@@ -1228,7 +1228,7 @@
 * [上海发布](https://mp.weixin.qq.com/s/g2D1okGqkcuy7agSsnbQqA)：上海3月6日0-12时，新增3例境外输入型确诊病例，均为中国籍在伊朗留学。<br>
 * [西藏卫健委](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202003/t20200306_133645.html)：自2020年3月6日24时起将西藏自治区突发公共卫生事件应急响应级别调整为Ⅱ级，部分地区按Ⅲ级响应管理。<br>
 * [深圳卫健委](https://mp.weixin.qq.com/s/ff18fRn2aBhag_fEJG983A)：深圳发现第2例境外输入病例。患者1月10日，前往西班牙旅游。3月1日10时许，离开西班牙回国，途径阿联酋、北京。3月3日20时，患者自述有发热症状。3月4日，前往北京大学深圳医院就诊，5日新冠病毒核酸初筛结果呈阳性，6日凌晨3时，深圳市疾控中心复核为阳性。<br>
-* [头条新闻 · 东北小伙坐高铁误入武汉  滞留医院搞卫生日赚500](https://weibo.com/1618051664/IxlwicCSS?ref=collection&type=comment)<br>
+* [头条新闻 · 东北小伙坐高铁误入武汉 滞留医院搞卫生日赚500](https://weibo.com/1618051664/IxlwicCSS?ref=collection&type=comment)<br>
 
 【国际】<br>
 * [BBC](https://www.bbc.com/news/uk-51759602)：英国出现首例死亡病例，是一名有基础疾病的老年患者，之前就因其他疾病多次住院。患者于昨晚住院，新冠检测呈阳性，后不治身亡。<br>
@@ -1245,10 +1245,25 @@
 ## 2020年3月7日
 【武汉-湖北】<br>
 【中国】<br>
+* 央视新闻：晚，福建泉州鲤城区南环路的一家新冠隔离宾馆倒塌。现场有人员被埋，70人被困48人获救。救援人员已赶到现场搜救。<br>
+
 【国际】<br>
 * [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDeE6niKjve31APyHbdw200306&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月6日，西非国家多哥发布通报，该国确诊首例新冠肺炎病例。患者是首都洛美的一名42岁女性，2月22日起该患者先后去过贝宁、德国、法国、土耳其，3月2日取道贝宁返回多哥。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-colombia-idUSL1N29R129)：哥伦比亚通报首例新冠肺炎。<br>
 * [kron4](https://www.kron4.com/news/bay-area/21-people-aboard-grand-princess-cruise-ship-test-positive-for-coronavirus/)：当地时间3月6日，美国副总统彭斯宣布，在“至尊公主”邮轮上共有46人接受了新冠病毒检测，其中21人新冠病毒检测呈阳性，24人呈阴性，1人检测待完成。在感染的21人中，19人为工作人员，2人为乘客。目前，加州政府正对“至尊公主”号乘客进行评估，但尚未允许邮轮靠岸。<br>
 * [央视网](http://m.news.cctv.com/2020/03/07/ARTIaf6PyKgaAAj2dk2Nt5Pa200307.shtml)：当地时间3月6日，哥斯达黎加卫生部通报，该国已确诊首例新冠病毒感染病例。该名感染者为一名49岁的女性美国公民。她与一例纽约的感染者曾有过直接接触。<br>
+* [alarabiya](http://english.alarabiya.net/en/News/middle-east/2020/03/07/Iranian-MP-Fatema-Rahbar-dies-due-to-coronavirus-Reports.html)：伊朗国会议员法塔玛·拉巴尔（Fatemeh Rahbar）因患新冠肺炎死亡。<br>
+* [timesofmalta](https://timesofmalta.com/articles/view/first-coronavirus-case-reported-in-malta.776288)：南欧国家马耳他通报首例新冠肺炎，患者是一名8岁的意大利小姑娘。<br>
+* [菲律宾卫生部](https://www.doh.gov.ph/doh-press-release/doh-confirms-local-transmission-of-covid-19-in-ph)本周新通报3例感染病例，其中1例62岁男性感染者没有任何国外旅行史，同时他的妻子也感染。菲律宾总统杜特尔特于本日宣布全国进入公共卫生紧急状态。<br>
+* 意大利民主党领袖[尼古拉·津加雷蒂（Nicola Zingaretti）](https://www.instagram.com/tv/B9bnPCYK9SE/?igshid=1weu2y8cle6hu)感染新冠病毒，目前状况良好，在家隔离。<br>
 
+## 2020年3月8日
+【武汉-湖北】<br>
+【中国】<br>
+* [山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200307_3041870.html)：自2020年3月7日24时起，山东省新冠肺炎疫情防控应急响应级别由重大突发公共卫生事件Ⅰ级响应调整为Ⅱ级响应。<br>
+* [新疆日报](http://wap.xjdaily.com/xjrb/20200308/app_150973.html)：自2020年3月7日24时起，自治区新型冠状病毒肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件二级响应调整为三级响应。<br>
 
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-egypt/egypt-confirms-33-new-cases-of-coronavirus-on-nile-cruise-ship-idUSKBN20U0TK)：埃及尼罗河游轮上新增确诊33例新冠肺炎。目前游轮上累计检出45人感染，埃及卫生和人口部部长哈莱·扎伊德同时表示 6日报告的12人中已有11人转为阴性。另船上共有船员和游客171人。<br>
+* [abcnews](https://abcnews.go.com/International/wireStory/health-authorities-argentina-announce-death-latin-america-coronavirus-69460731)：阿根廷首次通报死亡病例，逝者，64岁，曾去过法国巴黎。阿根廷累计确诊9例。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCDLBHqv0AfyXKpFNcUuK200308&fromapp=cctvnews&version=803&version=803&allow_comment=1)：马尔代夫首次确诊2例新冠肺炎病例，2名患者为度假村工作人员，据介绍，他们或被一名意大利游客传染，该游客回意大利后已经确诊。<br>
