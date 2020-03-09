@@ -2177,7 +2177,9 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "央视新闻：晚，福建泉州鲤城区南环路的一家新冠隔离宾馆倒塌。现场有人员被埋，70人被困48人获救。救援人员已赶到现场搜救。<br>"
+    content: "[新华社](http://www.xinhuanet.com/2020-03/08/c_1125680352.htm)：晚，福建泉州鲤城区南环路的一家新冠隔离宾馆在房屋改装作业时发生倒塌，该楼房业主目前已被公安部门控制。现场有人员被埋，70人被困48人获救。救援人员已赶到现场搜救。<br>"
+  - item_name: news
+    content: "[人民日报](https://weibo.com/2803301701/IxxFpfZav)：截至3月6日24时，福建全省已连续9天无新增确诊病例、无新增疑似病例、无疑似病例。累计确诊病例296例，治愈295例，治愈率99.66%。福建省无新冠肺炎确诊病例、无疑似病例、无住院病例。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2201,12 +2203,18 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[封面新闻](https://weibo.com/1496814565/IxDCRcpSo?type=comment)：近日，一份加盖公章的隔离费用收据在网络上引发争议：湖北浠水县2名武汉火神山医院援建工作者返乡，被安排在当地一家宾馆集中隔离，镇政府通过劳务公司按150元/天的标准收取了4200元集中隔离费。3月8日，湖北浠水县官方回应称，经调查，洗马镇政府代收劳务公司隔离费用的情况属实，行为是错误的，反映我县执行疫情防控政策不严、作风不实，我们深感自责和愧疚。该笔代收费用已于3月7日上午退还劳务公司，并向当事人道歉。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "[山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200307_3041870.html)：自2020年3月7日24时起，山东省新冠肺炎疫情防控应急响应级别由重大突发公共卫生事件Ⅰ级响应调整为Ⅱ级响应。<br>"
   - item_name: news
     content: "[新疆日报](http://wap.xjdaily.com/xjrb/20200308/app_150973.html)：自2020年3月7日24时起，自治区新型冠状病毒肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件二级响应调整为三级响应。<br>"
+  - item_name: news
+    content: "[央视网](https://m.weibo.cn/2656274875/4480199732969697)：新疆（含兵团）实现新冠肺炎确诊病例清零。新疆（含兵团）累计报告新冠肺炎确诊76例，累计治愈出院73例、死亡3例；已连续18天无新增确诊病例。<br>"
+  - item_name: news
+    content: "[安徽发布](https://weibo.com/3011694992/IxCx80ot2)：安徽省无报告新增确诊病例，无新增疑似病例，新增治愈出院病例2例。3月8日预计治愈出院3例，其中合肥2例，芜湖1例。全省在院新冠肺炎确诊病例将实现全部“清零”。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2215,3 +2223,32 @@
     content: "[abcnews](https://abcnews.go.com/International/wireStory/health-authorities-argentina-announce-death-latin-america-coronavirus-69460731)：阿根廷首次通报死亡病例，逝者，64岁，曾去过法国巴黎。阿根廷累计确诊9例。<br>"
   - item_name: news
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCDLBHqv0AfyXKpFNcUuK200308&fromapp=cctvnews&version=803&version=803&allow_comment=1)：马尔代夫首次确诊2例新冠肺炎病例，2名患者为度假村工作人员，据介绍，他们或被一名意大利游客传染，该游客回意大利后已经确诊。<br>"
+  - item_name: news
+    content: "[新华社](http://www.xinhuanet.com/2020-03/08/c_1125679759.htm)：东南欧的内陆国摩尔多瓦卫生部7日晚报告该国首例新冠肺炎病例。据当地媒体报道，患者为一名48岁女性，当天乘坐飞机从意大利返回摩尔多瓦。<br>"
+  - item_name: news
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZFok5R3uyqstvnGNpC8O200308&fromapp=cctvnews&version=803&version=803&allow_comment=1)：南美国家巴拉圭确诊首例新冠肺炎病例这名患者为一名32岁男性。3月3日从厄瓜多尔返回巴拉圭。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgaria-confirms-first-four-cases-of-coronavirus-health-officials-idUSKBN20V09S)：欧洲东南部国家保加利亚首次通报4例新冠肺炎确证病例。<br>"
+  - item_name: news
+    content: "[财新网](https://m.international.caixin.com/m/2020-03-08/101525489.html)：当地时间3月8日凌晨2时的紧急发布会上，意大利总理孔特宣布封锁处于此次新冠疫情重灾区的意大利北部交通，封城涉及意大利最重要经济中心的伦巴第、威尼托、艾米利亚-罗马涅大区的绝大部分地区。米兰、威尼斯等重要城市均在此列，影响人数达到1600万人。<br>"
+  - item_name: news
+    content: "[新苏黎世报](https://nzzas.nzz.ch/schweiz/offener-streit-mit-deutschland-um-masken-ld.1545115)：瑞士联邦政府近日召见了德国驻瑞士大使，抗议德国的口罩出口禁令。据了解，德国海关当局目前在德瑞边境扣留了一辆属于瑞士公司的货车，车上装有240000个防护口罩。<br>"
+  - item_name: news
+    content: "[联合早报](https://www.zaobao.com/realtime/world/story20200308-1035326)：歌诗达幸运号（Costa Fortuna）游轮一名官员星期天（3月8日）说，马来西亚和泰国禁止让这艘载有数十名意大利游客的游轮停靠。官员说，虽然游轮上没有出现2019冠状病毒疾病的疑似病例，但游轮于上周五在泰国普吉岛被拒绝停靠。过后，该游轮周六试图停靠在马国槟城，但同样也遭当地官员拒绝。据马来西亚官员，该游轮上共有64名意大利公民，游轮上共有约2000人。<br>"
+  - item_name: news
+    content: "[中国驻苏黎世总领馆](http://t.cn/A6zvhcCV)发布疫情速递称，截至当地时间3月8日12时，瑞已有285个新冠病毒感染确诊病例，51例医院初检阳性。迄今，瑞对4300余人进行了新冠病毒检测，数百人被隔离。文章还援引瑞士《每日导报》的报道称：瑞士联邦卫生局5日宣布，今后将不再对轻症患者进行新冠病毒检测，以缓解有关医疗机构及实验室的压力，将有限的医疗资源优先保障重症患者。仅有流感症状的患者，即便发烧或咳嗽，也不应再去医院，而应呆在家中。已在医院的轻症患者也将被安排回家隔离观察。<br>"
+  - item_name: news
+    content: "[BBC](https://www.bbc.com/news/world-middle-east-51787238)：意大利陆军参谋长萨尔瓦多莱·法利纳（Salvatore Farina）下午发表声明，他本人核酸检测阳性，目前状态良好，正自我隔离。<br>"
+
+- date: 2020年3月9日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "法国上加龙省国会议员[伊丽莎白·图特·皮卡德（Elisabeth Toutut-Picard）](https://twitter.com/senateur61/status/1236356886586327041)感染新冠肺炎，目前状态良好，居家隔离。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-egypt/egypt-reports-first-coronavirus-fatality-as-german-tourist-dies-idUSKBN20V0QJ)：埃及通报首个死亡病例，患者是名德国游客，60岁，1周前抵达埃及，周六确诊新冠肺炎，周日去世。<br>"
