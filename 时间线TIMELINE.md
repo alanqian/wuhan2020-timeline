@@ -1206,6 +1206,7 @@
 * [黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。[新华网](http://www.xinhuanet.com/2020-03/04/c_1125660473.htm?dt_dapp=1)转载全文。<br>
 
 【国际】<br>
+* [澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6416197)：当地时间3月3日，意大利普利亚大区的一场葬礼上发生新冠肺炎聚集性感染事件。死者是一名75岁老人，曾前往疫情严重的伦巴第大区克雷莫纳市会见亲友，葬礼结束一小时后死者的核酸检测结果呈阳性。目前，死者的4位亲属已确诊感染新冠肺炎，官方称该事件为“灾难性的人为错误”所致。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-argentina/argentina-has-first-confirmed-case-of-coronavirus-lab-tech-says-idUSE6N27A05B)：阿根廷确诊首例新冠肺炎，患者曾在意大利逗留两周，包括北部疫情严重地区。<br>
 * [Latercera](https://www.latercera.com/que-pasa/noticia/confirman-primer-caso-de-coronavirus-en-chile/FDN7GE7NEJEZZFJIMVJDVY5F6I/)：智利确诊首例新冠肺炎，患者曾在新加坡、马来西亚、印尼、马尔代夫、西班牙旅行，后于2月25日从西班牙马德里乘坐飞机返回智利，于3月1日进行检测。<br>
 * [西班牙国家报](https://elpais.com/sociedad/2020-03-03/valencia-confirma-la-muerte-de-un-hombre-con-coronavirus.html)：瓦伦西亚通报西班牙首例新冠肺炎死亡病例，患者于2月13日去世，死于不明原因的肺炎，随后的尸检确诊为新冠肺炎。死者生前曾去过尼泊尔。<br>
@@ -1295,6 +1296,25 @@
 ## 2020年3月9日
 【武汉-湖北】<br>
 【中国】<br>
+* 上午，[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6416441)从武汉市中心医院多名医护人员处获悉，武汉市中心医院眼科副主任医师朱和平因感染新冠肺炎去世。该院一名外科医生告诉澎湃新闻，朱和平是退休被医院返聘到眼科工作的。朱和平于2月中旬入院治疗，9日上午抢救无效，不幸离世。至此，武汉市中心医院在抗疫中已有四位医生因感染新冠肺炎不幸去世。<br>
+* 青海省第一批开学的144所普通高中和中职学校的学生重返校园。根据青海省政府2月28日发布的通告，普通高中、中等职业学校原则上3月9日至13日陆续开学；初中学校原则上3月16日至20日陆续开学。<br>
+
 【国际】<br>
 * 法国上加龙省国会议员[伊丽莎白·图特·皮卡德（Elisabeth Toutut-Picard）](https://twitter.com/senateur61/status/1236356886586327041)感染新冠肺炎，目前状态良好，居家隔离。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-egypt/egypt-reports-first-coronavirus-fatality-as-german-tourist-dies-idUSKBN20V0QJ)：埃及通报首个死亡病例，患者是名德国游客，60岁，1周前抵达埃及，周六确诊新冠肺炎，周日去世。<br>
+* 当地时间9日，阿尔巴尼亚卫生部宣布，欧洲东南部国家阿尔巴尼亚首次出现两例新冠肺炎确诊病例，患者是一对父子，此前去过意大利。<br>
+* [BBC](https://www.bbc.co.uk/news/world-europe-51810673)：意大利总理孔特表示，为应对新冠疫情，将把封城范围扩大至全国，并在意大利全国范围内限制公众集会，民众将被要求待在家里，学校将继续关闭直至4月3日。<br>
+* [法新社](https://twitter.com/afpfr/status/1237090636760854528)：法国文化部长弗兰克·里斯特（Franck Riester）确诊新冠肺炎，目前状态良好。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-burkina/burkina-faso-confirms-first-cases-of-coronavirus-idUSKBN20W2Y9)：非洲西部内陆国布基纳法索首次通报2例新冠肺炎确诊病例，患者夫妇2人最近去过法国。<br>
+* [观察者网](https://weibo.com/1638782947/IxOZTD6Gu?ref=collection&type=comment)援引印度媒体报道，近日，印度吉德勒杜尔加的一名男子自称用牛粪可以预防新冠病毒，于是他带着朋友们沐浴在牛粪之中，共同净化身心。他表示，只要每6个月沐浴一次牛粪，就可以让身体清洁。<br>
+* BNO Newsroom：为预防新冠肺炎疫情扩散，卡塔尔宣布关闭所有学校，恢复日期将另行通知。<br>
+
+## 2020年3月10日
+【武汉-湖北】<br>
+【中国】<br>
+* [山西卫健委](http://wjw.shanxi.gov.cn/wjywl02/25213.hrh)：自2020年3月10日零时起将山西省突发公共卫生事件应急响应级别由二级调整为三级。<br>
+【国际】<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisBmJjB67QjGaHtnbXBv5200309&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间9日，文莱宣布确诊首例新冠肺炎病例。根据文莱政府通告，首名患者是一位53岁文莱公民，曾于3月3日从马来西亚吉隆坡回国，同行者还包括另外3名友人。通告表示，该名患者目前情况稳定。<br>
+* [人民日报](https://m.weibo.cn/2803301701/4480858557995162)：据蒙古国家通讯社10日报道，蒙古国紧急情况委员会主席、副总理恩赫图布辛在今晨6时召开会议上说，蒙古国确诊首例新冠肺炎病例。该患者为3月2日乘莫斯科至乌兰巴托航班抵达蒙古国的法国公民。<br>
+* [tvn-2](https://www.tvn-2.com/nacionales/Autoridades-confirman-defuncion-coronavirus-Panama_0_5529197119.html)：巴拿马卫生部长确认该国出现新冠肺炎病例，一名40岁的巴拿马妇女于8日从西班牙抵达该国，与该妇女密切接触的另外两人将接受病毒测试与隔离。<br>
+* [联合早报](https://www.zaobao.com.sg/realtime/world/story20200310-1035812)：塞浦路斯卫生部长约安努当地时间周一（9日）说，塞浦路斯出现首两起冠状病毒确诊病例，两起病例均为输入型病例。<br>
