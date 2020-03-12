@@ -1274,6 +1274,7 @@
 ## 2020年3月8日
 【武汉-湖北】<br>
 * [封面新闻](https://weibo.com/1496814565/IxDCRcpSo?type=comment)：近日，一份加盖公章的隔离费用收据在网络上引发争议：湖北浠水县2名武汉火神山医院援建工作者返乡，被安排在当地一家宾馆集中隔离，镇政府通过劳务公司按150元/天的标准收取了4200元集中隔离费。3月8日，湖北浠水县官方回应称，经调查，洗马镇政府代收劳务公司隔离费用的情况属实，行为是错误的，反映我县执行疫情防控政策不严、作风不实，我们深感自责和愧疚。该笔代收费用已于3月7日上午退还劳务公司，并向当事人道歉。<br>
+
 【中国】<br>
 * [山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200307_3041870.html)：自2020年3月7日24时起，山东省新冠肺炎疫情防控应急响应级别由重大突发公共卫生事件Ⅰ级响应调整为Ⅱ级响应。<br>
 * [新疆日报](http://wap.xjdaily.com/xjrb/20200308/app_150973.html)：自2020年3月7日24时起，自治区新型冠状病毒肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件二级响应调整为三级响应。<br>
@@ -1295,6 +1296,8 @@
 
 ## 2020年3月9日
 【武汉-湖北】<br>
+* 下午，[《生命时报》](https://weibo.com/1774057271/Iy0ps6JzO?type=comment)赴武汉特派记者接到武汉汉阳体校方舱医院“志愿者”的求助电话，据他们反映：当他们拿着通知回到小区时，小区不让进；回到原来住的酒店，以“志愿者”名义招募他们的公司则让他们尽快搬离，“志愿者”们陷入尴尬的两难境地。<br>
+
 【中国】<br>
 * 上午，[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6416441)从武汉市中心医院多名医护人员处获悉，武汉市中心医院眼科副主任医师朱和平因感染新冠肺炎去世。该院一名外科医生告诉澎湃新闻，朱和平是退休被医院返聘到眼科工作的。朱和平于2月中旬入院治疗，9日上午抢救无效，不幸离世。至此，武汉市中心医院在抗疫中已有四位医生因感染新冠肺炎不幸去世。<br>
 * 青海省第一批开学的144所普通高中和中职学校的学生重返校园。根据青海省政府2月28日发布的通告，普通高中、中等职业学校原则上3月9日至13日陆续开学；初中学校原则上3月16日至20日陆续开学。<br>
@@ -1313,8 +1316,9 @@
 
 ## 2020年3月10日
 【武汉-湖北】<br>
-* [央视新闻](https://weibo.com/2656274875/IxWfe2d54)：上午，习近平乘飞机抵达湖北省武汉市，考察湖北和武汉新冠肺炎疫情防控工作，看望慰问奋战在一线的广大医务工作者、解放军指战员、社区工作者、公安干警、基层干部、下沉干部、志愿者和患者群众、社区居民。<br>
+* [央视新闻](https://weibo.com/2656274875/IxWfe2d54)：上午，习近平乘飞机抵达湖北省武汉市，考察湖北和武汉新冠肺炎疫情防控工作，看望慰问奋战在一线的广大医务工作者、解放军指战员、社区工作者、公安干警、基层干部、下沉干部、志愿者和患者群众、社区居民。据网传信息，习近平考察地点之一是东湖风景区，3月5日当地管委会对居民以户为单位，分两批次免费发放两个“爱心包”。<br>
 * 上午9时，关于早期疫情知情人艾芬的文章[人物｜发哨子的人](http://archive.today/u9n3D)发布，随后被删除。网友开始接力转载行动，以不同的形式刷屏转发传播此文。<br>
+* 湖北潜江市人民政府办公室官方微信消息26号通告，上午，潜江市新型冠状病毒肺炎疫情防控指挥部召开专题会议。会议决定，在做好疫情防控的前提下，潜江市将于近日全面恢复正常生产生活秩序，市域内所有交通卡口将解除，所有公共交通将恢复，所有企业将全面复工复产。<br>
 
 【中国】<br>
 * [山西卫健委](http://wjw.shanxi.gov.cn/wjywl02/25213.hrh)：自2020年3月10日零时起将山西省突发公共卫生事件应急响应级别由二级调整为三级。<br>
@@ -1330,8 +1334,27 @@
 
 ## 2020年3月11日
 【武汉-湖北】<br>
+* [财新网](https://weibo.com/1642088277/Iy5utfpQN?refer_flag=1001030103_&type=comment&sudaref=moe.covid-19.wtf&display=0&retcode=6102)：湖北潜江取消26号通告，全市继续实行严格交通管制、人员管控，坚决打赢疫情防控人民战争、总体战、阻击战。<br>
+* 下午，武汉钢都花园园林社区为居民运送集中购买的平价肉过程中，使用一辆垃圾车运送了1000份，其中530份已发放。当天晚上，钢都花园管委会通过[微博幸运钢都](https://github.com/Pratitya/wuhan2020-timeline/issues/155#issue-579654332)发布致歉信，承认没有严格落实食品清洁运输的有关要求，对居民群众的身心健康造成了不良影响。<br>
+* [南方周末 · 四人殉职，四人病危：武汉中心医院“至暗时刻”](https://archive.today/IK2XI)。<br>
+
 【中国】<br>
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-turkey-idUSKBN20X1PG)：土耳其确诊首例新冠肺炎病例。<br>
 * 当地时间3月10日，[牙买加卫生部](https://www.moh.gov.jm/jamaica-confirms-first-imported-coronavirus-case/)报告该国出现首例新冠肺炎患者，是一名来自英国的牙买加女性，于4日返回牙买加。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-bolivia-idUSL1N2B32JX)：当地时间10日，玻利维亚卫生部部长阿尼巴尔·克鲁兹表示该国出现确诊新冠肺炎病例，共有两名患者，分别在圣卡洛斯和奥鲁罗两个城市确诊，两人均为65岁女性，均为输入型病例，有意大利旅行史。<br>
+* [澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6452607)：应意大利红十字会的紧急请求，并报国务院联防联控机制领导同意，中国红十字会组建7人抗疫专家组赴意大利协助开展新冠肺炎疫情防控工作，其中有中国红十字会1名副会长带队、国家疾控中心1名专家参加，并指派四川省组织5名同志参加（包括3名专家、1名翻译、1名工作人员）。<br>
+* [CNBC](https://www.cnbc.com/2020/03/09/new-york-is-making-hand-sanitizer-with-prison-labor.html)：纽约州州长安德鲁·库莫（Andrew Cuomo）于3月9日在新闻发布会上介绍了洗手液“New York State Clean”。他们试图通过利用监狱劳工生产洗手液来解决短缺问题。<br>
+* [Reuters](https://uk.reuters.com/article/uk-health-coronavirus-poland-military/top-polish-general-has-coronavirus-defence-ministry-idUKKBN20X1YH?il=0)：当地时间3月10日，波兰国防部称波兰武装部队总司令雅罗斯瓦夫·米卡（Jarosław Mika）确诊感染新冠肺炎。军方发言人称，米卡近日在德国参加军事会议，与会人员包括北约各欧洲成员国陆军指挥官，回到波兰不久后收到提醒，称一名与会人员确诊感染了新冠肺炎，随后在3月9日米卡被确诊。目前米卡病情稳定，正在医院接受隔离治疗。<br>
+* [brusselstimes](https://www.brusselstimes.com/all-news/business/99697/council-of-state-scraps-27-export-licences-for-arms-to-saudi-arabia-humanitarian-law-civil-war-yemen-fn-herstal-mecar/)：比利时通报首例新冠肺炎死亡病例，患者90岁。<br>
+* 中美国家[洪都拉斯卫生部](https://covid19honduras.org/?q=primeros-casos-confirmados)首次通报2例新冠肺炎确诊病例，分别从西班牙和瑞士回国。<br>
+* 世界卫生组织WHO总干事谭德塞在周三的记者会上宣布，世卫组织经过疫情评估后认为新冠肺炎已构成“全球性流行病”。<br>
+
+## 2020年3月12日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* [新华社](http://www.xinhuanet.com/2020-03/12/c_1125698769.htm)：西非国家科特迪瓦卫生部当地时间11日宣布，在经济首都阿比让确诊该国首例新冠肺炎病例。<br>
+* [汤姆·汉克斯和丽塔·威尔逊夫妇](https://www.instagram.com/p/B9nVasnBNF5/?igshid=rsytizknp64y)发布声明，称他们在澳大利亚拍摄新片时确诊感染新冠肺炎。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-cuba-confirmed/cuba-confirms-first-coronavirus-cases-urges-citizens-to-make-own-masks-idUSKBN20Z04G)：古巴首次报告3例新冠肺炎确诊病例 均来自意大利。<br>
+* [NBA](https://twitter.com/NBA/status/1237917831506857989?s=20)：NBA宣布暂停本赛季的比赛。<br>
