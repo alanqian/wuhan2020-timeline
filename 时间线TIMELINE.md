@@ -1338,9 +1338,11 @@
 【武汉-湖北】<br>
 * [财新网](https://weibo.com/1642088277/Iy5utfpQN?refer_flag=1001030103_&type=comment&sudaref=moe.covid-19.wtf&display=0&retcode=6102)：湖北潜江取消26号通告，全市继续实行严格交通管制、人员管控，坚决打赢疫情防控人民战争、总体战、阻击战。<br>
 * 下午，武汉钢都花园园林社区为居民运送集中购买的平价肉过程中，使用一辆垃圾车运送了1000份，其中530份已发放。当天晚上，钢都花园管委会通过[微博幸运钢都](https://github.com/Pratitya/wuhan2020-timeline/issues/155#issue-579654332)发布致歉信，承认没有严格落实食品清洁运输的有关要求，对居民群众的身心健康造成了不良影响。<br>
+* 湖北省人民政府网站发布了来源为华中科技大学同济医院的防控科普文章。文章称，新型冠状病毒感染以肺脏和免疫系统损害为主，但理论上新冠感染还可能造成睾丸损伤，影响精子生成和雄激素合成。<br>
 * [南方周末 · 四人殉职，四人病危：武汉中心医院“至暗时刻”](https://archive.today/IK2XI)。<br>
 
 【中国】<br>
+
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-turkey-idUSKBN20X1PG)：土耳其确诊首例新冠肺炎病例。<br>
 * 当地时间3月10日，[牙买加卫生部](https://www.moh.gov.jm/jamaica-confirms-first-imported-coronavirus-case/)报告该国出现首例新冠肺炎患者，是一名来自英国的牙买加女性，于4日返回牙买加。<br>
@@ -1354,9 +1356,32 @@
 
 ## 2020年3月12日
 【武汉-湖北】<br>
+* [青山政务](https://weibo.com/2758671832/IyafB0nrL?type=comment)：3月11日17时许，网上反映青山区钢都管委会使用环卫车辆为居民运送集中购买平价肉的情况。经初步了解，钢都管委会使用环卫车辆运送1000份平价肉，已向居民发放530份。发现此事后，钢都管委会向居民发出道歉信，成立6个工作组上门致歉，收回已发放的平价肉，并保证明天上午将同等份量的平价肉安全清洁地送到居民家中。据此，青山区纪委监委研究，并报区委批准，决定对钢都管委会党委书记徐增堂，党委委员、管委会副主任周磊予以免职，并立案审查。<br>
+* 晚上，[网传](https://github.com/Pratitya/wuhan2020-timeline/issues/156#issue-580331278)湖北省孝感应城市海山物业和业委会不作为，举报向业主提供平价蔬菜的志愿者导致其被警察抓走，只准业主购买物业和超市联合卖的高价蔬菜。当晚引起群众强烈不满，围住警车要求释放志愿者。<br>
+
 【中国】<br>
+* [央视新闻](https://weibo.com/2656274875/Iyf84EwOS?type=comment#_rnd1583984257530)：福建泉州欣佳酒店楼体坍塌事故中最后一名受困者被找到，但已无生命体征。7日晚，福建泉州市鲤城区南环路欣佳酒店发生楼体坍塌事故，71人被困。目前，71人全部被找到，泉州欣佳酒店坍塌致29人死亡。<br>
+* [人民日报](https://weibo.com/2803301701/IyeUohPsO)：江西省11个设区市100个县（市、区）住院确诊病例全部清零。目前江西省无新增新冠肺炎确诊病例、无疑似病例、无住院确诊病例。从3月12日9时起，江西省对应急响应级别进行调整，全省由重大突发公共卫生事件省级一级响应调整为省级二级响应。<br>
+
 【国际】<br>
 * [新华社](http://www.xinhuanet.com/2020-03/12/c_1125698769.htm)：西非国家科特迪瓦卫生部当地时间11日宣布，在经济首都阿比让确诊该国首例新冠肺炎病例。<br>
 * [汤姆·汉克斯和丽塔·威尔逊夫妇](https://www.instagram.com/p/B9nVasnBNF5/?igshid=rsytizknp64y)发布声明，称他们在澳大利亚拍摄新片时确诊感染新冠肺炎。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-cuba-confirmed/cuba-confirms-first-coronavirus-cases-urges-citizens-to-make-own-masks-idUSKBN20Z04G)：古巴首次报告3例新冠肺炎确诊病例 均来自意大利。<br>
 * [NBA](https://twitter.com/NBA/status/1237917831506857989?s=20)：NBA宣布暂停本赛季的比赛。<br>
+* [CNN](https://edition.cnn.com/2020/03/11/politics/donald-trump-coronavirus-statement/index.html)：美国禁止欧洲除英国以外的国家入境。具体实施细则尚不明确。<br>
+* [abc](https://abc7.com/6004816)：中美洲国家萨尔瓦多将禁止外国公民入境，全国学校将放假三周，超过500人的公众集会将被取消。<br>
+* BNO Newsroom：匈牙利当地时间11日宣布进入紧急状态，禁止100人以上的室内活动。<br>
+* 当地时间3月11日，美国众议院监督委员会就新冠肺炎举行听证会。有众议员提问称是否有患者看似死于流感，其实可能死于新冠肺炎？美疾控中心主任罗伯特.雷德菲尔德表示，迄今在美国实际已经诊断出一些这样的病例。<br>
+* [tagesanzeiger](https://www.tagesanzeiger.ch/schweiz/standard/deutschland-blockiert-sogar-schweizer-importe-aus-drittstaaten/story/21141347)：德国汉堡海关至少扣押了一个瑞士进口商从中国订购的货运集装箱，里面装有在亚洲生产的手术手套。一位消息人士称，该集装箱在汉堡的免税仓库被扣，这意味着该集装箱甚至没有在德国入关，但仍被德国当局没收。不仅如此，法国总统马克龙于3月3日宣布，法国正在征用所有库存及新生产的防护口罩，这使得瑞士的医院也直接受到法国禁运的影响。<br>
+* 菲律宾全国预警等级升至最高级，首都马尼拉紧急封城一个月。<br>
+
+## 2020年3月13日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* [cbs](https://www.cbssports.com/soccer/news/coronavirus-uefa-champions-league-postpones-man-city-real-madrid-juventus-lyon-over-covid-19-concerns/)：欧冠联赛中，涉及尤文图斯和皇家马德里两队的全部比赛将被推迟（尤文图斯队内有至少一人感染，皇马篮球队内有至少一人感染。此外，西甲、意甲、荷甲联赛停赛至少2周至4个月不等。<br>
+* [CNBC](https://www.cnbc.com/2020/03/12/coronavirus-brazilian-official-who-met-trump-tests-positive.html)：当地时间3月12日，巴西总统博索纳罗的通讯主管Fábio Wajngarten确诊COVID-19。上周六，该官员曾与特朗普位于佛罗里达的庄园Mar-a-Lago与特朗普近距离谈话并合影留念。白宫新闻发言人Grisham表示，特朗普和副总统彭斯都不会因此接受病毒测试或是进行自我隔离。<br>
+* [职业棒球大联盟（MLB）](https://www.mlb.com/news/mlb-2020-season-delayed)将推迟开赛日至少两周，目前正在进行的春训比赛全部取消。<br>
+* [全美大学体育协会（NCAA）](http://www.ncaa.org/about/resources/media-center/news/ncaa-cancels-remaining-winter-and-spring-championships)将取消包括March Madness在内的冬季/春季赛季剩余所有赛程。<br>
+* [阿森纳](https://www.arsenal.com/news/club-statement-covid-19)主教练米克尔·阿尔特塔（Mikel Arteta）新冠检测呈阳性。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7dWFLdEQ3okEIEXf82uN200313&fromapp=cctvnews&version=803&version=803&allow_comment=1)：西非国家加纳卫生部当地时间3月12日发布消息称，根据加纳野口纪念医学研究所的检测结果，该国出现两例新冠病毒检测呈阳性的病例。病人国籍并未披露，两人于近日分别从挪威和土耳其来到加纳，现已被隔离，情况稳定。<br>
