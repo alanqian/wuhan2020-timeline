@@ -1377,7 +1377,11 @@
 
 ## 2020年3月13日
 【武汉-湖北】<br>
+* [梨视频](https://weibo.com/6004281123/Iyt7BDs5Y?refer_flag=1001030103_&type=comment)：湖北潜江第29号关于企业复工复产、人员安全流动的通告称，潜江于当晚8时许撤除市域内所有内设交通管控点，恢复正常交通秩序。许多潜江市民放起烟花鞭炮庆祝“解封”。一市民说，可以上班了，感觉自由了。<br>
+
 【中国】<br>
+* [央视新闻](https://weibo.com/2656274875/IywKN4lUG?refer_flag=1001030103_&type=comment)：教育部应对疫情工作领导小组王登峰接受白岩松访谈表示：大学生开学涉及相当多跨省流动的学生，如果加上中小学，整个学校开学就是3个多亿的人口在全国范围内流动。在中小学基本开学或者疫情得到更进一步控制的前提下，再考虑大学的开学。<br>
+
 【国际】<br>
 * [cbs](https://www.cbssports.com/soccer/news/coronavirus-uefa-champions-league-postpones-man-city-real-madrid-juventus-lyon-over-covid-19-concerns/)：欧冠联赛中，涉及尤文图斯和皇家马德里两队的全部比赛将被推迟（尤文图斯队内有至少一人感染，皇马篮球队内有至少一人感染。此外，西甲、意甲、荷甲联赛停赛至少2周至4个月不等。<br>
 * [CNBC](https://www.cnbc.com/2020/03/12/coronavirus-brazilian-official-who-met-trump-tests-positive.html)：当地时间3月12日，巴西总统博索纳罗的通讯主管Fábio Wajngarten确诊COVID-19。上周六，该官员曾与特朗普位于佛罗里达的庄园Mar-a-Lago与特朗普近距离谈话并合影留念。白宫新闻发言人Grisham表示，特朗普和副总统彭斯都不会因此接受病毒测试或是进行自我隔离。<br>
@@ -1385,4 +1389,25 @@
 * [全美大学体育协会（NCAA）](http://www.ncaa.org/about/resources/media-center/news/ncaa-cancels-remaining-winter-and-spring-championships)将取消包括March Madness在内的冬季/春季赛季剩余所有赛程。<br>
 * [阿森纳](https://www.arsenal.com/news/club-statement-covid-19)主教练米克尔·阿尔特塔（Mikel Arteta）新冠检测呈阳性。<br>
 * [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7dWFLdEQ3okEIEXf82uN200313&fromapp=cctvnews&version=803&version=803&allow_comment=1)：西非国家加纳卫生部当地时间3月12日发布消息称，根据加纳野口纪念医学研究所的检测结果，该国出现两例新冠病毒检测呈阳性的病例。病人国籍并未披露，两人于近日分别从挪威和土耳其来到加纳，现已被隔离，情况稳定。<br>
+* [Reuters](https://www.reuters.com/article/brief-wife-of-canada-pm-trudeau-tested-p-idUSL1N2B603S)：加拿大总理夫人苏菲·格雷戈瓦·杜鲁多（Sophie Grégoire Trudeau）新冠病毒检测结果呈阳性。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-ghana-gabon-idUSKBN20Z3X9)：中非国家加蓬确诊首例新冠肺炎病例。<br>
+* [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-13/kazakhstan-reports-first-coronavirus-cases-as-testing-ramps-up)：当地时间13日，哈萨克斯坦卫生部部长在每日疫情通报会上表示，哈萨克斯坦首次确诊两名哈萨克斯坦公民感染新冠肺炎。两人分别于9日和12日由德国返回，目前两人均被送往传染病医院进行治疗，身体情况良好。<br>
+* [alarabiya](https://english.alarabiya.net/en/News/world/2020/03/13/First-coronavirus-case-in-Kenya-confirmed.html)：东非国家肯尼亚确诊首例新冠肺炎病例。患者是一名肯尼亚妇女，她于3月5日从美国经伦敦返回肯尼亚首都内罗毕。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fCjZzF0hXFo6XPuTnhl200313&fromapp=cctvnews&version=803&version=803&allow_comment=1)：苏丹确认首例新冠肺炎病例。<br>
+
+## 2020年3月14日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* 世界卫生组织总干事谭德塞周五表示，欧洲现在已成为新冠肺炎全球疫情最严重地区，现在每日新增病例比中国疫情最严重时还要多，他呼吁各国“须全面采取措施”，检测、追踪、隔离等一个都不能少。<br>
+* 当地时间13日，美国总统特朗普在白宫举行新冠肺炎疫情发布会，宣布进入“国家紧急状态”以应对新冠肺炎疫情。在发布会上，特朗普再次对中国疫情防控成果和努力积极评价。特朗普表示，中国分享给美国的数据和应对经验非常有帮助，中国疫情控制效果明显。美国的一些医药公司团队也正在与中国专家全力合作。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-ethiopia-idUSKBN2101KF)：上周从布基纳法索抵达埃塞俄比亚的48岁日本男子病毒检测呈阳性，系该国确诊首例新冠肺炎病例。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-guinea-idUSKBN2101YW)：本周五，欧盟驻几内亚代表团的一名成员病毒检测呈阳性，系确诊首例新冠肺炎病例。<br>
+* [巴西总统Jair Bolsonaro](https://twitter.com/jairbolsonaro/status/1238490282385080322)的声明新冠病毒检测结果呈阴性，此前中国大陆网络媒体盛传其阳性。<br>
+* 美国佛罗里达州迈阿密市长[弗朗西斯·苏亚雷斯（Francis Suarez）](https://twitter.com/FrancisSuarez/status/1238505160617459712)新冠病毒检测结果呈阳性。<br>
+* [Reuters](https://www.reuters.com/article/health-coronavirus-uruguay-idUSE6N29R033)：乌拉圭首次报告确诊4例新冠肺炎病例均为意大利输入。<br>
+* [breakingbelizenews](https://www.breakingbelizenews.com/2020/03/13/guatemalan-president-confirms-1st-case-of-coronavirus/)：危地马拉 确诊首例新冠肺炎病例 此前从意大利返回。<br>
+* [aljazeera](https://www.aljazeera.com/news/2020/03/venezuela-confirms-coronavirus-cases-suspends-school-200313151700203.html)：委内瑞拉首次报告确诊2例新冠肺炎病例。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94gRgWVBPGvUPTCrXZs7200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，南美洲北部国家苏里南副总统阿斯温·阿德欣宣布该国确认首例新冠肺炎确诊病例。该名患者此前曾有荷兰旅行史。该国将关闭边境和机场。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqARSakq9Vlr9dApC5bia200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，加勒比岛国安提瓜和巴布达政府宣布，该国确诊首例新冠肺炎病例。安巴总理布朗表示，这是一起输入性病例，患者为一名女性，10日从英国前往安巴探亲，11日出现相关症状，确诊后患者隔离在家接受治疗。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
