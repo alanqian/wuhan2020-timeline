@@ -2326,6 +2326,8 @@
     content: "[南方周末 · 四人殉职，四人病危：武汉中心医院“至暗时刻”](https://archive.today/IK2XI)。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://www.sohu.com/a/379798502_260616)：凌晨4点半，蔡子阳一家五口的遗体被救援人员从泉州欣佳酒店废墟中抬出。根据搜救人员的描述，他们遇难时的姿势让人心碎：妈妈护着女儿，爸爸护着妈妈，两个儿子在两米外另一张床的地方。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2352,9 +2354,9 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[青山政务](https://weibo.com/2758671832/IyafB0nrL?type=comment)：3月11日17时许，网上反映青山区钢都管委会使用环卫车辆为居民运送集中购买平价肉的情况。经初步了解，钢都管委会使用环卫车辆运送1000份平价肉，已向居民发放530份。发现此事后，钢都管委会向居民发出道歉信，成立6个工作组上门致歉，收回已发放的平价肉，并保证明天上午将同等份量的平价肉安全清洁地送到居民家中。据此，青山区纪委监委研究，并报区委批准，决定对钢都管委会党委书记徐增堂，党委委员、管委会副主任周磊予以免职，并立案审查。<br>"
+    content: "[青山政务](https://weibo.com/2758671832/IyafB0nrL?type=comment)：3月11日17时许，网上反映青山区钢都管委会使用环卫车辆为居民运送集中购买平价肉的情况。经初步了解，钢都管委会使用环卫车辆运送1000份平价肉，已向居民发放530份。发现此事后，钢都管委会向居民发出道歉信，成立6个工作组上门致歉，收回已发放的平价肉，并保证明天上午将同等份量的平价肉安全清洁地送到居民家中。据此，青山区纪委监委研究，并报区委批准，决定对钢都管委会党委书记徐增堂，党委委员、管委会副主任周磊予以免职，并立案审查，对青山区副区长骆蓉党纪立案审查。<br>"
   - item_name: news
-    content: "晚上，[网传](https://github.com/Pratitya/wuhan2020-timeline/issues/156#issue-580331278)湖北省孝感应城市海山物业和业委会不作为，举报向业主提供平价蔬菜的志愿者导致其被警察抓走，只准业主购买物业和超市联合卖的高价蔬菜。当晚引起群众强烈不满，围住警车要求释放志愿者。<br>"
+    content: "晚上，[网传](https://github.com/Pratitya/wuhan2020-timeline/issues/156#issue-580331278)湖北省孝感应城市海山物业和业委会不作为，举报向业主提供平价蔬菜的志愿者导致其被警察抓走，只准业主购买物业和超市联合卖的高价蔬菜。当晚引起群众强烈不满，围住警车要求释放志愿者。事后[孝感发布](https://weibo.com/1642512402/Iyn4XAzDT?ref=collection)通报《关于应城市海山小区人员聚集的情况说明》：3月12日19:30左右，应城市海山小区约100人在小区篮球场聚集，经现场劝阻，20：00时左右自行散去。经查，海山小区共3689户、8012人。疫情防控期间，海山小区实行全封闭管理，并同步推行居民生活日用物资统一代购配送服务，由社区组织物业实施，严禁他人私自售卖生活物资。3月12日，业主程某以爱心菜的名义，联系商家到小区售卖蔬菜，被小区物业阻止并报警，防控巡逻队赶赴现场处置时，导致小区居民围观。事发后，相关市领导迅速赶到现场处置，人员随即散去，小区恢复正常。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2394,6 +2396,12 @@
     content: "【中国】<br>"
   - item_name: news
     content: "[央视新闻](https://weibo.com/2656274875/IywKN4lUG?refer_flag=1001030103_&type=comment)：教育部应对疫情工作领导小组王登峰接受白岩松访谈表示：大学生开学涉及相当多跨省流动的学生，如果加上中小学，整个学校开学就是3个多亿的人口在全国范围内流动。在中小学基本开学或者疫情得到更进一步控制的前提下，再考虑大学的开学。<br>"
+  - item_name: news
+    content: "[央视网](https://www.sohu.com/a/379755588_428290)：国务院福建省泉州市欣佳酒店“3·7”坍塌事故调查组第一次全体会议在福建泉州召开，国务院安委会办公室副主任、事故调查组组长付建华主持。付建华指出，据初步调查，该项目未履行基本建设程序，无规划和施工许可，存在非法建设、违规改造等严重问题，特别是房屋业主发现房屋基础沉降和承重柱变形等重大事故前兆，仍然心存侥幸、继续违规冒险经营；地方相关职能部门监管不到位、“打非治违”流于形式，导致安全关卡层层失效，最终酿成惨烈事故。<br>"
+  - item_name: news
+    content: "[新京报](http://www.bjnews.com.cn/wevideo/2020/03/14/703585.html)：下午，湖南岳阳市召开新冠肺炎疫情防控暨复工复产工作新闻发布会。岳阳市卫健委副主任王耀平称，最近有传闻汨罗市和屈原管理区因聚餐引发了聚集性感染。相关部门筛查排查时发现密切接触者中有5名无症状感染者。目前上述5人无发热、咳嗽和呼吸系统症状，肺部影像学检查未发现有病毒性肺炎感染的表现。近百名密切接触者身体健康状况良好。截至3月13日，岳阳已连续24日无新增确诊病例。<br>"
+  - item_name: news
+    content: "[杭州日报](http://www.hangzhou.gov.cn/art/2020/3/13/art_812262_42266038.html)：浙江杭州3月13日通报一例无症状感染者 接触过高风险国家人员。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2423,8 +2431,14 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "孝感发布：3月14日12：40许，孝感市高新区理丝社区某楼栋发现一幼儿死亡。据初步了解，该幼儿一岁半左右，由其母邓某某（29岁）独自抚养。社区干部上门排查发现并报案，公安机关已对现场开展勘查，并将其母邓某某带走调查。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6506350)：2月14日下午，国家卫生健康委副主任曾益新在国务院联防联控机制发布会上介绍称，无症状感染者不在每天的报告范围内，但如果无症状感染者在集中隔离期间出现症状，则将其归为确诊病例，予以报告。据黑龙江省卫健委3月14日通报称，3月13日0-24时，黑龙江省无新增确诊病例，无新增疑似病例，新增治愈出院病例1例，无新增死亡病例。<br>"
+  - item_name: news
+    content: "[北京卫健委](http://wjw.beijing.gov.cn/wjwh/ztzl/xxgzbd/gzbdyqtb/202003/t20200314_1706148.html)：北京3月13日新增确诊1例（境外输入），新增疑似5例（4例境外输入），新增出院7例，累计确诊437例，累计出院 349 例，累计死亡8例，现存疑似32例，现存医观466例。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2449,3 +2463,30 @@
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94gRgWVBPGvUPTCrXZs7200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，南美洲北部国家苏里南副总统阿斯温·阿德欣宣布该国确认首例新冠肺炎确诊病例。该名患者此前曾有荷兰旅行史。该国将关闭边境和机场。<br>"
   - item_name: news
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqARSakq9Vlr9dApC5bia200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，加勒比岛国安提瓜和巴布达政府宣布，该国确诊首例新冠肺炎病例。安巴总理布朗表示，这是一起输入性病例，患者为一名女性，10日从英国前往安巴探亲，11日出现相关症状，确诊后患者隔离在家接受治疗。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-kosovo-idUSKBN21039A)：科索沃首次报告确诊2例新冠肺炎病例 均是意大利输入病例。<br>"
+  - item_name: news
+    content: "[pridenews](http://pridenews.ca/2020/03/13/trinidad-records-first-case-coronavirus/)：加勒比海国家特立尼达和多巴哥确诊2例新冠肺炎病例。<br>"
+  - item_name: news
+    content: "[ewn.co](https://ewn.co.za/2020/03/14/eswatini-reports-first-confirmed-case-of-coronavirus)：非洲南部内陆国斯威士兰确诊首例新冠肺炎病例，此前从美国返回。<br>"
+  - item_name: news
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SPpDDt3F16Ih47kQULE200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月14日，卢旺达卫生部在社交媒体账号上发布通报，该国确诊首例新冠肺炎病例。患者是一名来自孟买的 #印度 人，3月8日到达卢旺达，抵达时无症状。<br>"
+  - item_name: news
+    content: "[新华社](http://www.xinhuanet.com/2020-03/14/c_1125712901.htm)：非洲西南部国家纳米比亚14日宣布，首次确诊两例新冠肺炎病例，均为输入性病例。卫生部长卡伦比·尚加拉确认，13日晚检测结果显示，两名来自西班牙的游客感染了新冠肺炎。两名游客是从西班牙马德里出发，经卡塔尔多哈中转，11日抵达纳米比亚。<br>"
+  - item_name: news
+    content: "[Bfmtv](https://www.bfmtv.com/police-justice/un-detenu-de-fresnes-positif-au-coronavirus-une-premiere-en-prison-1874937.html)：法国出现首例监狱服刑人员新冠肺炎确诊病例。一名74岁的犯人在单独牢房被确诊感染新冠病毒，司法部发言人称该病例暂时无法确定传染途径是在公共环境还是在监狱内。<br>"
+
+- date: 2020年3月15日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[elpais](https://elpais.com/espana/2020-03-14/begona-gomez-la-mujer-del-presidente-del-gobierno-positivo-en-coronavirus.html)：西班牙首相夫人María Begoña Gómez Fernández新冠检测呈阳性，状况良好。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-congorepublic-idUSKBN212001)：刚果共和国（简称刚果（布））政府发言人蒂埃里·蒙加拉14日夜间通过国家电视台宣布，该国已确诊首例新冠肺炎病例。患者是一名50岁男性，于月初从巴黎前往该国。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-centralafrica-idUSL8N2B62KD)：中非共和国确诊首例新冠肺炎病例。中非共和国卫生和人口部长皮埃尔·索姆塞说，确诊患者是一名74岁的意大利男性，8日乘机抵达中非共和国首都班吉。<br>"
