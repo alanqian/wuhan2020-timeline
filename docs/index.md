@@ -1406,6 +1406,7 @@
 【中国】<br>
 * [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6506350)：2月14日下午，国家卫生健康委副主任曾益新在国务院联防联控机制发布会上介绍称，无症状感染者不在每天的报告范围内，但如果无症状感染者在集中隔离期间出现症状，则将其归为确诊病例，予以报告。据黑龙江省卫健委3月14日通报称，3月13日0-24时，黑龙江省无新增确诊病例，无新增疑似病例，新增治愈出院病例1例，无新增死亡病例。<br>
 * [北京卫健委](http://wjw.beijing.gov.cn/wjwh/ztzl/xxgzbd/gzbdyqtb/202003/t20200314_1706148.html)：北京3月13日新增确诊1例（境外输入），新增疑似5例（4例境外输入），新增出院7例，累计确诊437例，累计出院 349 例，累计死亡8例，现存疑似32例，现存医观466例。<br>
+* [微博梁钰stacey](https://weibo.com/1306934677/IyC7DjdbY?from=page_1005051306934677_profile&wvr=6&mod=weibotime&type=comment#_rnd1584326459038)反映，她挂靠在灵山慈善基金会发起“姐妹战疫安心行动”公益项目，给武汉一线医务工作者捐女性用安心裤，和自己的志愿者团队工作一个多月。但2月14日全国妇联（微博女性之声）把她的事迹当作自己的工作成果发了微信公众号，海报亦直接盗用。<br>
 
 【国际】<br>
 * 世界卫生组织总干事谭德塞周五表示，欧洲现在已成为新冠肺炎全球疫情最严重地区，现在每日新增病例比中国疫情最严重时还要多，他呼吁各国“须全面采取措施”，检测、追踪、隔离等一个都不能少。<br>
@@ -1429,8 +1430,30 @@
 ## 2020年3月15日
 【武汉-湖北】<br>
 【中国】<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-uzbekistan-idUSKBN21206W)：乌兹别克斯坦确诊首例新冠肺炎病例 该患者此前从法国返回。<br>
+* [北京日报](https://weibo.com/1893892941/IyJkR6r9u)：下午，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，北京市人民政府副秘书长陈蓓表示，从3月16日零时起，所有境外进京人员，均应转送至集中观察点进行14天的隔离观察。<br>
+* [北京日报](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5e6df2a1e4b05e10384ef15e)：下午，北京市新型冠状病毒肺炎疫情防控工作新闻发布上，国航产品服务部总经理、国航海外疫情防控组成员张允介绍了美国输入病例黎某一家三口3月12日乘坐国航CA988次航班有关的空中防控情况，机上4次测温未超标，曾对乘务员撒谎。<br>
+* [南方日报](https://weibo.com/1682207150/IyJVRhsXA)：3月15日，广东省广州市新增1例境外输入新冠肺炎确诊病例，患者从菲律宾经广州白云国际机场回国，随后被确诊。这是广州市首例境外输入病例。<br>
+* [北京日报](https://weibo.com/1893892941/IyJp6FJ2Y)：下午，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，北京市疾控中心副主任庞星火通报了3月14日5例境外输入新型冠状病毒肺炎确诊病例的流行病学调查情况。3月14日，北京市新增5例境外输入新型冠状病毒肺炎确诊病例，其中西班牙3例，意大利1例，泰国1例。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGNaZkikR7EpiG9c2wju200315&fromapp=cctvnews&version=803&version=803&allow_comment=1)：自2020年3月15日18时起，安徽将新型冠状病毒肺炎疫情防控应急响应级别由省级二级响应调整为省级三级响应。<br>
+* [人民日报](https://weibo.com/2803301701/IyLpwu6YI)：3月15日，北京市新增1例泰国境外输入病例。经查，王某某，女，31岁。2月23日，该病例未向社区报备私自去泰国旅游。自泰国返京后未按规定主动向社区报备，隐瞒行踪，没有按要求自觉落实好居家隔离措施。<br>
+
 【国际】<br>
 * [elpais](https://elpais.com/espana/2020-03-14/begona-gomez-la-mujer-del-presidente-del-gobierno-positivo-en-coronavirus.html)：西班牙首相夫人María Begoña Gómez Fernández新冠检测呈阳性，状况良好。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-congorepublic-idUSKBN212001)：刚果共和国（简称刚果（布））政府发言人蒂埃里·蒙加拉14日夜间通过国家电视台宣布，该国已确诊首例新冠肺炎病例。患者是一名50岁男性，于月初从巴黎前往该国。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-centralafrica-idUSL8N2B62KD)：中非共和国确诊首例新冠肺炎病例。中非共和国卫生和人口部长皮埃尔·索姆塞说，确诊患者是一名74岁的意大利男性，8日乘机抵达中非共和国首都班吉。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-seychelles-idUSKBN2110ZI)：塞舌尔首次报告确诊2例新冠肺炎病例均为意大利输入病例。<br>
+* [BBC](https://www.bbc.com/news/uk-51895873)：英国卫生部长Matt Hancock已证实，英国计划在未来几周之内宣布70岁以上老人居家隔离，重要生活物资将由相关人员送至家门口。<br>
+* 据哈媒报道，哈萨克斯坦总统托卡耶夫15日宣布，为防范新冠肺炎疫情蔓延，自3月16日8时至4月15日7时全国进入紧急状态。除外交人员、应哈方邀请的国际组织代表团以外，严禁任何人以任何方式出入境。截至目前，哈萨克斯坦累计确诊8例新冠肺炎。<br>
+* 德国媒体3月15日报道，德国政府决定，自3月16日早8时起关闭与法国、瑞士和奥地利的边境，但因工作原因往返边境的人员及货运不受影响。<br>
+* [london economic](https://www.thelondoneconomic.com/news/government-is-playing-roulette-with-the-public-as-uk-coronavirus-cases-hit-456/11/03/)：《柳叶刀》主编理查德·霍顿（Richard Horton）警告说，由于官员推迟了对不断升级的危机的反应，我们冒着梦游进入飓风的危险。他说，马特·汉考克（Matt Hancock）和鲍里斯·约翰逊（Boris Johnson）“声称他们正在遵循科学，但事实并非如此。“证据很明确。我们需要紧急执行社会隔离和封锁政策。”<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-equatorial-idUSKBN2120PR)：赤道几内亚确诊首例新冠肺炎病例此前从西班牙返回。<br>
+
+## 2020年3月16日
+【武汉-湖北】<br>
+【中国】<br>
+* [澳门](https://www.gov.mo/zh-hans/news/285716/)新增确诊1例，累计11例，系30多天来首例。<br>
+
+【国际】<br>
+* [loopnewsbarbados](http://www.loopnewsbarbados.com/content/bahamas-first-confirmed-coronavirus-patient-has-no-travel-history)：大西洋西岸岛国巴哈马确诊首例新冠肺炎病例。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
