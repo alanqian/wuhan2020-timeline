@@ -1385,6 +1385,7 @@
 * [央视网](https://www.sohu.com/a/379755588_428290)：国务院福建省泉州市欣佳酒店“3·7”坍塌事故调查组第一次全体会议在福建泉州召开，国务院安委会办公室副主任、事故调查组组长付建华主持。付建华指出，据初步调查，该项目未履行基本建设程序，无规划和施工许可，存在非法建设、违规改造等严重问题，特别是房屋业主发现房屋基础沉降和承重柱变形等重大事故前兆，仍然心存侥幸、继续违规冒险经营；地方相关职能部门监管不到位、“打非治违”流于形式，导致安全关卡层层失效，最终酿成惨烈事故。<br>
 * [新京报](http://www.bjnews.com.cn/wevideo/2020/03/14/703585.html)：下午，湖南岳阳市召开新冠肺炎疫情防控暨复工复产工作新闻发布会。岳阳市卫健委副主任王耀平称，最近有传闻汨罗市和屈原管理区因聚餐引发了聚集性感染。相关部门筛查排查时发现密切接触者中有5名无症状感染者。目前上述5人无发热、咳嗽和呼吸系统症状，肺部影像学检查未发现有病毒性肺炎感染的表现。近百名密切接触者身体健康状况良好。截至3月13日，岳阳已连续24日无新增确诊病例。<br>
 * [杭州日报](http://www.hangzhou.gov.cn/art/2020/3/13/art_812262_42266038.html)：浙江杭州3月13日通报一例无症状感染者 接触过高风险国家人员。<br>
+* [平安北京](https://weibo.com/1288915263/IySTenHjd)：北京市报告1例从美国输入的确诊病例，黎某，女，37岁，长期定居美国马萨诸塞州。3月14、15日，市疾控中心和中国国际航空公司在北京市新冠肺炎疫情防控工作新闻发布会上通报，黎某在美期间已出现发热、咳嗽等症状，并多次在当地就诊，在美国登机前曾服用退烧药，登机后未如实向乘务人员提供个人健康状况及丈夫、儿子等同行人员情况，给同机人员造成传染风险。接相关线索后，北京警方迅速开展调查取证。经初步工作，顺义公安分局以涉嫌妨害传染病防治罪，已对黎某立案侦查。目前，黎某正在定点医院接受治疗，其丈夫、儿子接受隔离观察。<br>
 
 【国际】<br>
 * [cbs](https://www.cbssports.com/soccer/news/coronavirus-uefa-champions-league-postpones-man-city-real-madrid-juventus-lyon-over-covid-19-concerns/)：欧冠联赛中，涉及尤文图斯和皇家马德里两队的全部比赛将被推迟（尤文图斯队内有至少一人感染，皇马篮球队内有至少一人感染。此外，西甲、意甲、荷甲联赛停赛至少2周至4个月不等。<br>
@@ -1453,7 +1454,20 @@
 【武汉-湖北】<br>
 【中国】<br>
 * [澳门](https://www.gov.mo/zh-hans/news/285716/)新增确诊1例，累计11例，系30多天来首例。<br>
+* [央视新闻](https://weibo.com/2656274875/IySVvkUkq)：北京今天召开发布会，通报了15日的4例境外输入确诊病例情况：其中蔡某某（男，40岁，从意大利经德国回京），出现发热后在乘机前自行服药退热；陈某（女，23岁，从意大利经莫斯科回京）、吴某某（男，40岁，从西班牙回京）在回国前出现发热等症状，仍乘坐长途国际航班，吴某某在健康申明卡上未客观清晰填写相应症状。这些行为均增加了同行人员感染风险。<br>
 
 【国际】<br>
 * [loopnewsbarbados](http://www.loopnewsbarbados.com/content/bahamas-first-confirmed-coronavirus-patient-has-no-travel-history)：大西洋西岸岛国巴哈马确诊首例新冠肺炎病例。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7CE5SuTW6SSU5W9bzRz200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日，利比里亚卫生部官方消息：确诊首例新冠肺炎患者。根据政府新闻稿，该患者是环境保护局局长纳撒尼尔·布拉马（Nathaniel Blama），他于当地时间3月13日星期五从瑞士返回利比里亚家中。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Hj5NbQGtWMuIem7pJkL200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日下午2时30分，坦桑尼亚卫生部召开新闻发布会，宣布确诊了坦桑尼亚第一例新冠肺炎病例。首例患者是一名46岁女性，为坦桑尼亚公民，有比利时、丹麦和瑞典的旅行史。目前隔离在阿鲁沙。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2TdeXTmZ0xj4d0iv9Oj6200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日，索马里卫生部发表消息称，于上周从中国返回的一名索马里人在新冠病毒检测中呈阳性，成为该国首例确诊病例。<br>
+* 丹麦属地[格陵兰岛](https://visitgreenland.com/articles/corona-virus-status/)确诊首例新冠肺炎病例。<br>
+
+## 2020年3月17日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* 当地时间3月16日，美国总统特朗普发布推特称美国将对航空工业等其他受“中国病毒（Chinese Virus）”影响的行业给予强有力的支持。我们将会变得更强大！其直接称呼冠状病毒叫“Chinese Virus”，引发外网震动，目前已经迅速登上了推特全球热搜。<br>
+* [新华社](http://www.xinhuanet.com/2020-03/16/c_1125721753.htm)：贝宁卫生部16日通告，西非中南部国家贝宁当天确诊首例新冠肺炎病例。患者是一名49岁的西非国家布基纳法索人，12日乘飞机从布基纳法索入境贝宁，14日出现发烧、咳嗽症状并就医，15日接受检测。据介绍，这名患者2月曾前往比利时。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-canada-borders-idUSKBN21338A)：加拿大宣布将禁止外国公民入境，加拿大永久居民、美国公民、外交官、（加国公民）近亲属、航空机组人员在豁免范围之内。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
