@@ -1063,6 +1063,7 @@
 * [湖北日报](https://weibo.com/2827102952/Iw2HzuqAc)：网传22日凌晨2时，一名刑满释放新冠肺炎确诊人员离汉抵京的有关情况，湖北省委书记应勇同志作出批示：在疫情防控最吃劲的关键阶段，竟发生此类严重违反离汉离鄂通道管控的事件，绝不能允许。要迅速查清事实，依纪依法严肃处理，及时回应社会关切。<br>
 * [央视新闻](https://weibo.com/2656274875/Iw35J2mVK)：经中央政法委批准，司法部牵头，由分管副部长刘志强带队，会同中央政法委、最高人民检察院、公安部组成联合调查组，赴湖北就武汉女子监狱一名刑满释放人员感染新冠肺炎到京事件进行调查。<br>
 * [湖北纪委监委](https://www.hbjwjc.gov.cn/lzyw/120898.htm)：针对反映荆门市统计上报2月19日新冠肺炎确诊病例为“-107”的负数问题，决定对荆门市委书记张爱国、市政府市长孙兵予以诫勉；给予荆门市政府分管副市长梁早阳党内警告、政务记过处分，给予荆门市卫健委主任李志珍、副主任李艾娥党内严重警告、政务记大过处分。<br>
+* [rfi](http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20200228-%E5%89%8D%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%B3%BD%E5%8D%8E-%E6%AD%A6%E6%B1%89%E5%A4%B1%E8%B8%AA%E7%9A%84%E4%B9%9D%E9%9B%B6%E5%90%8E)：前央视主持人李泽华在武汉[被捕](https://www.youtube.com/watch?v=ZcMSxsCXszk)。<br>
 
 【中国】<br>
 * [海南省](http://www.hainan.gov.cn/hainan/0101/202002/c3c6173c2224466ca42ff7bf49f9ec9e.shtml)新冠肺炎疫情防控工作第二十一场新闻发布会通报，自2020年2月26日17时起，将海南省新冠肺炎疫情防控应急响应级别由省突发公共卫生事件一级响应调整为三级响应。<br>
@@ -1455,6 +1456,7 @@
 【中国】<br>
 * [澳门](https://www.gov.mo/zh-hans/news/285716/)新增确诊1例，累计11例，系30多天来首例。<br>
 * [央视新闻](https://weibo.com/2656274875/IySVvkUkq)：北京今天召开发布会，通报了15日的4例境外输入确诊病例情况：其中蔡某某（男，40岁，从意大利经德国回京），出现发热后在乘机前自行服药退热；陈某（女，23岁，从意大利经莫斯科回京）、吴某某（男，40岁，从西班牙回京）在回国前出现发热等症状，仍乘坐长途国际航班，吴某某在健康申明卡上未客观清晰填写相应症状。这些行为均增加了同行人员感染风险。<br>
+* [中国新闻网](https://m.weibo.cn/1784473157/4483510326750881)：北京市疾病预防控制中心副主任庞星火17日通报9例境外输入确诊病例情况，其中包括，洪某某，男，37岁，户籍重庆市，长期定居美国，大学教师。为3月13日确诊病例黎某的丈夫，为一起输入性家庭聚集性疫情。自美国与家人同乘国航988航班，3月13日5:00抵京。下机后送至定点医院，诊断为疑似病例。3月16日诊断为确诊病例。此前，北京警方以涉嫌妨害传染病防治罪，已对从美国输入的确诊病例黎某立案侦查。<br>
 
 【国际】<br>
 * [loopnewsbarbados](http://www.loopnewsbarbados.com/content/bahamas-first-confirmed-coronavirus-patient-has-no-travel-history)：大西洋西岸岛国巴哈马确诊首例新冠肺炎病例。<br>
@@ -1462,6 +1464,7 @@
 * [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Hj5NbQGtWMuIem7pJkL200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日下午2时30分，坦桑尼亚卫生部召开新闻发布会，宣布确诊了坦桑尼亚第一例新冠肺炎病例。首例患者是一名46岁女性，为坦桑尼亚公民，有比利时、丹麦和瑞典的旅行史。目前隔离在阿鲁沙。<br>
 * [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2TdeXTmZ0xj4d0iv9Oj6200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日，索马里卫生部发表消息称，于上周从中国返回的一名索马里人在新冠病毒检测中呈阳性，成为该国首例确诊病例。<br>
 * 丹麦属地[格陵兰岛](https://visitgreenland.com/articles/corona-virus-status/)确诊首例新冠肺炎病例。<br>
+* [BBC](https://www.bbc.com/news/health-51906604)：美国志愿者接受第一次疫苗测试。<br>
 
 ## 2020年3月17日
 【武汉-湖北】<br>
@@ -1470,4 +1473,14 @@
 * 当地时间3月16日，美国总统特朗普发布推特称美国将对航空工业等其他受“中国病毒（Chinese Virus）”影响的行业给予强有力的支持。我们将会变得更强大！其直接称呼冠状病毒叫“Chinese Virus”，引发外网震动，目前已经迅速登上了推特全球热搜。<br>
 * [新华社](http://www.xinhuanet.com/2020-03/16/c_1125721753.htm)：贝宁卫生部16日通告，西非中南部国家贝宁当天确诊首例新冠肺炎病例。患者是一名49岁的西非国家布基纳法索人，12日乘飞机从布基纳法索入境贝宁，14日出现发烧、咳嗽症状并就医，15日接受检测。据介绍，这名患者2月曾前往比利时。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-canada-borders-idUSKBN21338A)：加拿大宣布将禁止外国公民入境，加拿大永久居民、美国公民、外交官、（加国公民）近亲属、航空机组人员在豁免范围之内。<br>
+
+## 2020年3月18日
+【武汉-湖北】<br>
+【中国】<br>
+* [香港电台](https://news.rthk.hk/rthk/ch/component/k2/1515128-20200318.htm)：早前确诊新型肺炎的60岁女子，她家中狗只一度对新型病毒呈弱阳性反应。【参见2月28日条目】渔护署一度将该狗只安排到动物居留所接受检疫，上星期六返回居所。渔农自然护理署回覆查询时表示，从畜养人得悉，该狗只已于星期一离世，对方表示不愿意为狗只进行验尸确定死因。<br>
+
+【国际】<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-montenegro-idUSKBN2143SY)：黑山首次报告确诊2例新冠肺炎病例，两名患者此前从美国和西班牙入境。<br>
+* [Reuters](https://www.reuters.com/article/health-coronavirus-gambia-idUSL8N2BA9TQ)：西非国家冈比亚确诊首例新冠肺炎病例，该病例于英国输入。<br>
+
 <br><a name="bottom">[回到顶部](#top) </a>
