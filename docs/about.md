@@ -132,7 +132,7 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
 * [NEWS全媒体采访与写作 | 中国“疫情”深度报道合辑！](https://mp.weixin.qq.com/s/RyuTXIgUPS2q6DMmW876oA)<br>
 #### （二）民间慈善组织
-* 待补
+* [抗击疫情·美好行动志愿平台](https://2020.bottledream.com/app/#/)：实时更新与抗击疫情相关的志愿组织的人力需求动态，并连接各领域的志愿青年，通过线上协作等方式，参与志愿行动。<br>
 
 #### （三）民营企业公告
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
