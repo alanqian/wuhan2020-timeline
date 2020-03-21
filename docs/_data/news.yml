@@ -819,7 +819,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第三份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)，并详细介绍17例死亡病例病情。境外通报新增确诊：中国香港1例，中国澳门1例，中国台湾1例；美国1例。<br>"
+    content: "国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第三份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)，并详细介绍17例死亡病例病情。境外通报新增确诊：中国香港1例，中国澳门1例，中国台湾1例；美国1例。同时发布[关于印发新型冠状病毒感染的肺炎诊疗方案（试行第三版）的通知](http://www.nhc.gov.cn/yzygj/s7653p/202001/f492c9153ea9437bb587ce2ffcbee1fa.shtml)。<br>"
   - item_name: news
     content: "上午，香港大学新发传染性疾病国家重点实验室主任管轶接受[财新网](https://github.com/Pratitya/wuhan2020-timeline/issues/45#issue-558536128)采访表示，“现在封城，实际效果存疑，因为不少人口已经流出回家过年，保守估计，武汉肺炎感染规模也要比SARS多得多”，“当地卫生防护根本没有升级”，觉得已经错过了黄金防控期，封城效果并不乐观。<br>"
   - item_name: news
@@ -941,7 +941,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第七份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/3882fdcdbfdc4b4fa4e3a829b62d518e.shtml)，截至1月26日24时，国内30个省（区、市）累计报告确诊病例2744例，境外通报确诊新增马来西亚。<br>"
+    content: "国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第七份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/3882fdcdbfdc4b4fa4e3a829b62d518e.shtml)，截至1月26日24时，国内30个省（区、市）累计报告确诊病例2744例，境外通报确诊新增马来西亚。同时发布[关于印发新型冠状病毒感染的肺炎诊疗方案（试行第四版）的通知](http://www.nhc.gov.cn/yzygj/s7653p/202001/4294563ed35b43209b31739bd0785e67.shtml)。<br>"
   - item_name: news
     content: "受习近平总书记委托李克强总理（中央应对新型冠状病毒感染肺炎疫情工作领导小组组长）赴汉考察指导疫情防控。见1月28日[湖北日报](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200128_2015593.shtml)报道。<br>"
   - item_name: news
@@ -1240,7 +1240,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "下午，国家卫健委发布[《新型冠状病毒感染的肺炎的诊疗方案（试行第五版）》](http://www.nhc.gov.cn/yzygj/s7652m/202002/e84bd30142ab4d8982326326e4db22ea.shtml?wYNOrhhjiR4y=1580902501017)。诊疗方案在“疑似病例”和“确诊病例”之外新增了一个“临床诊断病例”，并将“疑似病例具备肺炎影像特征者”作为其诊断标准（只限于湖北省之内），这也意味着CT影像结果成为了“临床诊断病例”的判定依据。武汉大学中南医院影像科副主任张笑春此前朋友圈呼吁得到落实。<br>"
+    content: "下午，国家卫健委发布[《新型冠状病毒感染的肺炎的诊疗方案（试行第五版）》](http://www.nhc.gov.cn/yzygj/s7652m/202002/e84bd30142ab4d8982326326e4db22ea.shtml?wYNOrhhjiR4y=1580902501017)。诊疗方案在“疑似病例”和“确诊病例”之外新增了一个“临床诊断病例”，并将“疑似病例具备肺炎影像特征者”作为其诊断标准（只限于湖北省之内），这也意味着CT影像结果成为了“临床诊断病例”的判定依据，武汉大学中南医院影像科副主任张笑春此前朋友圈呼吁得到落实。<br>"
   - item_name: news
     content: "香港浸会大学内地学生宿舍用作新冠病毒隔离区。见[微博香港浸会大学内地生_波杰克马](https://github.com/Pratitya/wuhan2020-timeline/issues/77#issue-560862330)<br>"
   - item_name: news
@@ -1327,7 +1327,9 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "8日，[国务院联防联控机制举行新闻发布会](https://mp.weixin.qq.com/s/W3hZF7YnHf2wyNqw-VAYKw)，国家卫健委新闻发言人发布关于新冠病毒感染的肺炎暂命名的通知：新型冠状病毒感染的肺炎统一称谓为“新型冠状病毒肺炎”，简称“新冠肺炎”，英文名为“Novel coronavirus pneumonia”，简称为“NCP”。<br>"
+    content: "国务院联防联控机制举行[新闻发布会](https://mp.weixin.qq.com/s/W3hZF7YnHf2wyNqw-VAYKw)，国家卫健委新闻发言人发布关于新冠病毒感染的肺炎暂命名的通知：新型冠状病毒感染的肺炎统一称谓为“新型冠状病毒肺炎”，简称“新冠肺炎”，英文名为“Novel coronavirus pneumonia”，简称为“NCP”。<br>"
+  - item_name: news
+    content: "同日，国家卫建委发布[关于印发新型冠状病毒肺炎诊疗方案（试行第五版 修正版）的通知](http://www.nhc.gov.cn/yzygj/s7653p/202002/d4b895337e19445f8d728fcaf1e3e13a.shtml)。<br>"
   - item_name: news
     content: "[上海疫情防控工作发布会](https://weibo.com/2656274875/ItfKK3qJv?display=0&retcode=6102&sudaref=passport.weibo.com&type=comment#_rnd1581148148354)介绍：卫生防疫专家强调，目前可以确定的新冠肺炎传播途径主要为直接传播、气溶胶传播和接触传播。气溶胶传播是指飞沫混合在空气中，形成气溶胶，吸入后导致感染。<br>"
   - item_name: news
@@ -2056,6 +2058,8 @@
     content: "中午，[武汉市中心医院](https://mp.weixin.qq.com/s/qb-yEgwoRLKUQpCGHO_pNA)眼科医生梅仲明因新冠肺炎感染去世，他和此前去世的李文亮同科室，是该医院眼科副主任、主任医师。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "国家卫建委发布[关于印发新型冠状病毒肺炎诊疗方案（试行第七版）的通知](http://www.gov.cn/zhengce/zhengceku/2020-03/04/content_5486705.htm)，表示各有关医疗机构要在医疗救治工作中积极发挥中医药作用，加强中西医结合，完善中西医联合会诊制度，促进医疗救治取得良好效果。<br>"
   - item_name: news
     content: "浙江省公布新型冠状病毒肺炎疫情情况，新增境外（意大利）输入性确诊病例7例。该7例病例与首例境外输入病例王某某为密切接触者，在意大利贝加莫 同一家餐厅工作，8人一直生活在意大利，无湖北武汉接触史。<br>"
   - item_name: news
