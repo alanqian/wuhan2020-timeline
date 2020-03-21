@@ -1499,6 +1499,7 @@
 * [barbadostoday](https://barbadostoday.bb/2020/03/17/barbados-reports-first-two-cases-of-the-coronavirus/)：加勒比海岛国巴巴多斯首次报告确诊2例新冠肺炎病例近期均有美国旅行史。<br>
 * [lejournaldudeveloppement](https://www.lejournaldudeveloppement.com/djibouti-annonce-son-premier-cas/)：东非国家吉布提确诊首例新冠肺炎病例为西班牙输入。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-zambia-idUSJ8N2AI01Q)：非洲中南部国家赞比亚首次报告确诊2例新冠肺炎病例，患者是一对夫妇，此前在法国旅行。<br>
+* 北京时间18日23时30分，经过约12小时的飞行，第二批中国赴意大利抗疫医疗专家组一行13人和大批物资飞抵意大利米兰。<br> 
 
 ## 2020年3月19日
 【武汉-湖北】<br>
@@ -1526,10 +1527,36 @@
 
 ## 2020年3月20日
 【武汉-湖北】<br>
+* 上午，[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6603012)从武汉市中心医院多名医护人员处获悉，武汉市中心医院伦理委员会成员刘励因感染新冠肺炎，不幸于本日上午离世。<br>
+
 【中国】<br>
 * [香港政府新聞網](https://www.news.gov.hk/chi/2020/03/20200319/20200319_204254_869.html?type=ticker)：香港漁農自然護理署表示，一隻德國狼狗對2019冠狀病毒的反覆測試呈陽性反應，还强调現時沒有證據顯示寵物會傳播2019冠狀病毒病給人類，或因此生病。畜養人應時常保持良好衞生習慣，在任何情況下絕不應棄養寵物。<br>
+* [邢台发布](https://weibo.com/3899427856/IzvN0iVmn?type=comment)：昨日一条关于从美国入境人员感染新冠肺炎的消息在我市传播，经调查3月19日上午我市处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午9点40分我市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性（在沈阳海关对其采样做检测），要求该人在邢台东站下车，并由我市稳控收治。<br>
+* [新京报](http://www.bjnews.com.cn/news/2020/03/19/706045.html)：河南焦作新增1例境外返回无症状感染者，2次检测均为阳性，未认定确诊病例。<br>
+* [人民日报](https://weibo.com/2803301701/Izxlfsd8J)：20日晚，河北省邢台市发布通告称，19日上午处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性，要求该人在邢台东站下车，并由我市稳控收治。<br>
 
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-health-coroanvirus-niger-idUSKBN2163S3)：非洲中西部内陆国尼日尔确诊首例新冠肺炎病例，患者最近前往多哥，加纳，科特迪瓦和布基纳法索。<br>
 * [wilknews](https://wilknews.radio.com/articles/ap-news/the-latest-haiti-confirms-first-2-cases-of-new-coronavirus)：加勒比海北部岛国海地首次报告确诊2例新冠肺炎病例。<br>
+* [publico](https://www.publico.pt/2020/03/20/mundo/noticia/coronavirus-ingles-62-anos-caso-confirmado-cabo-verde-1908619)：佛得角确诊首例新冠肺炎病例。<br>
+* [informante](https://informante.web.na/angola-registered-its-first-coronavirus-case/)：安哥拉确诊首例新冠肺炎病例 患者是一名中国商人。<br>
+* [loop](http://www.looppng.com/png-news/png%E2%80%99s-first-imported-covid-19-case-90851)：南太平洋西部国家巴布亚新几内亚确诊首例新冠肺炎病例。<br>
+* 当地时间3月19日，美媒NPR曝光一段音频，美国参议院情报委员会主席理查德·伯尔3周前曾发出“真相预警”。2月27日，该主席参加华盛顿一场私人午餐会，他表示疫情将比1918年大流行更加严重，并称疫情在北卡罗来纳州社区传播将会加剧。<br>
 
+## 2020年3月21日
+【武汉-湖北】<br>
+* [硚口发布](https://weibo.com/2648030085/Izx11oPo0)：昨日下午，部分微信群、朋友圈内有网友转发韩家墩街综合社区关于“昨晚丽水康城小区又有新增病例”的“重要通知”。经全面调查，韩家墩街综合社区丽水康城小区居民张某某，男，62岁。3月17日，因淋巴结肿块（大脖子病）去医院就诊，体温正常，无发热咳嗽等症状。新冠筛查第一次核酸结果为阴性。3月19日第二次核酸检测结果为阳性，并收治入院。根据《国家卫健委办公厅关于印发新型冠状病毒肺炎防控方案（第六版）的通知》，张某某系无症状感染者，不是确诊病例。3月20日再次采集患者痰拭子、咽拭子，核酸检测均为阴性。因3月19日晚社区了解到张某某第二次核酸检测结果为阳性，误认为其是确诊患者，为提醒社区居民做好居家防控、提高警惕，在小区内发出了通知。3月20日下午，社区已向小区居民解释其不是确诊患者。<br>
+* [知音汉阳](https://weibo.com/2710754267/Izx07iC2G)：昨日网传玫瑰西园社区告示：116号单元有两例新冠确诊病人，对此单元进行单对封闭，即日起该本栋居民不进不出。现将事件情况说明如下：3月20日，玫瑰西园社区居民邹某因所在116号楼栋施行封控管理，无法应企业要求复工返岗，遂通过楼栋微信群要求社区提供不能出门证明。社区工作人员于是为其出具证明（网传告示），并通过楼栋微信群发给邹某，后在网络传播。<br>
+* [硚口发布](https://weibo.com/2648030085/IzwuqgP8H)：关于网传“同济医院护士被租住地的邻居驱赶”一事，引发网友强烈关注。经现场调查核实，同济医院一护士结束该院中法新城院区重症监护室支援工作，隔离期满后，返回本部院区工作，借住同事租住的硚北社区住房。3月17日中午，硚北社区部分居民出于对小区和自身安全的警惕，联系社区网格员和志愿者上门询问其身份、健康等状况。期间，有居民对该护士不是本辖区居民，也不是小区租户却搬进小区表示不理解，拨打110电话报警。警务站出警后，妥善进行了处置，劝回了居民。该护士在同事陪同下另行居住。事后，我区迅速指出了社区的不妥行为，并安排街道、社区主动与该护士沟通解释，获得其本人谅解。<br>
+
+【中国】<br>
+* [羊城晚报](https://weibo.com/1497087080/IzxyMmmkm)：自3月21日零时起，对所有从境外（不含港澳台）经广东口岸入境的人员，以及经港澳台地区和省外口岸入境来粤且来粤前14天内有国外旅居史的人员，其目的地为广东的，无论外国公民还是中国公民，均一视同仁，一律实施14天居家或集中隔离医学观察。集中隔离医学观察的食宿费用由个人自理。<br>
+
+【国际】<br>
+* [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/03/20/818969256/trump-administration-says-u-s-border-with-mexico-to-close-to-nonessential-travel)：当地时间3月20日，美国总统特朗普宣布为应对疫情，美墨边境将部分关闭，包括生活和防疫必需品运输在内的“必要旅行”将被豁免。此前，美加边境已采取类似管理措施。<br>
+* [nbcnews](https://www.nbcnews.com/news/us-news/california-issues-statewide-stay-home-order-coronavirus-fight-n1164471)：美国加州州长Newsom宣布，该州所有居民如无必要原因应该避免出门。该州所有非必要商户将停止营业，超市、药店、加油站和银行等必要商户将继续开放。<br>
+* [BBC](https://www.bbc.com/news/business-51980671)：纽约州州长Cuomo宣布，该州非必要商户必须从本周日起必须关门停业，银行、超市、药店等必要商户不在禁令范围之内。纽约州居民除因锻炼和购买生活必要物资等理由外应避免离开居所。<br>
+* 美国[伊利诺伊州](https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-shelter-in-place-lockdown-order-20200320-teedakbfw5gvdgmnaxlel54hau-story.html)Pritzker宣布，该州所有居民如无必要原因应该避免出门，因需前往药店、超市、加油站或进行必要锻炼而出门的行为不在禁令范围之内。同时，伊利诺伊州所有非必要商户将从周六起停止营业至至少4月7日。银行、超市、药店等必要商户将继续开放。<br>
+* 美国[康涅狄格州](https://www.courant.com/coronavirus/hc-news-coronavirus-update-0320-20200320-m5oro7ss3vb3nlqsormcmt6nty-story.html)州长Lamont宣布，该州非必要商户将停业，居民如非必要应避免外出。超市、药店等必要商户将继续开放。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-madagascar-idUSKBN2172TP)： 西印度洋岛国马达加斯加首次报告确诊3例新冠肺炎病例。<br>
+* [BBC](https://www.bbc.com/news/uk-51981653)：英国首相鲍里斯·约翰逊（Boris Johnson）宣布，为了应对新冠肺炎，英国全国的咖啡馆、酒吧和餐馆将从周五晚起关闭，剧场、体育馆等也将尽快关闭。<br>
