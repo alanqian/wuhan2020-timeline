@@ -82,6 +82,7 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)，[新闻一加一栏目微博](https://weibo.com/yijiayijia?profile_ftype=1&is_all=1#_0)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
+* [WHO COVID-2019 situation report](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)<br>
 
 #### （二）政府网站通告及文件
 ##### 1.武汉市
@@ -112,7 +113,7 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * 华山感染 （微信公众号）
 
 ### 二、民间组织
-#### （一）市场化媒体
+#### （一）国内市场化媒体
 * [澎湃新闻](https://www.thepaper.cn/)，[澎湃新闻微博](https://weibo.com/thepapernewsapp)<br>
 * [财新网](http://www.caixin.com/)，[财新网微博](https://weibo.com/caixincn)<br>
 * [三联生活周刊微博](https://weibo.com/lifeweek)、[中读微博](https://weibo.com/u/5639985234?is_hot=1)<br>
@@ -123,21 +124,26 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * [香港立场新闻](https://thestandnews.com)<br>
 * [丁香医生疫情地图（实时更新）](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579582238&enterid=1579582238&from=timeline&isappinstalled=0)<br>
 
+#### （二）海外网站及媒体
+* [Wikipedia 2019-2020 Coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)<br>
+* [BNO News The latest coronavirus cases](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)<br>
+* [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
+
 ####  * 媒体报道备份项目
 * [2019-nCoV疫情实时播报](https://2019ncov.tk/)：汇总国内官方渠道的疫情数据。<br>
 * [后续·有记忆的新闻，持续追踪热点新闻](https://houxu.app/lives)：汇总媒体新闻实时转载。<br>
 * GitHub项目[2020新冠肺炎记忆：传媒报道与非虚构写作](https://github.com/2019ncovmemory/nCovMemory)：收录了2020年新型冠状病毒感染的肺炎(2019-nCoV)相关报道和文章的地址、截图、存档。<br>
 * [Internet Archive of 2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)：豆友制作的2019-nCoV网络档案库，存有一线媒体报道文章副本。<br>
 * [副本 新冠肺炎：內地傳媒深度報道選編（持續更新）](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read?from=timeline&isappinstalled=0)<br>
-* [维基百科：2019－2020年新型冠狀病毒肺炎事件](https://zh.wikipedia.org/wiki/2019%EF%BC%8D2020%E5%B9%B4%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6)<br>
 * [NEWS全媒体采访与写作 | 中国“疫情”深度报道合辑！](https://mp.weixin.qq.com/s/RyuTXIgUPS2q6DMmW876oA)<br>
-#### （二）民间慈善组织
+
+#### （三）民间慈善组织
 * [抗击疫情·美好行动志愿平台](https://2020.bottledream.com/app/#/)：实时更新与抗击疫情相关的志愿组织的人力需求动态，并连接各领域的志愿青年，通过线上协作等方式，参与志愿行动。<br>
 
-#### （三）民营企业公告
+#### （四）民营企业公告
 * [稳健医疗用品股份有限公司-新闻中心](http://www.winnermedical.cn/cn/newslist.html)<br>
 
-#### （四）民间项目
+#### （五）民间项目
 * GitHub项目[Academic2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV?dt_platform=wechat_friends&dt_dapp=1)：关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息<br>
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
