@@ -2739,8 +2739,14 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[武汉发布](https://m.weibo.cn/2759348142/4485089519617954)凌晨回应《我最难忘的一天》披露有新增确诊病例的情况不实，武汉新增确诊病例为零客观真实。此前网络上流传一篇名为 《我最难忘的一天》 的文章，自称是“湖北一位主流媒体记者把自己3月19日从凌晨到晚上、亲身经历的3位患者入院救治的经过，写成了真实的文字，发布在朋友群。”<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[中国民航局](http://www.caac.gov.cn/XXGK/XXGK/TZTG/202003/t20200322_201625.html)：自3月23日零时（北京时间）开始，所有目的地为北京的国际始发客运航班均须从天津、石家庄、太原、呼和浩特、上海浦东、济南、青岛、南京、沈阳、大连、郑州、西安12个指定的第一入境点入境。乘坐上述国际航班的旅客在第一入境点实施检疫并办理入境手续，行李清关。检疫符合登机条件的旅客可搭乘原航班入京。腹舱所带货物在北京清关。<br>"
+  - item_name: news
+    content: "[台湾卫生福利部](https://www.cdc.gov.tw/Bulletin/Detail/LbQTPXUJx1SBy_DDRSnTMw?typeid=9)：台湾3月24日至4月7日，全面禁止旅客登机来台转机。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2757,3 +2763,30 @@
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-eritrea-idUSKBN2180XU)：厄立特里亚确诊首例新冠肺炎病例为挪威输入。<br>"
   - item_name: news
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil2z1qxgUObmAuJ78tx9s200322&fromapp=cctvnews&version=804&version=804&allow_comment=1)：东非国家乌干达确诊首例新冠肺炎病例。<br>"
+  - item_name: news
+    content: "[联合早报](https://www.zaobao.com/realtime/singapore/story20200322-1039165)：短期访客明晚午夜（3月23日24点）起不得入境新加坡或过境。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-cuba/cuban-doctors-head-to-italy-battle-coronavirus-idUSKBN219051)：古巴向意大利派出一组医疗队，是古巴新冠以来的派出的第6个支援小组。<br>"
+
+- date: 2020年3月23日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-mozambique-idUSL8N2BF0PT)：南非国家莫桑比克确诊首例新冠肺炎病例，该患者最近从英国返回。<br>"
+  - item_name: news
+    content: "美国肯塔基州共和党参议员[Rand Paul](https://twitter.com/RandPaul/status/1241780756617273345?s=19)确诊COVID-19。他是美国首例确诊COVID-19的参议员。<br>"
+  - item_name: news
+    content: "为应对纽约当前疫情，美国陆军工程兵团在经过几天的调研后确定了四处可能的临时医院建设地点。这四个地点分别为Javits会展中心、Westchester会展中心、Stony Brook州立大学和Old Wesrbury州立大学。在得到[纽约州](https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary)州长的最终批复后，美国陆军将立即开始临时医院的建设工作。<br>"
+  - item_name: news
+    content: "美国[路易斯安那州](https://gov.louisiana.gov/index.cfm/newsroom/detail/2427)、[俄亥俄州](https://twitter.com/GovMikeDeWine/status/1241814741313556486?s=20)、[特拉华州](https://apnews.com/0692f5c364f07045809a734775e1b260)相继发布所有居民如无必要禁止外出，非必要商户将关门停业。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-syria-idUSKBN21912A)：叙利亚确诊首例新冠肺炎病例为英国输入。<br>"
+  - item_name: news
+    content: "[loopjamaica](http://www.loopjamaica.com/content/watch-dominica-records-first-case-coronavirus-3)：东加勒比海岛国多米尼克确诊首例新冠肺炎病例该病例为英国输入。<br>"
+  - item_name: news
+    content: "[loopnewsbarbados](http://www.loopnewsbarbados.com/content/grenada-records-first-covid-19-case-4)：东加勒比海岛国格林纳达确诊首例新冠肺炎病例为英国输入。<br>"
