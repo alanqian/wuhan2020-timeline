@@ -2667,6 +2667,8 @@
     content: "【武汉-湖北】<br>"
   - item_name: news
     content: "上午，[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_6603012)从武汉市中心医院多名医护人员处获悉，武汉市中心医院伦理委员会成员刘励因感染新冠肺炎，不幸于本日上午离世。<br>"
+  - item_name: news
+    content: "湖北省新冠肺炎疫情防控指挥部下发《关于国家及各省援鄂疾控工作队暂缓离鄂的通知》（下称《通知》）。《通知》称，“为进一步做好我省新冠肺炎疫情防控工作，结合我省疫情实际”，请各地新冠肺炎疫情防控指挥部协调国家及各省援鄂疾控工作队伍暂缓离鄂，按原计划承担相关工作业务。离鄂时间由中央指导组防控组确定后另行通知。文件抄送19省（区、市）对口援鄂前方指挥部。[财新](http://www.caixin.com/2020-03-23/101532573.html)记者向疾控部门人士确认，该文件属实。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2675,6 +2677,8 @@
     content: "[邢台发布](https://weibo.com/3899427856/IzvN0iVmn?type=comment)：昨日一条关于从美国入境人员感染新冠肺炎的消息在我市传播，经调查3月19日上午我市处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午9点40分我市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性（在沈阳海关对其采样做检测），要求该人在邢台东站下车，并由我市稳控收治。<br>"
   - item_name: news
     content: "[新京报](http://www.bjnews.com.cn/news/2020/03/19/706045.html)：河南焦作新增1例境外返回无症状感染者，2次检测均为阳性，未认定确诊病例。<br>"
+  - item_name: news
+    content: "[新京报](https://weibo.com/1323527941/IzMGti1W4?ref=collection&type=comment)：黑龙江省五大连池市青山胡同疫情防控点，一名老人因扫健康码问题与疫情防控人员发生冲突。现场视频显示，老人称自己的手机无法扫码，随后双方发生肢体冲突，老人面部受伤流血。3月22日，青山街道办回应称此涉事人员不是街道办工作人员，“是各单位驻守的卡口”。<br>"
   - item_name: news
     content: "[人民日报](https://weibo.com/2803301701/Izxlfsd8J)：20日晚，河北省邢台市发布通告称，19日上午处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性，要求该人在邢台东站下车，并由我市稳控收治。<br>"
   - item_name: group
@@ -2704,6 +2708,8 @@
     content: "[硚口发布](https://weibo.com/2648030085/IzwuqgP8H)：关于网传“同济医院护士被租住地的邻居驱赶”一事，引发网友强烈关注。经现场调查核实，同济医院一护士结束该院中法新城院区重症监护室支援工作，隔离期满后，返回本部院区工作，借住同事租住的硚北社区住房。3月17日中午，硚北社区部分居民出于对小区和自身安全的警惕，联系社区网格员和志愿者上门询问其身份、健康等状况。期间，有居民对该护士不是本辖区居民，也不是小区租户却搬进小区表示不理解，拨打110电话报警。警务站出警后，妥善进行了处置，劝回了居民。该护士在同事陪同下另行居住。事后，我区迅速指出了社区的不妥行为，并安排街道、社区主动与该护士沟通解释，获得其本人谅解。<br>"
   - item_name: news
     content: "来自武汉的一位一线医生向[健康时报](https://weibo.com/1411163204/IzuzCuE6K)记者反映，“我在门诊遇到了一家三口新冠肺炎治愈患者全部‘复阳’的病例，且这一家三口中的一位70岁的老人病情较之前反而更加严重了。”复阳也即治愈的患者，出现了病情反复的情况，专家解读：可能存在“假治愈”情况。<br>"
+  - item_name: news
+    content: "[三联生活周刊](https://weibo.com/1191965271/IzOQq3wpb?ref=collection&type=comment):麻醉医生董天在湖北枝江抗疫前线，因脑血管意外不幸离世，年仅29岁。董天2014年毕业于皖南医学院，随后在该院麻醉科工作。据悉，他已在抗疫一线工作35天，目前遗体被送回湖北当阳。<br>"
   - item_name: news
     content: "[财新网 · 特稿·核酸阴性抗体阳性 确诊名单外的武汉医护人员](https://m.caixin.com/m/2020-03-21/101532088.html?cx_referer=http://www.caixin.com/2020-03-21/101532088.html)<br>"
   - item_name: group
@@ -2772,8 +2778,16 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[财新网](http://www.caixin.com/2020-03-23/101532573.html)：截至3月22日，湖北省已经连续四天新增病例零增长。各省份派出的援鄂医疗队自3月17日开始撤离，截至3月20日已经撤离1.2万人。但另一支援助队伍却没能和医疗队同时离开。这支队伍是来自各地疾控部门的防控人员，离鄂工作暂缓。<br>"
+  - item_name: news
+    content: "[湖北日报](https://weibo.com/2827102952/IzXgqpeu3?sudaref=moe.covid-19.wtf&display=0&retcode=6102&type=comment#_rnd1585016627876)：3月1日至22日，襄阳累计接纳境外返襄入襄人员219人，按要求对所有返襄入襄人员进行了核酸检测，除1例核酸检测呈弱阳性反应外，其他人员未发现异常。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[广东省政府新闻办](https://weibo.com/2803301701/IzX0tq6PI)举行发布会，对于第127届广交会将延后举行的传言，省商务厅副厅长马桦表示，考虑目前全球疫情发展态势，特别是境外疫情输入风险较高，第127届春季广交会确定不会在4月15日如期举办。<br>"
+  - item_name: news
+    content: "[江苏省](https://weibo.com/1746067030/IzYD4Fmqy?type=comment#_rnd1585016680229)自3月23日起对所有入境人员采取集中医学观察14天措施（条件不允许的可实施居家医学观察）。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2790,3 +2804,22 @@
     content: "[loopjamaica](http://www.loopjamaica.com/content/watch-dominica-records-first-case-coronavirus-3)：东加勒比海岛国多米尼克确诊首例新冠肺炎病例该病例为英国输入。<br>"
   - item_name: news
     content: "[loopnewsbarbados](http://www.loopnewsbarbados.com/content/grenada-records-first-covid-19-case-4)：东加勒比海岛国格林纳达确诊首例新冠肺炎病例为英国输入。<br>"
+  - item_name: news
+    content: "[elmundo](https://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.htmlhttps://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.html)：西班牙在马德里会展中心IFEMA设立临时医院，可容纳5000张病床，用于收置轻症患者。首批已转运100多名患者。<br>"
+  - item_name: news
+    content: "[politico](https://www.politico.com/states/new-jersey/story/2020/03/23/up-to-1-000-inmates-in-new-jersey-ordered-released-1268685)：为应对疫情，新泽西州将释放约1000名正在服刑人员。<br>"
+
+- date: 2020年3月24日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[BBN](https://www.breakingbelizenews.com/2020/03/23/belize-confirms-first-case-of-coronavirus-cuban-doctors-arriving-to-help/)：伯利兹确诊首例新冠肺炎病例 此前从美国洛杉矶返回。<br>"
+  - item_name: news
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYOHGoGVtXSKjhF8572gA200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-olympics/tokyo-2020-games-will-be-postponed-says-ioc-member-dick-pound-idUSKBN21A097)：国际奥委会成员Dick Pound透漏东京2020奥运会可能会推迟一年。此前，[加拿大](https://apnews.com/1de6d0f74a9f0c1cf9a5096fc7c93926)、澳大利亚、英国都发表了不会派遣运动员参会的类似声明。<br>"
