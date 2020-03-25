@@ -1610,7 +1610,7 @@
 * [loopjamaica](http://www.loopjamaica.com/content/watch-dominica-records-first-case-coronavirus-3)：东加勒比海岛国多米尼克确诊首例新冠肺炎病例该病例为英国输入。<br>
 * [loopnewsbarbados](http://www.loopnewsbarbados.com/content/grenada-records-first-covid-19-case-4)：东加勒比海岛国格林纳达确诊首例新冠肺炎病例为英国输入。<br>
 * [elmundo](https://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.htmlhttps://www.elmundo.es/madrid/2020/03/22/5e77a859fdddff4b3c8b4638.html)：西班牙在马德里会展中心IFEMA设立临时医院，可容纳5000张病床，用于收置轻症患者。首批已转运100多名患者。<br>
-* [politico](https://www.politico.com/states/new-jersey/story/2020/03/23/up-to-1-000-inmates-in-new-jersey-ordered-released-1268685)：为应对疫情，新泽西州将释放约1000名正在服刑人员。<br>
+* [politico](https://www.politico.com/states/new-jersey/story/2020/03/23/up-to-1-000-inmates-in-new-jersey-ordered-released-1268685)：为应对疫情，美国新泽西州将释放约1000名正在服刑人员。<br>
 
 ## 2020年3月24日
 【武汉-湖北】<br>
@@ -1619,14 +1619,17 @@
 * [人民日报](https://weibo.com/2803301701/IA8oQB6TK?ref=home)记者从天津市疾控中心获悉，3月24日6时至18时，天津无新增报告本地新冠肺炎确诊病例。新增报告3例境外输入确诊病例（均为中国籍），累计报告境外输入确诊病例9例（在院9例，其中重型1例、普通型4例、轻型1例、未分型3例；中国籍8例、法国籍1例）。<br>
 
 【国际】<br>
-* [BBN](https://www.breakingbelizenews.com/2020/03/23/belize-confirms-first-case-of-coronavirus-cuban-doctors-arriving-to-help/)：伯利兹确诊首例新冠肺炎病例 此前从美国洛杉矶返回。<br>
+* [BBN](https://www.breakingbelizenews.com/2020/03/23/belize-confirms-first-case-of-coronavirus-cuban-doctors-arriving-to-help/)：伯利兹确诊首例新冠肺炎病例此前从美国洛杉矶返回。<br>
 * [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYOHGoGVtXSKjhF8572gA200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-olympics/tokyo-2020-games-will-be-postponed-says-ioc-member-dick-pound-idUSKBN21A097)：国际奥委会成员Dick Pound透漏东京2020奥运会可能会推迟一年。此前，[加拿大](https://apnews.com/1de6d0f74a9f0c1cf9a5096fc7c93926)、澳大利亚、英国都发表了不会派遣运动员参会的类似声明。<br>
+* [jpost](https://www.jpost.com/Breaking-News/Laos-records-first-two-coronavirus-cases-Thai-Media-622110)：老挝首次通报2例新冠肺炎确诊病例。<br>
+* [bloomberg](https://www.bloomberg.com/news/articles/2020-03-24/egypt-imposes-nighttime-curfew-to-contain-coronavirus-outbreak)：埃及从周三开始实行为期2周（晚7点至早6点）的宵禁。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFdzb9LYLJT3swJggYTy200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：当地时间3月24日，国际奥委会宣布，鉴于新冠肺炎感染患者数量急剧增加，国际奥委会需要在不同的状况下采取措施，在与东京奥组委、日本政府和东京都政府讨论后，完成疫情对奥运会冲击的评估，决定推迟东京奥运会至2021年夏天举行，延期后的奥运会名称仍保留“2020年东京奥运会和残奥会”。<br>
 
 ## 2020年3月25日
 【武汉-湖北】<br>
-
 【中国】<br>
 【国际】<br>
-* [Reuters(https://www.reuters.com/article/us-health-coronavirus-libya-measures-idUSKBN21B2SF)：利比亚确诊首例新冠肺炎病例一名73岁的男子两周前从突尼斯途经沙特阿拉伯抵达该国。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-libya-measures-idUSKBN21B2SF)：利比亚确诊首例新冠肺炎病例一名73岁的男子两周前从突尼斯途经沙特阿拉伯抵达该国。<br>
 * [捷克内政部长声明](https://twitter.com/jhamacek/status/1240023726286163968?s=20)原本确定价格的60多万的口罩，老板最后提高价格，最后根据《紧急危机法》征用，并按照之前谈好的市场价格支付了CTE 公司（大股东系布拉格时报的周灵建）。仓库中捐赠给意大利华侨的口罩已经送往意大利。<br>
+* [哈佛大学](https://twitter.com/Harvard/status/1242494115159343105?s=20)校长Lawrence S.Bacow和其夫人Adele Fleet Bacow新冠检测呈阳性。<br>
