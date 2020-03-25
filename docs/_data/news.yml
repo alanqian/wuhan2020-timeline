@@ -2815,6 +2815,8 @@
     content: "【武汉-湖北】<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[人民日报](https://weibo.com/2803301701/IA8oQB6TK?ref=home)记者从天津市疾控中心获悉，3月24日6时至18时，天津无新增报告本地新冠肺炎确诊病例。新增报告3例境外输入确诊病例（均为中国籍），累计报告境外输入确诊病例9例（在院9例，其中重型1例、普通型4例、轻型1例、未分型3例；中国籍8例、法国籍1例）。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2823,3 +2825,16 @@
     content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYOHGoGVtXSKjhF8572gA200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-olympics/tokyo-2020-games-will-be-postponed-says-ioc-member-dick-pound-idUSKBN21A097)：国际奥委会成员Dick Pound透漏东京2020奥运会可能会推迟一年。此前，[加拿大](https://apnews.com/1de6d0f74a9f0c1cf9a5096fc7c93926)、澳大利亚、英国都发表了不会派遣运动员参会的类似声明。<br>"
+
+- date: 2020年3月25日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[Reuters(https://www.reuters.com/article/us-health-coronavirus-libya-measures-idUSKBN21B2SF)：利比亚确诊首例新冠肺炎病例一名73岁的男子两周前从突尼斯途经沙特阿拉伯抵达该国。<br>"
+  - item_name: news
+    content: "[捷克内政部长声明](https://twitter.com/jhamacek/status/1240023726286163968?s=20)原本确定价格的60多万的口罩，老板最后提高价格，最后根据《紧急危机法》征用，并按照之前谈好的市场价格支付了CTE 公司（大股东系布拉格时报的周灵建）。仓库中捐赠给意大利华侨的口罩已经送往意大利。<br>"
