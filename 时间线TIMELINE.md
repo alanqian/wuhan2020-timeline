@@ -1628,8 +1628,19 @@
 
 ## 2020年3月25日
 【武汉-湖北】<br>
+* 武汉作家方方在封城的第62天发布最后一篇日记[方方日记完结篇：那美好的仗我已经打过了（3月24日）](https://mp.weixin.qq.com/s/cnjyFlzf193M9oZkisZAxw)。<br>
+
 【中国】<br>
 【国际】<br>
 * [Reuters](https://www.reuters.com/article/us-health-coronavirus-libya-measures-idUSKBN21B2SF)：利比亚确诊首例新冠肺炎病例一名73岁的男子两周前从突尼斯途经沙特阿拉伯抵达该国。<br>
 * [捷克内政部长声明](https://twitter.com/jhamacek/status/1240023726286163968?s=20)原本确定价格的60多万的口罩，老板最后提高价格，最后根据《紧急危机法》征用，并按照之前谈好的市场价格支付了CTE 公司（大股东系布拉格时报的周灵建）。仓库中捐赠给意大利华侨的口罩已经送往意大利。<br>
 * [哈佛大学](https://twitter.com/Harvard/status/1242494115159343105?s=20)校长Lawrence S.Bacow和其夫人Adele Fleet Bacow新冠检测呈阳性。<br>
+* [BBC](https://www.bbc.com/news/uk-52033845)：英国查尔斯王子新冠检测呈阳性。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-mali-idUSKBN21C1EH)：西非内陆国马里首次报告确诊2例新冠肺炎病例从法国输入。<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYOXFNGuQcGX2TS5zefa200325&fromapp=cctvnews&version=804&version=804&allow_comment=1)： 西非国家几内亚比绍首次报告确诊2例新冠肺炎病例。<br>
+
+## 2020年3月26日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* [loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：圣基茨和尼维斯首次报告确诊2例新冠肺炎病例 均有美国纽约旅行史。<br>
