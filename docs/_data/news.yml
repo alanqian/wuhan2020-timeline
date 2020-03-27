@@ -2813,6 +2813,8 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[湖北省新型冠状病毒感染肺炎疫情防控指挥部通告](http://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202003/t20200324_2189256.shtml)：从3月25日零时起，武汉市以外地区解除离鄂通道管控，有序恢复对外交通，离鄂人员凭湖北健康码“绿码”安全有序流动。从4月8日零时起，武汉市解除离汉离鄂通道管控措施，有序恢复对外交通，离汉人员凭湖北健康码“绿码”安全有序流动。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2837,6 +2839,8 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
+    content: "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6677388)：117条市内公交线路正式恢复运营。<br>"
+  - item_name: news
     content: "武汉作家方方在封城的第62天发布最后一篇日记[方方日记完结篇：那美好的仗我已经打过了（3月24日）](https://mp.weixin.qq.com/s/cnjyFlzf193M9oZkisZAxw)。<br>"
   - item_name: group
     content: "【中国】<br>"
@@ -2859,9 +2863,36 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[财新网 · 武汉开放骨灰领取 汉口殡仪馆逝者亲属排起长队](http://china.caixin.com/2020-03-26/101534558.html)<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[上海发布](https://weibo.com/2539961154/IApnlfkWK)：为进一步做好防控境外疫情输入工作，上海市新冠肺炎疫情防控工作领导小组办公室决定，自3月26日18时起，对入境来沪的全部人员，一律实施为期14天的隔离健康观察（对入境的外交人员和从事重要经贸、科研、技术合作的人员，另有规定的按规定执行）。<br>"
+  - item_name: news
+    content: "[民航局](http://www.caac.gov.cn/XXGK/XXGK/TZTG/202003/t20200326_201746.html)发布通知：进一步调减国际客运航班运行数量。国内每家航空公司经营至任一国家航线只保留1条，每条航线每周运营班次不得超1班；外国每家航空公司经营至我国航线只保留1条，每周运营班次不得超1班。抵离中国航班确保客座率不高于75%。<br>"
+  - item_name: news
+    content: "[新华社](https://weibo.com/1699432410/IAoc3aqO8)将拍摄首部武汉战“疫”2个月全景纪录片《英雄之城》，称这部感天动地的中国抗“疫”群英谱，由60多位勇闯“红区”的记者“疫”线拍摄。很多年后，当人们回望抗击新冠肺炎疫情这场战“疫”，一定会想起2020年初，武汉关闭离汉通道那个遥远的日子。<br>"
+  - item_name: news
+    content: "中国[外交部](https://www.fmprc.gov.cn/web/wjbxw_673019/t1761858.shtml)决定自2020年3月28日0时起，暂时停止外国人持目前有效来华签证和居留许可入境。持外交、公务、礼遇、C字签证入境不受影响。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：东加勒比海岛国圣基茨和尼维斯首次报告确诊2例新冠肺炎病例均有美国纽约旅行史。<br>"
+  - item_name: news
+    content: "[BBC](https://www.bbc.com/news/health-52018477)：英国伦敦会展中心ExCel （Exhibition Centre London）将改作临时战地医院，称作NHS南丁格尔医院，初期设置500张病床，后续视情况进行增减。英国卫生大臣 马修·汉考克(Matt Hancock) 声称已有 11788 名退休医护加入抗疫一线。另外超过 18700 名护士专业学生和5500名医学准毕业生也将加入进来。<br>"
+  - item_name: news
+    content: "[俄罗斯驻华大使馆](https://weibo.com/2503806417/IAqaxB99i)：自2020年3月27日凌晨起，暂停往返俄各机场与外国各机场间的定期和包机航班，从送回俄罗斯公民的航班及由俄政府决定执飞的航班除外。<br>"
+  - item_name: news
+    content: "[二十国集团](https://g20.org/en/media/Documents/G20_Extraordinary%20G20%20Leaders%E2%80%99%20Summit_Statement_EN%20(1).pdf)领导人应对新冠肺炎特别峰会在北京时间晚间八点召开，当地时间下午正式闭幕，二十国集团将启动总价值5万亿美元的经济计划，以应对疫情对全球社会、经济和金融带来的负面影响，并支持各国中央银行采取措施促进金融稳定和增强全球市场的流动性。<br>"
+  - item_name: news
+    content: "[loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：圣基茨和尼维斯首次报告确诊2例新冠肺炎病例 均有美国纽约旅行史。<br>"
+
+- date: 2020年3月27日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: group
     content: "【国际】<br>"
-  - item_name: news
-    content: "[loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：圣基茨和尼维斯首次报告确诊2例新冠肺炎病例 均有美国纽约旅行史。<br>"
