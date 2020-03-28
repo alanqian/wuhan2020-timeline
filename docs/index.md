@@ -1662,4 +1662,11 @@
 【武汉-湖北】<br>
 【中国】<br>
 【国际】<br>
+* 英国首相[鲍里斯·约翰逊](https://twitter.com/BorisJohnson/status/1243496858095411200)：新冠病毒检测呈阳性。<br>
+
+## 2020年3月28日
+【武汉-湖北】<br>
+【中国】<br>
+【国际】<br>
+* 据[约翰斯·霍普金斯大学](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)数据，截至美东时间3月27日17时13分，美国新冠病毒感染病例超过10万，死亡1544例，日新增病例已经接近2万人。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
