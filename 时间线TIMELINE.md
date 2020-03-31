@@ -1691,4 +1691,22 @@
 ## 2020年3月30日
 【武汉-湖北】<br>
 【中国】<br>
+* [新华网](http://www.xinhuanet.com/2020-03/30/c_1125789716.htm)：浙江省政府新闻发布会上获悉，新冠肺炎无症状感染者是当前疫情防控的突出隐患，浙江对所有无症状感染者严格按照确诊病例的管控要求执行。<br>
+* [中国政府网](http://www.gov.cn/xinwen/2020-03/30/content_5497319.htm)：中央应对新冠肺炎疫情工作领导小组组长李克强主持召开领导小组会议，副组长王沪宁出席。会议指出，加强检测力量和设备设施配备，对所有入境人员实施核酸检测，切实守好外防输入关口。<br>
+* 晚间，新闻1+1采访李兰娟表示，无症状感染者是一个我们要非常重视的问题，因为无症状感染者他本身有传染性，一定要发现他，主要是通过检测，尤其是有疫区接触史，病人接触史这样的一种人，我们一定要让他们主动报告，然后给他们做检测，发现了，及时隔离和治疗，不至于再造成其他人的传播。<br>
+
 【国际】<br>
+* 当地时间29日[白宫记者会](https://weibo.com/1638782947/IAY9Eed9f?ref=collection&type=comment)上，特朗普直言：“若不采取任何措施，美国将有220万人死于疫情，但是在他的领导下，可以将死亡人数降至10万，我们就算做得不错（good job）了。”上周，特朗普才表示自己能接受的死亡人数为零（none）。<br>
+* [Reuters](https://www.reuters.com/article/us-health-coronavirus-spain-workers-idUSKBN21H1HR?taid=5e81e66753c773000108c899)：西班牙已有12298名医护感染新冠肺炎，大多数状况良好。<br>
+* [NHK](https://www3.nhk.or.jp/news/html/20200330/k10012358491000.html)：日本东京奥运会将推迟至2021年7月23日开幕。<br>
+
+## 2020年3月31日
+【武汉-湖北】<br>
+【中国】<br>
+* 
+【国际】<br>
+* [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/03/30/823826987/hospital-ship-usns-comfort-arrives-in-new-york-to-ease-coronavirus-pressure)：美国海军安慰号医疗舰（USNS Comfort）抵达纽约港，用来救助非新冠患者，可容纳1000张病床和1200名医护。另外一艘同规模的仁慈号医疗舰（USNS Mercy）于上周五抵达洛杉矶执行任务。<br>
+* [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/03/30/823970536/cuomo-makes-plea-to-medical-workers-nationwide-please-come-help-us-in-new-york)：纽约曼哈顿贾维茨中心（Jacob K. Javits Convention Center）正式开放，容纳2910张病床，用于接收非新冠患者。<br>
+* [nypost](https://nypost.com/2020/03/30/fema-sending-refrigerated-trucks-to-new-york-city-for-covid-19-bodies/)：美国联邦应急管理部（FEMA）调派冷藏卡车至纽约市用于陈放遗体。<br>
+* [CNN](https://edition.cnn.com/2020/03/30/world/coronavirus-who-masks-recommendation-trnd/index.html)：WHO不建议普通健康人戴口罩，另外全球面临巨大的医疗防护用品短缺。<br>
+* [新华社](http://www.xinhuanet.com/2020-03/31/c_1125791995.htm)：非洲南部内陆国博茨瓦纳首次报告确诊3例新冠肺炎病例曾前往英国和泰国。<br>
