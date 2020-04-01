@@ -1216,6 +1216,10 @@
   - item_name: news
     content: "[湖北省纪委监委网站](https://mp.weixin.qq.com/s/rYrRiy6mjk8Vxzj1Gg7sWQ)通报，湖北省红十字会3名领导被问责。央视新闻微信公号转载。<br>"
   - item_name: news
+    content: "武汉市新型肺炎防控指挥部宣传工作组发布称[通报](http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202002/t20200204_304404.html)，工作发现，近期不少市民通过各类互联网平台发布本人或亲友求助信息，反映检测难收治难等问题。经宣传工作组核实相关区和信息中提供的联系方式，截至2月3日，有135条求助信息得到相关区和部门的积极响应，病患已得到妥善安置。<br>"
+  - item_name: news
+    content: "[长安街知事](https://www.takefoto.cn/viewnews-2034585.html)：武汉正抓紧在江汉区、武昌区和东西湖区建设3处“方舱医院”，分别位于武汉国际会展中心、洪山体育馆、武汉客厅。最新消息是，经过一通宵的忙碌，4日上午8时58分，武汉洪山体育馆已经变身一座容纳800张床位的“方舱医院”，等待感染新型冠状病毒肺炎的轻症病人到来。<br>"
+  - item_name: news
     content: "[澎湃新闻：武汉一志愿者感染后去世，曾义务接医护上下班](https://mp.weixin.qq.com/s/yigRCNdk8_aWy7w3UJGE9g)报道武汉志愿者车队，今年54岁的何辉，于昨日下午4时许在同济医院中法新城院区死亡。<br>"
   - item_name: news
     content: "[二次六七八微博](https://weibo.com/2158017273/IsFhm8uKM?ref=collection&type=comment)发布：我在疫区建医院《我的火神山建造日记》8集视频。<br>"
@@ -1284,6 +1288,8 @@
   - item_name: news
     content: "武汉雷神山医院开始逐步移交。<br>"
   - item_name: news
+    content: "[央视新闻](http://politics.gmw.cn/2020-02/06/content_33529884.htm)：上午，国务院副总理孙春兰出席武汉肺炎疫情全面排查动员会。指出，要全力抓好源头防控，武汉市要举全市之力入户上门排查“四类”人员，测体温、询问密切接触者，全面落实辖区、行业部门、单位、个人“四方”责任，强化网格化管理，要不落一户、不漏一人。<br>"
+  - item_name: news
     content: "19时，前往方舱医院采访的公民记者陈秋实律师失联，家人于晚间发布视频求助。<br>"
   - item_name: news
     content: "22点40分[生命时报](https://news.sina.com.cn/c/2020-02-06/doc-iimxxste9412408.shtml)报道，因公布武汉新型冠状病毒肺炎疫情信息被训诫的武汉市中心医院眼科医生李文亮于2月6日21点30分病逝。2月7日0点38分[武汉中心医院官方微博](https://weibo.com/2630028693/It0oliY8J)声称李文亮医生仍“正在全力抢救中”。凌晨3点48分该[官方微博](https://weibo.com/2630028693/It1D4rfo3)最终宣布李文亮医生“经全力抢救无效，于2020年2月7日凌晨2点58分去世”。<br>"
@@ -1332,7 +1338,9 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/ItdRMp8bL)：中共中央批准：王贺胜同志任湖北省委委员、常委。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/ItdRMp8bL)：中共中央批准王贺胜同志任湖北省委委员、常委。<br>"
+  - item_name: news
+    content: "同日，陈一新将任中央指导组副组长。<br>"
   - item_name: news
     content: "据央视报道，武汉雷神山医院首批医疗队员已经进驻，将收治首批患者。至此，火神山雷神山两座医院全部交付。<br>"
   - item_name: news
@@ -1404,9 +1412,11 @@
   - item_name: news
     content: "[央视网](http://m.news.cctv.com/2020/02/11/ARTIQgaF2lo0Z5V3TsfDrwMG200211.shtml)：中央指导组国务院副秘书长、国务院办公厅督查室主任高雨先后约谈了武汉市武昌区区长余松、武汉市副市长陈邂馨、武汉市洪山区区长林文书。<br>"
   - item_name: news
-    content: "同时，武汉市委书记马国强10日晚在[湖北省新闻发布会](https://weibo.com/1784473157/ItANRyFDf?refer_flag=1001030103_)上介绍，近期武汉开展了全民健康普查，截至2月9日，共排查3371个社区、村，按户数算排查了421万户，1059万人，户数排查比例达到98.6%，人数排查比例达99%。但同时大量武汉市民在网上表示并没有接受到排查，是否自己属于未排查的1%。<br>"
+    content: "同时，武汉市委书记马国强10日晚在[湖北省新闻发布会](https://weibo.com/1784473157/ItANRyFDf?refer_flag=1001030103_)上介绍，近期武汉开展了全民健康普查，截至2月9日，共排查3371个社区、村，按户数算排查了421万户，1059万人，户数排查比例达到98.6%，人数排查比例达99%，到明天，要完成所有疑似患者检测清零。但同时大量武汉市民在网上表示并没有接受到排查，是否自己属于未排查的1%。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[新华社](http://www.xinhuanet.com/politics/2020-02/10/c_1125554205.htm)：国务院联防联控机制新闻发布会上，民政部基层政权建设和社区治理司司长陈越良说，各地已经认识到上门体温排查，共用一支笔、一个体温计可能带来的交叉感染风险，一些社区不再使用一张纸、一支笔的传统登记方式。将通过扫描二维码，微信小程序等方式实施录入汇总，最大限度避免近距离接触和产生交叉感染的风险。<br>"
   - item_name: news
     content: "下午，[央视新闻](https://mp.weixin.qq.com/s/wJ0Iz0DfuVHptfxqfHIk2Q)报道，习近平在北京到朝阳区安贞街道安华里社区调研指导新冠肺炎疫情防控工作。<br>"
   - item_name: news
@@ -2940,6 +2950,8 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
+    content: "[央视新闻](https://weibo.com/2656274875/IAPbXDebJ?refer_flag=1001030103_&type=comment)：钟南山院士接受中国国际电视台记者田薇采访表示：关于中国国内“无症状感染者”的情况，目前了解得很有限：既没有具体数字，也未有详尽研究。但是根据已知的事实，也可以做出一些推断。比如：一般来说，无症状感染者对与其密切接触的人的传染率很高，但是中国近期新冠肺炎新确诊病例数不仅没有上升，反而在不断下降，这可以说明：中国还没有大量的“无症状感染者”。<br>"
+  - item_name: news
     content: "[北京市人民检察院第二分院](https://weibo.com/1618051664/IAH4hoihL?ref=collection&type=comment#_rnd1585536237770)依法对犯罪嫌疑人郭某某以涉嫌故意伤害罪批准逮捕。犯罪嫌疑人郭某某为刑满释放人员。2020年3月14日15时许，郭某某在北京市东城区一超市内排队结账时摘下口罩，顾客段某某（男，殁年72岁）提醒其应当遵守防疫规定佩戴口罩，引起郭某某的不满，遂将段某某摔倒在地，并用双手击打段的头颈部，致段某某受伤。郭某某在逃离现场过程中，又打伤两名超市员工，后被当场抓获。被害人段某某因颅脑损伤，经救治无效于2020年3月20日死亡。<br>"
   - item_name: news
     content: "[河南卫健委](https://weibo.com/5594618028/IAQ9dcXi8)：3月28日0时—24时，河南省新增新冠肺炎本地确诊病例1例，患者为漯河市王某某。流行病学调查发现，王某某于3月21日10:00左右在漯河汽车站乘坐长途客车到平顶山市郏县汽车东站，在其郏县同学张某某（郏县人民医院医生）驾车陪同下到乡下扫墓，在郏县期间与张某某一同就餐3次。继续流调发现，张某某于3月13日晚与刘某某、周某某（二人也为郏县人民医院医生）等人在饭店同桌就餐。刘某某曾有武汉出行史，返郏后自行隔离14天期满。<br>"
@@ -2973,10 +2985,16 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "前不久“大连”蒋文强结束了最后的工作日，隔离期满即将回家。此前蒋文强坐高铁误入武汉，滞留医院搞卫生日赚500【参见3月6日条目】。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: ""
+    content: "[教育部](https://weibo.com/2737798435/IB8kIzOfn)：2020年全国普通高等学校招生统一考试（简称“高考”）延期一个月举行，考试时间为7月7日至8日。湖北省、北京市可根据疫情防控情况，研究提出本地区高考时间安排的意见，商教育部同意后及时向社会发布。<br>"
+  - item_name: news
+    content: "[人民日报](https://weibo.com/2803301701/IBaklDK9m)：国家卫生健康委疾控局局长常继乐介绍，对无症状感染者案例，要求24小时内完成个案调查和密切接触者登记通过系统上报。严格隔离管理，集中隔离14天后两次核酸检测阴性解除隔离，如阳性要继续隔离和观察。无症状感染者密切接触者也要隔离14天。4月1日起，每日疫情公报将公布无症状感染者情况。<br>"
+  - item_name: news
+    content: "[国家卫健委](http://www.nhc.gov.cn/jkj/s3578/202003/718c79c96f3e46409dd49303d41a00ef.shtml)发布《关于新型冠状病毒无症状感染者的防控工作答问》：截至3月30日24时，我国接受医学观察的无症状感染者1541例，其中境外输入205例。此前钟南山表示国内“无症状感染者”的情况目前了解得很有限，没有具体数字【参见3月29日条目】。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2989,3 +3007,24 @@
     content: "[CNN](https://edition.cnn.com/2020/03/30/world/coronavirus-who-masks-recommendation-trnd/index.html)：WHO不建议普通健康人戴口罩，另外全球面临巨大的医疗防护用品短缺。<br>"
   - item_name: news
     content: "[新华社](http://www.xinhuanet.com/2020-03/31/c_1125791995.htm)：非洲南部内陆国博茨瓦纳首次报告确诊3例新冠肺炎病例曾前往英国和泰国。<br>"
+  - item_name: news
+    content: "[CNN](https://edition.cnn.com/2020/03/30/health/new-york-neurosurgeon-death-coronavirus-mcdonald-twins/index.html)：纽约神经外科医生詹姆斯•古德里奇（James T. Goodrich）感染新冠肺炎，因相关并发症去世，曾主刀连体婴颅骨分离手术。<br>"
+  - item_name: news
+    content: "[金融时报](http://www.ftchinese.com/story/001087029?ccode=LanguageSwitch)：奥地利宣布，进超市和其他商店必须戴口罩，未来还将进一步要求人们在家门以外任何与其他人距离较近的场合佩戴口罩。<br>"
+  - item_name: news
+    content: "荷美游轮公司（Holland America Line）赞丹号（Zaandam）已有4名年长乘客去世，189名乘客有流感症状，至少8人已确诊，其中1000多名无感冒症状患者转移到了救援的鹿特丹号（Rotterdam）。该游轮计划周三抵达美国佛罗里达州，目前州长未同意登陆上岸。[卫报](https://www.theguardian.com/world/2020/mar/31/cruise-ship-chief-zaandam-and-rotterdam-passengers-left-to-fend-for-themselves-covid-19-crisis)称，像赞丹号规模的游轮全球公海至少还有10艘，载有近万名乘客，多国拒绝靠岸。<br>"
+
+- date: 2020年4月1日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: ""
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-burundi-idUSL8N2BO34B)：非洲中东部赤道南侧国家布隆迪首次报告确诊2例新冠肺炎病例此前从卢旺达和迪拜返回。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-leone-idUSKBN21I1MY)：西非国家塞拉利昂确诊首例新冠肺炎病例该患者曾在法国旅行。<br>"
