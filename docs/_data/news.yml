@@ -3039,7 +3039,11 @@
   - item_name: news
     content: "NHK：日本东京将关闭学校一直到5月初。<br>"
   - item_name: news
+    content: "朝日新闻：山梨县一名不满1岁女婴确诊感染。该女婴3月31日在家中处于心肺功能停止状态，随后被紧急送医，两次新冠病毒检测结果呈阳性。女婴心肺功能现已复苏，但病情严重或危及生命。院方称其父母检测结果为阴性，目前感染路径成谜。<br>"
+  - item_name: news
     content: "德国将全国封锁时限延长至4月19日。<br>"
+  - item_name: news
+    content: "[nypost](https://nypost.com/2020/03/31/cuomo-blames-ventilator-shortage-on-competition-with-fema-states/)：纽约州长库莫当地时间3月31日表示，向中国订购了17000台呼吸机，预计未来两周可能收到2500台。<br>"
   - item_name: news
     content: "[straitstimes](https://www.straitstimes.com/singapore/coronavirus-7-points-to-note-beyond-the-headline-numbers)：新加坡抗疫跨部门工作小组在3月31日的发布会上表示，如果中国当前的疫情保持现在的态势，新加坡将考虑放宽对中国部分城市（像北京、上海等）的限制。<br>"
 
@@ -3047,11 +3051,36 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2KlTds8Ga0I1AVJHciTX200402&fromapp=cctvnews&version=804&version=804&allow_comment=1)：湖北省人民政府根据《烈士褒扬条例》和《退役军人事务部 中央军委政治工作部关于妥善做好新冠肺炎疫情防控牺牲人员烈士褒扬工作的通知》精神，评定王兵、冯效林、江学庆、刘智明、李文亮、张抗美、肖俊、吴涌、柳帆、夏思思、黄文军、梅仲明、彭银华、廖建军等14名（按姓氏笔画排序）牺牲在新冠肺炎疫情防控一线人员为首批烈士。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "[广州市公安局新闻办公室](https://weibo.com/gzjd?from=feed&loc=at&nick=%E5%B9%BF%E5%B7%9E%E5%85%AC%E5%AE%89&is_hot=1)凌晨0时40分通报：4月1日7时28分许，广州市公安局110台接到报警，称市第八人民医院嘉禾院区住院部一楼隔离病区（以下简称“市八医院”），有一名外籍新冠肺炎确诊患者不配合治疗，并将一女护士打伤。广州白云警方立即派员到场处置。经初步调查：当天7时20分许，市八医院隔离病区女护士汪某请一外籍新冠肺炎确诊患者OKONKWONWOYE CHIKA PATRICK（男，47岁，尼日利亚籍）抽血检查，该患者不予理睬，还紧随其后试图强行走出隔离病房。护士见状立即将其阻拦，被其推倒在地殴打并咬伤脸部。经法医检查，护士汪某面部、脖颈处以及腰部都发现损伤，鉴定为轻微伤。该外籍确诊患者3月20日自境外入境广州，接受新冠病毒核酸检测呈阳性，23日被送市八医院进行隔离治疗。目前其核酸检测仍为阳性。<br>"
   - item_name: news
     content: "[崂山发布](https://weibo.com/u/2488065823?from=feed&loc=at&nick=%E5%B4%82%E5%B1%B1%E5%8F%91%E5%B8%83&is_hot=1)：针对网上反映的4月1日青岛市崂山区疾控中心核酸检测采样三名外国人现场存在插队现象的问题，目前，相关部门正在进一步调查核实。下一步，根据调查核实情况，坚持中国人、外国人一视同仁，依法依规进行处置，调查结果将及时向社会公布。<br>"
+  - item_name: news
+    content: "[中国新闻网](https://weibo.com/1784473157/IBq6YdCxR)：河南省中部的郏县于近日再次宣布封村(社区)、封小区措施，并暂停经营性场所营业，对一些企业实行停工停产。郏县疫情防控指挥部一位工作人员表示，这与当地前几天突然发现数例无症状感染病人有关。<br>"
   - item_name: group
     content: "【国际】<br>"
+  - item_name: news
+    content: "[alarabiya](https://english.alarabiya.net/en/News/middle-east/2020/04/02/Iran-s-Larijani-tests-positive-for-coronavirus-IRNA)：当地时间4月2日，伊朗议会议长阿里·拉里贾尼（Ali Larijani）新冠病毒测试呈阳性。<br>"
+  - item_name: news
+    content: "[老板联播](https://weibo.com/5994003317/IBuEkhVdh?from=page_1002065994003317_profile&wvr=6&mod=weibotime&type=comment)：美国出现了牛奶过剩，威斯康星州的奶农们被迫倾倒数十万加仑的牛奶。威斯康星州相关部门正敦促美国农业部购买剩余商品，重新分配至慈善项目。<br>"
+
+- date: 2020年4月3日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[国务院](http://www.gov.cn/zhengce/content/2020-04/03/content_5498472.htm)：2020年4月4日举行全国性哀悼活动。在此期间，全国和驻外使领馆下半旗志哀，全国停止公共娱乐活动。4月4日10时起，全国人民默哀3分钟，汽车、火车、舰船鸣笛，防空警报鸣响。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "据[约翰斯・霍普金斯大学（The Johns Hopkins University）](https://coronavirus.jhu.edu/)实时数据统计，全球确诊人数达100万，病亡人数达51000人，治愈人数达21万。<br>"
+  - item_name: news
+    content: "[Reuters](https://www.reuters.com/article/health-coronavirus-malawi-idUSL8N2BQ6ZI)：非洲东南部内陆国马拉维首次报告确诊3例新冠肺炎病例。<br>"
+  - item_name: news
+    content: "[联合早报](https://www.zaobao.com/znews/international/story20200403-1042432)：印度塔卜里格传教团中400人新冠检测呈阳性，上月曾在首都新德里举行多个活动。该教团曾在马来西亚、印尼举行大型活动。<br>"
