@@ -1777,4 +1777,17 @@
 * 据[约翰斯・霍普金斯大学（The Johns Hopkins University）](https://coronavirus.jhu.edu/)实时数据统计，全球确诊人数达100万，病亡人数达51000人，治愈人数达21万。<br>
 * [Reuters](https://www.reuters.com/article/health-coronavirus-malawi-idUSL8N2BQ6ZI)：非洲东南部内陆国马拉维首次报告确诊3例新冠肺炎病例。<br>
 * [联合早报](https://www.zaobao.com/znews/international/story20200403-1042432)：印度塔卜里格传教团中400人新冠检测呈阳性，上月曾在首都新德里举行多个活动。该教团曾在马来西亚、印尼举行大型活动。<br>
+* 美国马萨诸萨州州长[查理·贝克（Charlie Baker）](https://twitter.com/MassGovernor/status/1245873219900444674?s=20)通过好友乔纳森·克拉夫特（Jonathan Kraft），利用新英格兰爱国者橄榄球队专机从中国深圳运回120万N95口罩，其中30万将赠给纽约州。由于机内空间有限，原订购的170万口罩，剩余50万暂由腾讯公司保管，等待下次运输。<br>
+
+## 2020年4月4日
+【武汉-湖北】<br>
+* [国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202004/185a308e4c66426190da0c4f2f9ab026.shtml)：2020年4月3日0—24时，湖北新增新冠肺炎确诊病例1例，其中：武汉市1例，为无症状感染者转确诊。无境外输入病例。<br>
+
+【中国】<br>
+* 10时，全国汽车、火车、舰船鸣笛，防空警报鸣响3分钟。<br>
+
+【国际】<br>
+* [美国食品和药品管理局](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/faqs-shortages-surgical-masks-and-gowns)/FDA通过紧急授权/EUA，中国标准的KN95口罩，如果满足特定的标准允许医护人员使用。截至周五，已经授权深圳比亚迪公司生产的一种型号的口罩。<br>
+* [npr](https://www.npr.org/sections/coronavirus-live-updates/2020/04/03/826219824/president-trump-says-cdc-now-recommends-americans-wear-cloth-masks-in-public)：川普表示，美国CDC建议民众在公共场合戴口罩遮住口鼻。<br>
+* [Bloomberg](https://www.bloomberg.com/news/articles/2020-04-03/germany-and-france-blame-americans-for-playing-dirty-over-masks)：德国每日镜报（Tagesspiegel）報導，Berlin內政議長Andreas Geisel稱，購買的二十萬隻FFP2及FFP3口罩在曼谷被「沒收」。他稱其為「當代海盜行為」，認為不應被「狂野西部之道」統治。報導稱，柏林警方向美國公司3M在中國的工廠，訂購了四十萬隻口罩。其中二十萬隻在運抵曼谷轉機時被帶往美國。警長Barbara Slowik認為，這和美國的出口禁令有關。3M公司拒絕採訪，或稱不知情。另據tonline報導，美國政府不具名代表表示，否認曾沒收或挪用他國口罩。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
