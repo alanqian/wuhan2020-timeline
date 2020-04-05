@@ -1767,11 +1767,13 @@
 【国际】<br>
 * [alarabiya](https://english.alarabiya.net/en/News/middle-east/2020/04/02/Iran-s-Larijani-tests-positive-for-coronavirus-IRNA)：当地时间4月2日，伊朗议会议长阿里·拉里贾尼（Ali Larijani）新冠病毒测试呈阳性。<br>
 * [老板联播](https://weibo.com/5994003317/IBuEkhVdh?from=page_1002065994003317_profile&wvr=6&mod=weibotime&type=comment)：美国出现了牛奶过剩，威斯康星州的奶农们被迫倾倒数十万加仑的牛奶。威斯康星州相关部门正敦促美国农业部购买剩余商品，重新分配至慈善项目。<br>
+* [以色列国土报-Haaretz](https://www.haaretz.com/israel-news/.premium-israel-health-minister-wife-diagnosed-with-coronavirus-mossad-chief-national-security-1.8732927)：以色列卫生部长 Yaakov Litzman 新冠检测呈阳性。多名官员隔离观察。<br>
 
 ## 2020年4月3日
 【武汉-湖北】<br>
 【中国】<br>
 * [国务院](http://www.gov.cn/zhengce/content/2020-04/03/content_5498472.htm)：2020年4月4日举行全国性哀悼活动。在此期间，全国和驻外使领馆下半旗志哀，全国停止公共娱乐活动。4月4日10时起，全国人民默哀3分钟，汽车、火车、舰船鸣笛，防空警报鸣响。<br>
+* [国家药监局](http://www.nmpa.gov.cn/WS04/CL2056/376275.html)召开全面加强疫情防控医疗器械出口质量监管工作专题电视电话会议。会议指出，对未在我国取得医疗器械注册证书及生产许可证书、或者未办理医疗器械产品备案及生产备案的企业，一律不得出具出口销售证明。凡是有证据表明出口产品质量存在问题的，要立即停产、整顿，并查清问题。问题未查实，责任未分清的，不得恢复生产、经营。<br>
 
 【国际】<br>
 * 据[约翰斯・霍普金斯大学（The Johns Hopkins University）](https://coronavirus.jhu.edu/)实时数据统计，全球确诊人数达100万，病亡人数达51000人，治愈人数达21万。<br>
@@ -1785,8 +1787,23 @@
 
 【中国】<br>
 * 10时，全国汽车、火车、舰船鸣笛，防空警报鸣响3分钟。<br>
+* [中国商飞公司](https://mp.weixin.qq.com/s/fuD224iowgWO2cFiI-OafA)：180名在英小留学生乘坐东方航空的临时航班到达山东济南遥墙机场。<br>
 
 【国际】<br>
 * [美国食品和药品管理局](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/faqs-shortages-surgical-masks-and-gowns)/FDA通过紧急授权/EUA，中国标准的KN95口罩，如果满足特定的标准允许医护人员使用。截至周五，已经授权深圳比亚迪公司生产的一种型号的口罩。<br>
 * [npr](https://www.npr.org/sections/coronavirus-live-updates/2020/04/03/826219824/president-trump-says-cdc-now-recommends-americans-wear-cloth-masks-in-public)：川普表示，美国CDC建议民众在公共场合戴口罩遮住口鼻。<br>
 * [Bloomberg](https://www.bloomberg.com/news/articles/2020-04-03/germany-and-france-blame-americans-for-playing-dirty-over-masks)：德国每日镜报（Tagesspiegel）報導，Berlin內政議長Andreas Geisel稱，購買的二十萬隻FFP2及FFP3口罩在曼谷被「沒收」。他稱其為「當代海盜行為」，認為不應被「狂野西部之道」統治。報導稱，柏林警方向美國公司3M在中國的工廠，訂購了四十萬隻口罩。其中二十萬隻在運抵曼谷轉機時被帶往美國。警長Barbara Slowik認為，這和美國的出口禁令有關。3M公司拒絕採訪，或稱不知情。另據tonline報導，美國政府不具名代表表示，否認曾沒收或挪用他國口罩。<br>
+* [国会山报](https://thehill.com/homenews/state-watch/490783-residents-in-texas-city-can-face-1000-fine-for-not-wearing-some-form-of)：得克萨斯州拉雷多（Laredo）市议会要求民众进入公共场所需要佩戴口罩。<br>
+
+
+## 2020年4月5日
+【武汉-湖北】<br>
+
+【中国】<br>
+* [国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202004/4f4e36d54fc941d48f6ce6554514075e.shtml)：4月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例30例，其中25例为境外输入病例，5例为本土病例（广东5例）；新增死亡病例3例（湖北3例）；新增疑似病例11例，均为境外输入病例。31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者47例,其中境外输入无症状感染者16例；当日转为确诊病例3例（境外输入3例）；当日解除医学观察50例（境外输入8例）。尚在医学观察无症状感染者1024例（境外输入244例）。<br>
+* [台湾卫福部](https://www.cdc.gov.tw/)：台湾新增确诊7例，累计确诊355例。<br>
+* [山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202004/t20200405_3064769.html)：山东新增英国输入确诊1例，现存确诊17例，均为境外输入。无新增无症状感染者，正在隔离观察无症状感染者12例，其中境外11例。目前尚有1373人接受医学观察。<br>
+* [黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8182/navid/42/id/3)：黑龙江新增境外输入确诊[13例](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8183/navid/42/stypeid/)，现存确诊22例，新增境外输入无症状感染者12例，现存无症状感染者39例。目前尚有506人接受医学观察。<br>
+* [中国新闻网](https://weibo.com/1784473157/IBUbY9Pmx?ref=collection&type=comment#_rnd1586074998527)：据山东大学齐鲁医院官方网站消息：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，于3月21日随山东第一批医疗队员离鄂返回济南，按规定集中隔离医学观察14天。期间三次核酸检测均为阴性，于4月4日下午5点隔离期满，拟于5日上午返家休息。5日早上7点突发心脏骤停，目前，医院正在全力组织抢救。<br>
+
+【国际】<br>
