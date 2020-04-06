@@ -1798,12 +1798,26 @@
 
 ## 2020年4月5日
 【武汉-湖北】<br>
+* [湖北卫健委](http://wjw.hubei.gov.cn/fbjd/dtyw/202004/t20200405_2205795.shtml)：湖北4月4日新增无症状感染者 23 例，无新增确诊病例，新增病亡 3 例，现存无症状感染者 715 例，现存确诊 648 例，累计确诊 67803 例，累计病亡 3210 例。<br>
 
 【中国】<br>
 * [国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202004/4f4e36d54fc941d48f6ce6554514075e.shtml)：4月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例30例，其中25例为境外输入病例，5例为本土病例（广东5例）；新增死亡病例3例（湖北3例）；新增疑似病例11例，均为境外输入病例。31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者47例,其中境外输入无症状感染者16例；当日转为确诊病例3例（境外输入3例）；当日解除医学观察50例（境外输入8例）。尚在医学观察无症状感染者1024例（境外输入244例）。<br>
 * [台湾卫福部](https://www.cdc.gov.tw/)：台湾新增确诊7例，累计确诊355例。<br>
 * [山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202004/t20200405_3064769.html)：山东新增英国输入确诊1例，现存确诊17例，均为境外输入。无新增无症状感染者，正在隔离观察无症状感染者12例，其中境外11例。目前尚有1373人接受医学观察。<br>
 * [黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8182/navid/42/id/3)：黑龙江新增境外输入确诊[13例](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8183/navid/42/stypeid/)，现存确诊22例，新增境外输入无症状感染者12例，现存无症状感染者39例。目前尚有506人接受医学观察。<br>
+* [健康广东](https://weibo.com/1962787713/IBSBFATid)：广东新增境外输入确诊3例，新增境外输入关联5例，现存确诊129例，累计确诊1524例，新增无症状感染者2例，现存无症状感染者，深圳市 21 例，广州市2例。<br>
 * [中国新闻网](https://weibo.com/1784473157/IBUbY9Pmx?ref=collection&type=comment#_rnd1586074998527)：据山东大学齐鲁医院官方网站消息：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，于3月21日随山东第一批医疗队员离鄂返回济南，按规定集中隔离医学观察14天。期间三次核酸检测均为阴性，于4月4日下午5点隔离期满，拟于5日上午返家休息。5日早上7点突发心脏骤停，目前，医院正在全力组织抢救。<br>
 
 【国际】<br>
+* [央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMm1VbuAD2jzyVAuzyCSD200405&fromapp=cctvnews&version=804&version=804&allow_comment=1)：南苏丹确诊首例新冠肺炎患者。<br>
+
+## 2020年4月6日
+【武汉-湖北】<br>
+
+【中国】<br>
+* [国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202004/bbaa7ee15b214fef9b6d2c90d75e8547.shtml)：4月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例39例，其中38例为境外输入病例，1例为本土病例（广东1例）；新增死亡病例1例（湖北1例）；新增疑似病例10例，均为境外输入病例。31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者78例,其中境外输入无症状感染者40例；尚在医学观察无症状感染者1047例（境外输入275例）。<br>
+
+【国际】<br>
+* 英国女王[伊丽莎白二世](https://twitter.com/RoyalFamily/status/1246875266334539777?s=20)发表电视讲话，敦促英国人“自律” “坚强”。<br>
+* [BBC](https://www.bbc.com/news/uk-52177125)：英国首相鲍里斯・约翰逊（Boris Johnson）由于持续的症状，在医师的建议下入院接受检测。<br>
+* [巴西环球网](https://oglobo.globo.com/rio/rocinha-registra-os-primeiros-quatro-casos-de-coronavirus-duas-mortes-seguem-sob-suspeita-2435299)：巴西里约热内卢（Rio de Janeiro）罗西尼亚棚屋区（Rocinha Favela）首次报告4例感染者，另有2名长者疑似死于新冠。据统计该社区大约有25万人。<br>
