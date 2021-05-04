@@ -142,3 +142,4 @@ pr的友邻一定要注意严格按照上述体例编写，不然时间线会显
 * [知识分子 | 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
 * [纽约华人资讯网：武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
 
+### 美国开放领事馆
